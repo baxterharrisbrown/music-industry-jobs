@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Music Industry Jobs — Graduate-level roles across music, tech & business</title>
+  <meta name="description" content="Aggregated job listings from top music companies. Curated for MBA, MS Finance, MS Marketing, and MS Accounting graduates.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@600;700;800&family=DM+Sans:wght@300;400;500&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="site-header">
+    <div class="container">
+      <h1 class="site-header__title">Music Industry <span>Jobs</span></h1>
+      <p class="site-header__tagline">Graduate-level roles across music, technology & business</p>
+    </div>
+  </header>
+
+  <!-- Filter Bar -->
+  <nav class="filter-bar" aria-label="Job filters">
+    <div class="container">
+      <div class="filter-bar__inner">
+
+        <!-- Search -->
+        <input type="text" id="filter-search" placeholder="Search title, company, location…" aria-label="Search jobs">
+
+        <!-- Function dropdown -->
+        <select id="filter-function" aria-label="Filter by function">
+          <option value="">All Functions</option>
+          <option value="Finance & Accounting">Finance & Accounting</option>
+          <option value="Strategy & Biz Dev">Strategy & Biz Dev</option>
+          <option value="Marketing">Marketing</option>
+          <option value="Operations">Operations</option>
+          <option value="Analytics & Data">Analytics & Data</option>
+          <option value="Legal & Business Affairs">Legal & Business Affairs</option>
+          <option value="Technology & Product">Technology & Product</option>
+          <option value="Artist & Label Services">Artist & Label Services</option>
+          <option value="People & Talent">People & Talent</option>
+        </select>
+
+        <!-- Company dropdown -->
+        <select id="filter-company" aria-label="Filter by company">
+          <option value="">All Companies</option>
+        </select>
+
+        <!-- Seniority pills -->
+        <div class="seniority-pills" role="group" aria-label="Filter by seniority">
+          <button class="seniority-pill seniority-pill--active" data-seniority="">All</button>
+          <button class="seniority-pill" data-seniority="Intern">Intern</button>
+          <button class="seniority-pill" data-seniority="Entry/Associate">Entry & Associate</button>
+          <button class="seniority-pill" data-seniority="Manager/Senior">Manager & Senior</button>
+          <button class="seniority-pill" data-seniority="Director+">Director+</button>
+        </div>
+
+        <!-- Location filter -->
+        <input type="text" id="filter-location" placeholder="Filter by city or state…" aria-label="Filter by location">
+
+        <!-- Remote only -->
+        <label class="remote-check">
+          <input type="checkbox" id="filter-remote">
+          Remote only
+        </label>
+
+        <!-- MBA toggle -->
+        <div class="mba-toggle mba-toggle--active" id="mba-toggle" role="switch" aria-checked="true" tabindex="0" aria-label="Toggle grad-relevant roles filter">
+          <div class="mba-toggle__switch"></div>
+          <span class="mba-toggle__label">Grad-relevant only</span>
+        </div>
+
+      </div>
+    </div>
+  </nav>
+
+  <!-- Status -->
+  <div class="container">
+    <p class="status-line" id="status-line">Loading jobs\u2026</p>
+  </div>
+
+  <!-- Jobs Grid -->
+  <main class="container">
+    <div class="jobs-grid" id="jobs-grid"></div>
+  </main>
+
+  <!-- Tier 2 / Discovery -->
+  <section class="tier2-section">
+    <div class="container">
+      <h2 class="tier2-section__title">More opportunities</h2>
+      <p class="tier2-section__subtitle">Browse these career pages directly — they don't have public APIs but are worth checking regularly.</p>
+      <div class="tier2-grid" id="tier2-grid"></div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container">
+      <p>Music Industry Jobs &mdash; a portfolio project by <a href="https://github.com/baxterharrisbrown/" target="_blank" rel="noopener noreferrer">Baxter Brown</a></p>
+      <p>Data sourced from public Greenhouse &amp; Lever APIs. Updated daily via GitHub Actions.</p>
+    </div>
+  </footer>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>
