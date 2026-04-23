@@ -20,6 +20,41 @@ const TIER1_COMPANIES = [
     board_token: "soundexchangeinc",   // Fixed: was "soundexchange" (404)
     category: "Rights & Royalties"
   },
+  {
+    id: "downtown_music",
+    name: "Downtown Music",
+    ats: "greenhouse",
+    board_token: "downtownmusic",
+    category: "Publishing / Rights"
+  },
+  {
+    id: "udio",
+    name: "Udio",
+    ats: "greenhouse",
+    board_token: "udio",
+    category: "Music Tech"
+  },
+  {
+    id: "yousician",
+    name: "Yousician",
+    ats: "greenhouse",
+    board_token: "yousician",
+    category: "Music Tech"
+  },
+  {
+    id: "unitedmasters",
+    name: "UnitedMasters",
+    ats: "greenhouse",
+    board_token: "unitedmasterstranslation",
+    category: "Music Tech"
+  },
+  {
+    id: "splice",
+    name: "Splice",
+    ats: "greenhouse",
+    board_token: "splice",
+    category: "Music Tech"
+  },
   // ✅ Verified Lever
   {
     id: "spotify",
@@ -34,6 +69,13 @@ const TIER1_COMPANIES = [
     ats: "lever",
     board_token: "wmg",
     category: "Major Label"
+  },
+  {
+    id: "vevo",
+    name: "Vevo",
+    ats: "lever",
+    board_token: "vevo",
+    category: "Music Tech"
   }
 ];
 

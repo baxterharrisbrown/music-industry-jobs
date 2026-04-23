@@ -24,6 +24,57 @@ export const companies = [
     logo_initial: "S"
   },
 
+  {
+    id: "downtown_music",
+    name: "Downtown Music",
+    tier: 1,
+    ats: "greenhouse",
+    board_token: "downtownmusic",           // ✅ Verified — 4 jobs
+    careers_url: "https://job-boards.greenhouse.io/downtownmusic",
+    category: "Publishing / Rights",
+    logo_initial: "D"
+  },
+  {
+    id: "udio",
+    name: "Udio",
+    tier: 1,
+    ats: "greenhouse",
+    board_token: "udio",                    // ✅ Verified — 5 jobs
+    careers_url: "https://job-boards.greenhouse.io/udio",
+    category: "Music Tech",
+    logo_initial: "U"
+  },
+  {
+    id: "yousician",
+    name: "Yousician",
+    tier: 1,
+    ats: "greenhouse",
+    board_token: "yousician",              // ✅ Verified — 7 jobs
+    careers_url: "https://job-boards.greenhouse.io/yousician",
+    category: "Music Tech",
+    logo_initial: "Y"
+  },
+  {
+    id: "unitedmasters",
+    name: "UnitedMasters",
+    tier: 1,
+    ats: "greenhouse",
+    board_token: "unitedmasterstranslation", // ✅ Verified — 15 jobs
+    careers_url: "https://job-boards.greenhouse.io/unitedmasterstranslation",
+    category: "Music Tech",
+    logo_initial: "U"
+  },
+  {
+    id: "splice",
+    name: "Splice",
+    tier: 1,
+    ats: "greenhouse",
+    board_token: "splice",                  // ✅ Verified — 2 jobs
+    careers_url: "https://job-boards.greenhouse.io/splice",
+    category: "Music Tech",
+    logo_initial: "S"
+  },
+
   // ─── TIER 1 — LEVER ───────────────────────────────────────────────────────
   {
     id: "spotify",
@@ -44,6 +95,16 @@ export const companies = [
     careers_url: "https://www.wmg.com/careers",
     category: "Major Label",
     logo_initial: "W"
+  },
+  {
+    id: "vevo",
+    name: "Vevo",
+    tier: 1,
+    ats: "lever",
+    board_token: "vevo",                    // ✅ Verified — 5 jobs
+    careers_url: "https://jobs.lever.co/vevo",
+    category: "Music Tech",
+    logo_initial: "V"
   },
 
   // ─── TIER 2 — WORKDAY (static links only) ─────────────────────────────────
