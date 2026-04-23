@@ -157,8 +157,13 @@ export const discoveryLinks = [
     category: "Industry Job Board"
   },
   {
-    name: "Variety Careers",
-    url: "https://variety.com/c/careers/",
+    name: "ROSTR Music Industry Jobs",
+    url: "https://jobs.rostr.cc/",
+    category: "Industry Job Board"
+  },
+  {
+    name: "Doors Open — Music Careers",
+    url: "https://www.doorsopen.co/",
     category: "Industry Job Board"
   }
 ];
