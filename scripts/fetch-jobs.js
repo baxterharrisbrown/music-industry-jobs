@@ -5,6 +5,7 @@
 
 // ─── Inline company data (avoids ESM import issues in Actions) ───
 const TIER1_COMPANIES = [
+  // ✅ Verified Greenhouse
   {
     id: "sony_music",
     name: "Sony Music Entertainment",
@@ -13,40 +14,13 @@ const TIER1_COMPANIES = [
     category: "Major Label"
   },
   {
-    id: "concord_music",
-    name: "Concord Music",
-    ats: "greenhouse",
-    board_token: "concordmusicgroup", // UNVERIFIED
-    category: "Major Label"
-  },
-  {
-    id: "kobalt_music",
-    name: "Kobalt Music",
-    ats: "greenhouse",
-    board_token: "kobalt", // UNVERIFIED
-    category: "Publishing / Rights"
-  },
-  {
     id: "soundexchange",
     name: "SoundExchange",
     ats: "greenhouse",
-    board_token: "soundexchange", // UNVERIFIED
+    board_token: "soundexchangeinc",   // Fixed: was "soundexchange" (404)
     category: "Rights & Royalties"
   },
-  {
-    id: "pandora",
-    name: "Pandora",
-    ats: "greenhouse",
-    board_token: "pandora", // UNVERIFIED
-    category: "Streaming"
-  },
-  {
-    id: "siriusxm",
-    name: "SiriusXM",
-    ats: "greenhouse",
-    board_token: "siriusxm", // UNVERIFIED
-    category: "Streaming"
-  },
+  // ✅ Verified Lever
   {
     id: "spotify",
     name: "Spotify",
@@ -60,20 +34,6 @@ const TIER1_COMPANIES = [
     ats: "lever",
     board_token: "wmg",
     category: "Major Label"
-  },
-  {
-    id: "beatport",
-    name: "Beatport",
-    ats: "lever",
-    board_token: "beatport", // UNVERIFIED
-    category: "Music Tech"
-  },
-  {
-    id: "bandsintown",
-    name: "Bandsintown",
-    ats: "lever",
-    board_token: "bandsintown", // UNVERIFIED
-    category: "Music Tech"
   }
 ];
 
