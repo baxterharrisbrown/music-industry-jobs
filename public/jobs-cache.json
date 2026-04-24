@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T17:48:04.204Z",
-  "total": 392,
+  "generated_at": "2026-04-24T09:03:23.435Z",
+  "total": 390,
   "jobs": [
     {
       "id": "greenhouse_8479015002",
@@ -1054,28 +1054,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8339638002",
-      "title": "Director, Catalogue",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "Australia & New Zealand, Australia, Sydney",
-      "location_normalized": "Australia & New Zealand, Australia, Sydney",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "SME Australia",
-      "posted_at": "2026-04-15T16:14:10-04:00",
-      "updated_at": "2026-04-15T16:14:10-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8339638002",
-      "source": "greenhouse",
-      "seniority": "Director",
-      "functions": [],
-      "is_grad_relevant": false
-    },
-    {
       "id": "greenhouse_8393126002",
       "title": "Director, Commercial Strategy - The Orchard / Independent",
       "company": "Sony Music Entertainment",
@@ -1776,7 +1754,7 @@
     },
     {
       "id": "greenhouse_8516353002",
-      "title": "Junior Manager (m/w/d) Commercial Partnerships - Commercial Sales",
+      "title": "Junior Manager (m/w/d) Commercial Partnerships",
       "company": "Sony Music Entertainment",
       "company_id": "sony_music",
       "category": "Major Label",
@@ -1788,8 +1766,8 @@
       "salary_text": null,
       "salary_currency": "USD",
       "department": "SME Germany",
-      "posted_at": "2026-04-21T08:09:19-04:00",
-      "updated_at": "2026-04-21T08:09:19-04:00",
+      "posted_at": "2026-04-24T01:19:50-04:00",
+      "updated_at": "2026-04-24T01:19:50-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8516353002",
       "source": "greenhouse",
       "seniority": "Manager/Senior",
@@ -2013,30 +1991,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8485277002",
-      "title": "Manager, Channel Strategy - Kids & Family- The Orchard",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, California, Los Angeles",
-      "location_normalized": "United States, California, Los Angeles",
-      "is_remote": false,
-      "salary_min": 70000,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "The Orchard",
-      "posted_at": "2026-04-15T16:14:10-04:00",
-      "updated_at": "2026-04-15T16:14:10-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8485277002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Strategy & Biz Dev"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "greenhouse_8482985002",
       "title": "Manager, Channel Strategy - Kids & Family- The Orchard",
       "company": "Sony Music Entertainment",
@@ -2053,6 +2007,30 @@
       "posted_at": "2026-04-15T16:14:10-04:00",
       "updated_at": "2026-04-15T16:14:10-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8482985002",
+      "source": "greenhouse",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Strategy & Biz Dev"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8485277002",
+      "title": "Manager, Channel Strategy - Kids & Family- The Orchard",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "United States, California, Los Angeles",
+      "location_normalized": "United States, California, Los Angeles",
+      "is_remote": false,
+      "salary_min": 70000,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "The Orchard",
+      "posted_at": "2026-04-15T16:14:10-04:00",
+      "updated_at": "2026-04-15T16:14:10-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8485277002",
       "source": "greenhouse",
       "seniority": "Manager/Senior",
       "functions": [
@@ -2927,7 +2905,7 @@
     },
     {
       "id": "greenhouse_8516369002",
-      "title": "(Senior) Manager (m/w/d) Commercial Partnerships - Commercial Sales",
+      "title": "(Senior) Manager (m/w/d) Commercial Partnerships",
       "company": "Sony Music Entertainment",
       "company_id": "sony_music",
       "category": "Major Label",
@@ -2939,8 +2917,8 @@
       "salary_text": null,
       "salary_currency": "USD",
       "department": "SME Germany",
-      "posted_at": "2026-04-21T08:09:40-04:00",
-      "updated_at": "2026-04-21T08:09:40-04:00",
+      "posted_at": "2026-04-24T01:27:24-04:00",
+      "updated_at": "2026-04-24T01:27:24-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8516369002",
       "source": "greenhouse",
       "seniority": "Manager/Senior",
@@ -7275,30 +7253,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "lever_88688e56-e075-4151-b63b-f58ecaa79752",
-      "title": "Senior Analyst, Global Rights and Clearances, APAC",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "Sydney",
-      "location_normalized": "Sydney",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Music",
-      "posted_at": "2026-03-09T10:38:59.178Z",
-      "updated_at": "2026-03-09T10:38:59.178Z",
-      "apply_url": "https://jobs.lever.co/spotify/88688e56-e075-4151-b63b-f58ecaa79752",
-      "source": "lever",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Legal & Business Affairs"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "lever_97528686-2b62-4b63-b451-1a72a0ad1e1e",
       "title": "Senior Analyst, Yield Strategy, APAC",
       "company": "Spotify",
@@ -9190,7 +9144,7 @@
     },
     {
       "id": "lever_98870044-8f8f-45ce-b7cf-07a302837d5d",
-      "title": "Account Executive - WPP Portfolio",
+      "title": "Account Executive - Major Holdcos",
       "company": "Vevo",
       "company_id": "vevo",
       "category": "Music Tech",
