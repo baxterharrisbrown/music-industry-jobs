@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T08:17:56.635Z",
-  "total": 399,
+  "generated_at": "2026-04-27T09:23:35.696Z",
+  "total": 402,
   "jobs": [
     {
       "id": "greenhouse_8479015002",
@@ -2156,6 +2156,28 @@
       "is_grad_relevant": true
     },
     {
+      "id": "greenhouse_8522205002",
+      "title": "Manager, International Repertoire ",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "Asia, Korea, Seoul",
+      "location_normalized": "Asia, Korea, Seoul",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "SME Korea",
+      "posted_at": "2026-04-27T02:32:09-04:00",
+      "updated_at": "2026-04-27T02:32:09-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8522205002",
+      "source": "greenhouse",
+      "seniority": "Manager/Senior",
+      "functions": [],
+      "is_grad_relevant": false
+    },
+    {
       "id": "greenhouse_8450180002",
       "title": "Manager, IT, Andean Region",
       "company": "Sony Music Entertainment",
@@ -3942,30 +3964,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8433020002",
-      "title": "Product Manager (Execution & Delivery)",
-      "company": "Yousician",
-      "company_id": "yousician",
-      "category": "Music Tech",
-      "location": "Helsinki",
-      "location_normalized": "Helsinki",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Product",
-      "posted_at": "2026-03-18T01:00:45-04:00",
-      "updated_at": "2026-03-18T01:00:45-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/yousician/jobs/8433020002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Technology & Product"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "greenhouse_8444043002",
       "title": "Senior HR Manager ",
       "company": "Yousician",
@@ -5323,6 +5321,28 @@
       "is_grad_relevant": false
     },
     {
+      "id": "lever_db7b1230-a122-4449-94ad-22664e55a7c0",
+      "title": "Client Partner, 12 Month Fixed Term - Germany",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "Berlin",
+      "location_normalized": "Berlin",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Advertising Sales - Enterprise",
+      "posted_at": "2026-04-24T07:49:53.561Z",
+      "updated_at": "2026-04-24T07:49:53.561Z",
+      "apply_url": "https://jobs.lever.co/spotify/db7b1230-a122-4449-94ad-22664e55a7c0",
+      "source": "lever",
+      "seniority": null,
+      "functions": [],
+      "is_grad_relevant": false
+    },
+    {
       "id": "lever_160f4f23-57a4-42b4-a538-2c5fb9997253",
       "title": "Communications Lead, AUNZ",
       "company": "Spotify",
@@ -5545,6 +5565,31 @@
       "functions": [
         "Finance & Accounting",
         "Analytics & Data"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "lever_56300df8-a614-4b75-bed7-5b6da38218ec",
+      "title": "Data Science Manager, Music Recommendations",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "New York, NY",
+      "location_normalized": "New York, NY",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Music",
+      "posted_at": "2026-04-24T11:20:48.796Z",
+      "updated_at": "2026-04-24T11:20:48.796Z",
+      "apply_url": "https://jobs.lever.co/spotify/56300df8-a614-4b75-bed7-5b6da38218ec",
+      "source": "lever",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Analytics & Data",
+        "Technology & Product"
       ],
       "is_grad_relevant": true
     },
@@ -5795,6 +5840,30 @@
       "seniority": "Manager/Senior",
       "functions": [],
       "is_grad_relevant": false
+    },
+    {
+      "id": "lever_fb7929b7-73b8-43fc-b6a0-888e96722617",
+      "title": "Director of Engineering, Experience",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "Stockholm",
+      "location_normalized": "Stockholm",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Experience",
+      "posted_at": "2026-04-24T12:28:16.992Z",
+      "updated_at": "2026-04-24T12:28:16.992Z",
+      "apply_url": "https://jobs.lever.co/spotify/fb7929b7-73b8-43fc-b6a0-888e96722617",
+      "source": "lever",
+      "seniority": "Director",
+      "functions": [
+        "Technology & Product"
+      ],
+      "is_grad_relevant": true
     },
     {
       "id": "lever_0eb478c8-b3e5-4722-91a1-dfbb1740d0fc",
