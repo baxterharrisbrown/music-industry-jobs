@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T09:19:40.446Z",
-  "total": 410,
+  "generated_at": "2026-05-01T09:04:36.707Z",
+  "total": 411,
   "jobs": [
     {
       "id": "greenhouse_8479015002",
@@ -62,8 +62,8 @@
       "salary_text": null,
       "salary_currency": "USD",
       "department": "Epic Frontline",
-      "posted_at": "2026-04-15T16:14:10-04:00",
-      "updated_at": "2026-04-15T16:14:10-04:00",
+      "posted_at": "2026-04-30T20:42:46-04:00",
+      "updated_at": "2026-04-30T20:42:46-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8219411002",
       "source": "greenhouse",
       "seniority": "Entry/Associate",
@@ -367,31 +367,6 @@
       "seniority": "Director",
       "functions": [
         "Marketing"
-      ],
-      "is_grad_relevant": true
-    },
-    {
-      "id": "greenhouse_8427389002",
-      "title": "Associate Director/Director, A&R Research - JIVE Records",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, New York, New York",
-      "location_normalized": "United States, New York, New York",
-      "is_remote": false,
-      "salary_min": 80000,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "RCA Records",
-      "posted_at": "2026-04-15T16:14:10-04:00",
-      "updated_at": "2026-04-15T16:14:10-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8427389002",
-      "source": "greenhouse",
-      "seniority": "Director",
-      "functions": [
-        "Analytics & Data",
-        "Artist & Label Services"
       ],
       "is_grad_relevant": true
     },
@@ -867,28 +842,26 @@
       "is_grad_relevant": false
     },
     {
-      "id": "greenhouse_8503793002",
-      "title": "Data Analyst",
+      "id": "greenhouse_8519027002",
+      "title": "Cyber Security Testing Analyst",
       "company": "Sony Music Entertainment",
       "company_id": "sony_music",
       "category": "Major Label",
-      "location": "Europe, Poland, Warsaw",
-      "location_normalized": "Europe, Poland, Warsaw",
+      "location": "United States, New York, New York",
+      "location_normalized": "United States, New York, New York",
       "is_remote": false,
-      "salary_min": null,
+      "salary_min": 100000,
       "salary_max": null,
       "salary_text": null,
       "salary_currency": "USD",
-      "department": "SME Poland",
-      "posted_at": "2026-04-15T16:14:10-04:00",
-      "updated_at": "2026-04-15T16:14:10-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8503793002",
+      "department": "Global Information Security",
+      "posted_at": "2026-04-30T11:19:17-04:00",
+      "updated_at": "2026-04-30T11:19:17-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8519027002",
       "source": "greenhouse",
       "seniority": "Entry/Associate",
-      "functions": [
-        "Analytics & Data"
-      ],
-      "is_grad_relevant": true
+      "functions": [],
+      "is_grad_relevant": false
     },
     {
       "id": "greenhouse_8524900002",
@@ -1295,28 +1268,26 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8477428002",
-      "title": "Estágio em Business Affairs (Jurídico) | Exclusivo para Estudantes Negros",
+      "id": "greenhouse_8531173002",
+      "title": "Environmental Social Governance Specialist",
       "company": "Sony Music Entertainment",
       "company_id": "sony_music",
       "category": "Major Label",
-      "location": "Latin America, Brazil, Rio de Janeiro",
-      "location_normalized": "Latin America, Brazil, Rio de Janeiro",
+      "location": "United States, California, Los Angeles",
+      "location_normalized": "United States, California, Los Angeles",
       "is_remote": false,
-      "salary_min": null,
+      "salary_min": 70304,
       "salary_max": null,
       "salary_text": null,
       "salary_currency": "USD",
-      "department": "SME Brazil",
-      "posted_at": "2026-04-15T16:14:10-04:00",
-      "updated_at": "2026-04-15T16:14:10-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8477428002",
+      "department": "Philanthropy, Social Impact and Environment",
+      "posted_at": "2026-04-30T17:53:49-04:00",
+      "updated_at": "2026-04-30T17:53:49-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8531173002",
       "source": "greenhouse",
-      "seniority": null,
-      "functions": [
-        "Legal & Business Affairs"
-      ],
-      "is_grad_relevant": true
+      "seniority": "Manager/Senior",
+      "functions": [],
+      "is_grad_relevant": false
     },
     {
       "id": "greenhouse_8477355002",
@@ -2390,6 +2361,30 @@
       "is_grad_relevant": true
     },
     {
+      "id": "greenhouse_8498389002",
+      "title": "Marketing Intern- OVO Sound",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "Canada, Ontario, Toronto",
+      "location_normalized": "Canada, Ontario, Toronto",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "OVO Sound",
+      "posted_at": "2026-04-30T19:06:34-04:00",
+      "updated_at": "2026-04-30T19:06:34-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8498389002",
+      "source": "greenhouse",
+      "seniority": "Intern",
+      "functions": [
+        "Marketing"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "greenhouse_8490652002",
       "title": "Marketing Manager, Canada - The Orchard",
       "company": "Sony Music Entertainment",
@@ -2809,8 +2804,8 @@
       "salary_text": null,
       "salary_currency": "USD",
       "department": "The Orchard",
-      "posted_at": "2026-04-15T16:14:10-04:00",
-      "updated_at": "2026-04-15T16:14:10-04:00",
+      "posted_at": "2026-04-30T14:12:37-04:00",
+      "updated_at": "2026-04-30T14:12:37-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8500545002",
       "source": "greenhouse",
       "seniority": "Manager/Senior",
@@ -3662,30 +3657,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_5081723007",
-      "title": "Manager, International Member Relations ",
-      "company": "SoundExchange",
-      "company_id": "soundexchange",
-      "category": "Rights & Royalties",
-      "location": "United States",
-      "location_normalized": "United States",
-      "is_remote": false,
-      "salary_min": 95000,
-      "salary_max": 114000,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "International Operations",
-      "posted_at": "2026-04-16T18:08:23-04:00",
-      "updated_at": "2026-04-16T18:08:23-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/soundexchangeinc/jobs/5081723007",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Operations"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "greenhouse_8493630002",
       "title": "Business Affairs Associate",
       "company": "Downtown Music",
@@ -4333,30 +4304,6 @@
       "seniority": "VP/Executive",
       "functions": [
         "Marketing"
-      ],
-      "is_grad_relevant": true
-    },
-    {
-      "id": "greenhouse_8324258002",
-      "title": "VP, Artist & Label Operations",
-      "company": "UnitedMasters",
-      "company_id": "unitedmasters",
-      "category": "Music Tech",
-      "location": "Brooklyn, New York",
-      "location_normalized": "Brooklyn, New York",
-      "is_remote": false,
-      "salary_min": 175000,
-      "salary_max": 220000,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Artist Services",
-      "posted_at": "2026-04-27T15:26:46-04:00",
-      "updated_at": "2026-04-27T15:26:46-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/unitedmasterstranslation/jobs/8324258002",
-      "source": "greenhouse",
-      "seniority": "VP/Executive",
-      "functions": [
-        "Operations"
       ],
       "is_grad_relevant": true
     },
@@ -5395,6 +5342,55 @@
       "is_grad_relevant": true
     },
     {
+      "id": "lever_87ac8be9-799d-414f-b855-70a1cf2729b4",
+      "title": "Data Engineer - Gen AI - Music",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "New York, NY",
+      "location_normalized": "New York, NY",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Music",
+      "posted_at": "2025-12-09T16:02:19.950Z",
+      "updated_at": "2025-12-09T16:02:19.950Z",
+      "apply_url": "https://jobs.lever.co/spotify/87ac8be9-799d-414f-b855-70a1cf2729b4",
+      "source": "lever",
+      "seniority": null,
+      "functions": [
+        "Analytics & Data"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "lever_4303f795-d0a5-41ed-8c78-0941780b6e54",
+      "title": "Data Engineer – Platform",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "Toronto",
+      "location_normalized": "Toronto",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Platform",
+      "posted_at": "2026-04-20T19:31:08.951Z",
+      "updated_at": "2026-04-20T19:31:08.951Z",
+      "apply_url": "https://jobs.lever.co/spotify/4303f795-d0a5-41ed-8c78-0941780b6e54",
+      "source": "lever",
+      "seniority": null,
+      "functions": [
+        "Analytics & Data",
+        "Technology & Product"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "lever_5d36b6f4-e89d-4a01-985c-59a184080440",
       "title": "Data Engineer I - Revenue",
       "company": "Spotify",
@@ -5441,30 +5437,6 @@
       "functions": [
         "Analytics & Data",
         "Technology & Product"
-      ],
-      "is_grad_relevant": true
-    },
-    {
-      "id": "lever_5cf8c17c-ad44-463c-9da1-9cf4739b7c4f",
-      "title": "Data Scientist - Company Planning and Execution (CPE)",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "London",
-      "location_normalized": "London",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Company Planning",
-      "posted_at": "2025-12-01T16:38:39.532Z",
-      "updated_at": "2025-12-01T16:38:39.532Z",
-      "apply_url": "https://jobs.lever.co/spotify/5cf8c17c-ad44-463c-9da1-9cf4739b7c4f",
-      "source": "lever",
-      "seniority": null,
-      "functions": [
-        "Analytics & Data"
       ],
       "is_grad_relevant": true
     },
@@ -5976,6 +5948,31 @@
       "is_grad_relevant": true
     },
     {
+      "id": "lever_fd0b87ca-dec2-4bec-8341-4911c88851b6",
+      "title": "Engineering Manager II - Analytics Platform",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "Toronto",
+      "location_normalized": "Toronto",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Platform",
+      "posted_at": "2026-04-16T13:49:22.270Z",
+      "updated_at": "2026-04-16T13:49:22.270Z",
+      "apply_url": "https://jobs.lever.co/spotify/fd0b87ca-dec2-4bec-8341-4911c88851b6",
+      "source": "lever",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Analytics & Data",
+        "Technology & Product"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "lever_d4de4dc1-7e20-4e15-965e-4c0401e47c5a",
       "title": "Engineering Manager II - Creator and Publisher Analytics",
       "company": "Spotify",
@@ -6179,30 +6176,6 @@
       "posted_at": "2026-03-13T14:27:03.686Z",
       "updated_at": "2026-03-13T14:27:03.686Z",
       "apply_url": "https://jobs.lever.co/spotify/2d1f743f-9174-413f-b824-6e426082ebeb",
-      "source": "lever",
-      "seniority": null,
-      "functions": [
-        "Technology & Product"
-      ],
-      "is_grad_relevant": true
-    },
-    {
-      "id": "lever_651491f7-cd91-49bd-93f5-eb939344463b",
-      "title": "Fullstack Engineer – Platform Developer Experience",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "New York, NY",
-      "location_normalized": "New York, NY",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Platform",
-      "posted_at": "2026-03-02T19:02:23.424Z",
-      "updated_at": "2026-03-02T19:02:23.424Z",
-      "apply_url": "https://jobs.lever.co/spotify/651491f7-cd91-49bd-93f5-eb939344463b",
       "source": "lever",
       "seniority": null,
       "functions": [
@@ -6512,6 +6485,30 @@
       "functions": [
         "Legal & Business Affairs",
         "Technology & Product"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "lever_1dbd6c89-4bd6-4970-9538-beb90e972fa8",
+      "title": "Legal Counsel, Music Publishing",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "Singapore",
+      "location_normalized": "Singapore",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Legal",
+      "posted_at": "2026-04-30T04:55:31.698Z",
+      "updated_at": "2026-04-30T04:55:31.698Z",
+      "apply_url": "https://jobs.lever.co/spotify/1dbd6c89-4bd6-4970-9538-beb90e972fa8",
+      "source": "lever",
+      "seniority": null,
+      "functions": [
+        "Legal & Business Affairs"
       ],
       "is_grad_relevant": true
     },
@@ -7341,28 +7338,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "lever_153a90f2-5762-411a-a283-5c8efae519ea",
-      "title": "Quantitative User Researcher - Music Mission",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "New York, NY",
-      "location_normalized": "New York, NY",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Music",
-      "posted_at": "2025-12-08T03:55:40.260Z",
-      "updated_at": "2025-12-08T03:55:40.260Z",
-      "apply_url": "https://jobs.lever.co/spotify/153a90f2-5762-411a-a283-5c8efae519ea",
-      "source": "lever",
-      "seniority": null,
-      "functions": [],
-      "is_grad_relevant": false
-    },
-    {
       "id": "lever_3738dd16-b387-4daa-bed7-312b2be39418",
       "title": "Research Scientist - Music",
       "company": "Spotify",
@@ -7973,6 +7948,30 @@
       "is_grad_relevant": true
     },
     {
+      "id": "lever_b2116fac-5c9d-4f89-8753-b6c0bef1b380",
+      "title": "Senior Engineering Manager - Native Ads",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "New York, NY",
+      "location_normalized": "New York, NY",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Music",
+      "posted_at": "2026-04-30T18:28:26.596Z",
+      "updated_at": "2026-04-30T18:28:26.596Z",
+      "apply_url": "https://jobs.lever.co/spotify/b2116fac-5c9d-4f89-8753-b6c0bef1b380",
+      "source": "lever",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Technology & Product"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "lever_df494b56-c5d2-4858-a980-c082b3de65c9",
       "title": "Senior Engineering Manager - Spotify for Artists",
       "company": "Spotify",
@@ -8298,6 +8297,30 @@
         "Finance & Accounting",
         "Operations",
         "Analytics & Data"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "lever_22d93997-35ee-4d5b-ad7c-80c5344a4f78",
+      "title": "Senior Mobile Engineer - Core Infrastructure - Connectivity",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "London",
+      "location_normalized": "London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Platform",
+      "posted_at": "2026-04-17T11:30:32.010Z",
+      "updated_at": "2026-04-17T11:30:32.010Z",
+      "apply_url": "https://jobs.lever.co/spotify/22d93997-35ee-4d5b-ad7c-80c5344a4f78",
+      "source": "lever",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Technology & Product"
       ],
       "is_grad_relevant": true
     },
@@ -9103,6 +9126,31 @@
       "is_grad_relevant": false
     },
     {
+      "id": "lever_1c64d8cf-5216-480a-ae2e-2b00d9cd1f0a",
+      "title": "Forward Deployed Engineer, Data & AI",
+      "company": "Warner Music Group",
+      "company_id": "warner_music",
+      "category": "Major Label",
+      "location": "Toronto, Ontario",
+      "location_normalized": "Toronto, Ontario",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Data Platform",
+      "posted_at": "2026-04-30T20:18:14.238Z",
+      "updated_at": "2026-04-30T20:18:14.238Z",
+      "apply_url": "https://jobs.lever.co/wmg/1c64d8cf-5216-480a-ae2e-2b00d9cd1f0a",
+      "source": "lever",
+      "seniority": null,
+      "functions": [
+        "Analytics & Data",
+        "Technology & Product"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "lever_f9e1f134-407a-4483-898d-90bf272baf7b",
       "title": "OMS Application Engineer",
       "company": "Warner Music Group",
@@ -9288,30 +9336,6 @@
       "posted_at": "2026-01-14T17:25:44.356Z",
       "updated_at": "2026-01-14T17:25:44.356Z",
       "apply_url": "https://jobs.lever.co/wmg/4a5ad353-6b27-46b2-b9a0-6fde3f73c7e4",
-      "source": "lever",
-      "seniority": null,
-      "functions": [
-        "Technology & Product"
-      ],
-      "is_grad_relevant": true
-    },
-    {
-      "id": "lever_59cab713-3233-41be-a4a1-2df6ae0f8a4a",
-      "title": "Software Engineer",
-      "company": "Warner Music Group",
-      "company_id": "warner_music",
-      "category": "Major Label",
-      "location": "Toronto, Ontario",
-      "location_normalized": "Toronto, Ontario",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Software Engineering",
-      "posted_at": "2026-03-02T21:27:10.906Z",
-      "updated_at": "2026-03-02T21:27:10.906Z",
-      "apply_url": "https://jobs.lever.co/wmg/59cab713-3233-41be-a4a1-2df6ae0f8a4a",
       "source": "lever",
       "seniority": null,
       "functions": [
