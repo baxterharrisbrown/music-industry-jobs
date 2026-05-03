@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T08:23:25.664Z",
-  "total": 413,
+  "generated_at": "2026-05-03T08:50:16.821Z",
+  "total": 414,
   "jobs": [
     {
       "id": "greenhouse_8479015002",
@@ -1845,30 +1845,6 @@
       "is_grad_relevant": false
     },
     {
-      "id": "greenhouse_8459852002",
-      "title": "Manager, A&R - AWAL",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, California, Los Angeles",
-      "location_normalized": "United States, California, Los Angeles",
-      "is_remote": false,
-      "salary_min": 75000,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "AWAL",
-      "posted_at": "2026-04-15T16:14:10-04:00",
-      "updated_at": "2026-04-15T16:14:10-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8459852002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Artist & Label Services"
-      ],
-      "is_grad_relevant": false
-    },
-    {
       "id": "greenhouse_8456255002",
       "title": "Manager, A&R - AWAL",
       "company": "Sony Music Entertainment",
@@ -1885,6 +1861,30 @@
       "posted_at": "2026-04-15T16:14:10-04:00",
       "updated_at": "2026-04-15T16:14:10-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8456255002",
+      "source": "greenhouse",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Artist & Label Services"
+      ],
+      "is_grad_relevant": false
+    },
+    {
+      "id": "greenhouse_8459852002",
+      "title": "Manager, A&R - AWAL",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "United States, California, Los Angeles",
+      "location_normalized": "United States, California, Los Angeles",
+      "is_remote": false,
+      "salary_min": 75000,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "AWAL",
+      "posted_at": "2026-04-15T16:14:10-04:00",
+      "updated_at": "2026-04-15T16:14:10-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8459852002",
       "source": "greenhouse",
       "seniority": "Manager/Senior",
       "functions": [
@@ -1940,30 +1940,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8482985002",
-      "title": "Manager, Channel Strategy - Kids & Family- The Orchard",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, New York, New York",
-      "location_normalized": "United States, New York, New York",
-      "is_remote": false,
-      "salary_min": 70000,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "The Orchard",
-      "posted_at": "2026-04-15T16:14:10-04:00",
-      "updated_at": "2026-04-15T16:14:10-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8482985002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Strategy & Biz Dev"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "greenhouse_8485277002",
       "title": "Manager, Channel Strategy - Kids & Family- The Orchard",
       "company": "Sony Music Entertainment",
@@ -1980,6 +1956,30 @@
       "posted_at": "2026-04-15T16:14:10-04:00",
       "updated_at": "2026-04-15T16:14:10-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8485277002",
+      "source": "greenhouse",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Strategy & Biz Dev"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8482985002",
+      "title": "Manager, Channel Strategy - Kids & Family- The Orchard",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "United States, New York, New York",
+      "location_normalized": "United States, New York, New York",
+      "is_remote": false,
+      "salary_min": 70000,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "The Orchard",
+      "posted_at": "2026-04-15T16:14:10-04:00",
+      "updated_at": "2026-04-15T16:14:10-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8482985002",
       "source": "greenhouse",
       "seniority": "Manager/Senior",
       "functions": [
@@ -2897,6 +2897,30 @@
       "seniority": "Manager/Senior",
       "functions": [],
       "is_grad_relevant": false
+    },
+    {
+      "id": "greenhouse_8533052002",
+      "title": "Senior Manager, Finance",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "Canada, Ontario, Toronto",
+      "location_normalized": "Canada, Ontario, Toronto",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Canada Finance",
+      "posted_at": "2026-05-02T15:58:10-04:00",
+      "updated_at": "2026-05-02T15:58:10-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8533052002",
+      "source": "greenhouse",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Finance & Accounting"
+      ],
+      "is_grad_relevant": true
     },
     {
       "id": "greenhouse_8151994002",
