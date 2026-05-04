@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T08:50:16.821Z",
-  "total": 414,
+  "generated_at": "2026-05-04T09:25:06.935Z",
+  "total": 413,
   "jobs": [
     {
       "id": "greenhouse_8479015002",
@@ -930,30 +930,6 @@
       "is_grad_relevant": false
     },
     {
-      "id": "greenhouse_8456238002",
-      "title": "Director A&R - AWAL",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, New York, New York",
-      "location_normalized": "United States, New York, New York",
-      "is_remote": false,
-      "salary_min": 90000,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "AWAL",
-      "posted_at": "2026-04-15T16:14:10-04:00",
-      "updated_at": "2026-04-15T16:14:10-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8456238002",
-      "source": "greenhouse",
-      "seniority": "Director",
-      "functions": [
-        "Artist & Label Services"
-      ],
-      "is_grad_relevant": false
-    },
-    {
       "id": "greenhouse_8459858002",
       "title": "Director A&R - AWAL",
       "company": "Sony Music Entertainment",
@@ -970,6 +946,30 @@
       "posted_at": "2026-04-15T16:14:10-04:00",
       "updated_at": "2026-04-15T16:14:10-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8459858002",
+      "source": "greenhouse",
+      "seniority": "Director",
+      "functions": [
+        "Artist & Label Services"
+      ],
+      "is_grad_relevant": false
+    },
+    {
+      "id": "greenhouse_8456238002",
+      "title": "Director A&R - AWAL",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "United States, New York, New York",
+      "location_normalized": "United States, New York, New York",
+      "is_remote": false,
+      "salary_min": 90000,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "AWAL",
+      "posted_at": "2026-04-15T16:14:10-04:00",
+      "updated_at": "2026-04-15T16:14:10-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8456238002",
       "source": "greenhouse",
       "seniority": "Director",
       "functions": [
@@ -1667,8 +1667,8 @@
       "salary_text": null,
       "salary_currency": "USD",
       "department": "SME Greece",
-      "posted_at": "2026-04-15T16:14:10-04:00",
-      "updated_at": "2026-04-15T16:14:10-04:00",
+      "posted_at": "2026-05-04T04:00:30-04:00",
+      "updated_at": "2026-05-04T04:00:30-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8474230002",
       "source": "greenhouse",
       "seniority": "Entry/Associate",
@@ -1845,30 +1845,6 @@
       "is_grad_relevant": false
     },
     {
-      "id": "greenhouse_8456255002",
-      "title": "Manager, A&R - AWAL",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, New York, New York",
-      "location_normalized": "United States, New York, New York",
-      "is_remote": false,
-      "salary_min": 75000,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "AWAL",
-      "posted_at": "2026-04-15T16:14:10-04:00",
-      "updated_at": "2026-04-15T16:14:10-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8456255002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Artist & Label Services"
-      ],
-      "is_grad_relevant": false
-    },
-    {
       "id": "greenhouse_8459852002",
       "title": "Manager, A&R - AWAL",
       "company": "Sony Music Entertainment",
@@ -1885,6 +1861,30 @@
       "posted_at": "2026-04-15T16:14:10-04:00",
       "updated_at": "2026-04-15T16:14:10-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8459852002",
+      "source": "greenhouse",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Artist & Label Services"
+      ],
+      "is_grad_relevant": false
+    },
+    {
+      "id": "greenhouse_8456255002",
+      "title": "Manager, A&R - AWAL",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "United States, New York, New York",
+      "location_normalized": "United States, New York, New York",
+      "is_remote": false,
+      "salary_min": 75000,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "AWAL",
+      "posted_at": "2026-04-15T16:14:10-04:00",
+      "updated_at": "2026-04-15T16:14:10-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8456255002",
       "source": "greenhouse",
       "seniority": "Manager/Senior",
       "functions": [
@@ -1940,30 +1940,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8485277002",
-      "title": "Manager, Channel Strategy - Kids & Family- The Orchard",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, California, Los Angeles",
-      "location_normalized": "United States, California, Los Angeles",
-      "is_remote": false,
-      "salary_min": 70000,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "The Orchard",
-      "posted_at": "2026-04-15T16:14:10-04:00",
-      "updated_at": "2026-04-15T16:14:10-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8485277002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Strategy & Biz Dev"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "greenhouse_8482985002",
       "title": "Manager, Channel Strategy - Kids & Family- The Orchard",
       "company": "Sony Music Entertainment",
@@ -1980,6 +1956,30 @@
       "posted_at": "2026-04-15T16:14:10-04:00",
       "updated_at": "2026-04-15T16:14:10-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8482985002",
+      "source": "greenhouse",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Strategy & Biz Dev"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8485277002",
+      "title": "Manager, Channel Strategy - Kids & Family- The Orchard",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "United States, California, Los Angeles",
+      "location_normalized": "United States, California, Los Angeles",
+      "is_remote": false,
+      "salary_min": 70000,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "The Orchard",
+      "posted_at": "2026-04-15T16:14:10-04:00",
+      "updated_at": "2026-04-15T16:14:10-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8485277002",
       "source": "greenhouse",
       "seniority": "Manager/Senior",
       "functions": [
@@ -2173,30 +2173,6 @@
       "is_grad_relevant": false
     },
     {
-      "id": "greenhouse_8503801002",
-      "title": "Manager, Record to Report (RTR)",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "Asia, India, Mumbai",
-      "location_normalized": "Asia, India, Mumbai",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Finance - Shared Services",
-      "posted_at": "2026-04-15T16:14:10-04:00",
-      "updated_at": "2026-04-15T16:14:10-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8503801002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Finance & Accounting"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "greenhouse_8446842002",
       "title": "Manager, Relationship Support - The Orchard",
       "company": "Sony Music Entertainment",
@@ -2285,30 +2261,6 @@
       "seniority": "VP/Executive",
       "functions": [],
       "is_grad_relevant": false
-    },
-    {
-      "id": "greenhouse_8470908002",
-      "title": "Marketing and Content Coordinator- Masterworks Live! (Fixed Term Contract)",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "Australia & New Zealand, Australia, Melbourne",
-      "location_normalized": "Australia & New Zealand, Australia, Melbourne",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "SME Australia",
-      "posted_at": "2026-04-15T16:14:10-04:00",
-      "updated_at": "2026-04-15T16:14:10-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8470908002",
-      "source": "greenhouse",
-      "seniority": "Entry/Associate",
-      "functions": [
-        "Marketing"
-      ],
-      "is_grad_relevant": true
     },
     {
       "id": "greenhouse_8501338002",
@@ -4548,31 +4500,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "lever_84552c98-09a5-49e2-8b71-68a02c956fb0",
-      "title": "Artist Label Partnerships Manager, AUNZ",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "Sydney",
-      "location_normalized": "Sydney",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Music Marketing",
-      "posted_at": "2026-04-23T08:39:02.190Z",
-      "updated_at": "2026-04-23T08:39:02.190Z",
-      "apply_url": "https://jobs.lever.co/spotify/84552c98-09a5-49e2-8b71-68a02c956fb0",
-      "source": "lever",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Strategy & Biz Dev",
-        "Marketing"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "lever_aa83c2ac-d441-4b78-b89a-0bac95918c42",
       "title": "Associate Client Partner - Emerging & Scaled (New Business, French Speaking)",
       "company": "Spotify",
@@ -5110,28 +5037,6 @@
         "Technology & Product"
       ],
       "is_grad_relevant": true
-    },
-    {
-      "id": "lever_265bb575-6860-4bc7-b029-96b6e73d380a",
-      "title": "Business Protection Coordinator (Contract)",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "Dubai",
-      "location_normalized": "Dubai",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Global Workplace Services",
-      "posted_at": "2025-11-25T09:27:51.287Z",
-      "updated_at": "2025-11-25T09:27:51.287Z",
-      "apply_url": "https://jobs.lever.co/spotify/265bb575-6860-4bc7-b029-96b6e73d380a",
-      "source": "lever",
-      "seniority": "Entry/Associate",
-      "functions": [],
-      "is_grad_relevant": false
     },
     {
       "id": "lever_361e8a26-1386-477f-bfd0-c819ba863be3",
@@ -6434,6 +6339,30 @@
       "is_grad_relevant": false
     },
     {
+      "id": "lever_f12dc93c-2d67-4b35-9891-37543f633440",
+      "title": "HR Generalist",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "Mumbai",
+      "location_normalized": "Mumbai",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Human Resources",
+      "posted_at": "2025-12-07T17:10:09.665Z",
+      "updated_at": "2025-12-07T17:10:09.665Z",
+      "apply_url": "https://jobs.lever.co/spotify/f12dc93c-2d67-4b35-9891-37543f633440",
+      "source": "lever",
+      "seniority": null,
+      "functions": [
+        "People & Talent"
+      ],
+      "is_grad_relevant": false
+    },
+    {
       "id": "lever_233ffaeb-ddf3-4b55-be1c-357cf05bfc21",
       "title": "HR Generalist Japan",
       "company": "Spotify",
@@ -6593,6 +6522,30 @@
       "posted_at": "2026-04-30T04:55:31.698Z",
       "updated_at": "2026-04-30T04:55:31.698Z",
       "apply_url": "https://jobs.lever.co/spotify/1dbd6c89-4bd6-4970-9538-beb90e972fa8",
+      "source": "lever",
+      "seniority": null,
+      "functions": [
+        "Legal & Business Affairs"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "lever_d7066333-3706-4ac9-a643-8b72ba2f278d",
+      "title": "Legal Counsel, Podcast Monetization",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "Los Angeles, CA",
+      "location_normalized": "Los Angeles, CA",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Legal",
+      "posted_at": "2026-05-01T16:14:04.161Z",
+      "updated_at": "2026-05-01T16:14:04.161Z",
+      "apply_url": "https://jobs.lever.co/spotify/d7066333-3706-4ac9-a643-8b72ba2f278d",
       "source": "lever",
       "seniority": null,
       "functions": [
@@ -6998,30 +6951,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "lever_ade82b3b-2e2f-4df1-a2e1-1408ded1639f",
-      "title": "Manager, U.S. Publishing Licensing",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "New York, NY",
-      "location_normalized": "New York, NY",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Business Affairs",
-      "posted_at": "2026-03-10T15:18:52.266Z",
-      "updated_at": "2026-03-10T15:18:52.266Z",
-      "apply_url": "https://jobs.lever.co/spotify/ade82b3b-2e2f-4df1-a2e1-1408ded1639f",
-      "source": "lever",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Legal & Business Affairs"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "lever_6bd098ac-a386-438e-a8b1-c8256de5b484",
       "title": "Market Enablement Lead",
       "company": "Spotify",
@@ -7400,6 +7329,28 @@
         "Technology & Product"
       ],
       "is_grad_relevant": true
+    },
+    {
+      "id": "lever_64b87507-26d8-4df7-a710-1c3b47411256",
+      "title": "Regional Account Lead – APAC",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "Singapore",
+      "location_normalized": "Singapore",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Advertising Sales - Emerging and Scaled Sales",
+      "posted_at": "2026-05-04T08:05:44.341Z",
+      "updated_at": "2026-05-04T08:05:44.341Z",
+      "apply_url": "https://jobs.lever.co/spotify/64b87507-26d8-4df7-a710-1c3b47411256",
+      "source": "lever",
+      "seniority": "Manager/Senior",
+      "functions": [],
+      "is_grad_relevant": false
     },
     {
       "id": "lever_3738dd16-b387-4daa-bed7-312b2be39418",
@@ -8242,6 +8193,28 @@
       "posted_at": "2026-03-18T15:35:09.461Z",
       "updated_at": "2026-03-18T15:35:09.461Z",
       "apply_url": "https://jobs.lever.co/spotify/a05a32fd-477a-4aed-a7d6-b4515d7032a5",
+      "source": "lever",
+      "seniority": "Manager/Senior",
+      "functions": [],
+      "is_grad_relevant": false
+    },
+    {
+      "id": "lever_d83cbddf-871a-4f9a-9b29-52cd676e2b3c",
+      "title": "Senior Machine Learning Engineer - Policy & Safety",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "London",
+      "location_normalized": "London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Experience",
+      "posted_at": "2026-05-04T07:54:01.768Z",
+      "updated_at": "2026-05-04T07:54:01.768Z",
+      "apply_url": "https://jobs.lever.co/spotify/d83cbddf-871a-4f9a-9b29-52cd676e2b3c",
       "source": "lever",
       "seniority": "Manager/Senior",
       "functions": [],
