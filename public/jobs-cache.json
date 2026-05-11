@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T08:58:02.352Z",
+  "generated_at": "2026-05-11T10:40:12.243Z",
   "total": 422,
   "jobs": [
     {
@@ -604,31 +604,6 @@
       "seniority": "Manager/Senior",
       "functions": [],
       "is_grad_relevant": false
-    },
-    {
-      "id": "greenhouse_8494751002",
-      "title": "Consultant – OTC Sales Processing & Reporting (2 year contract) ",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "Asia, India, Mumbai",
-      "location_normalized": "Asia, India, Mumbai",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Finance - Shared Services",
-      "posted_at": "2026-04-15T16:14:10-04:00",
-      "updated_at": "2026-04-15T16:14:10-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8494751002",
-      "source": "greenhouse",
-      "seniority": null,
-      "functions": [
-        "Finance & Accounting",
-        "Analytics & Data"
-      ],
-      "is_grad_relevant": true
     },
     {
       "id": "greenhouse_8483032002",
@@ -1725,28 +1700,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8520328002",
-      "title": "Junior Audience Manager - Commercial Group",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "UK & Ireland, United Kingdom, London",
-      "location_normalized": "UK & Ireland, United Kingdom, London",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Commercial Group (SME UK)",
-      "posted_at": "2026-04-23T08:52:10-04:00",
-      "updated_at": "2026-04-23T08:52:10-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8520328002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [],
-      "is_grad_relevant": false
-    },
-    {
       "id": "greenhouse_8535489002",
       "title": "Junior Data Analyst (m/w/d)",
       "company": "Sony Music Entertainment",
@@ -1769,6 +1722,28 @@
         "Analytics & Data"
       ],
       "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8542446002",
+      "title": "Label Manager",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "Asia & Middle East, United Arab Emirates, Dubai",
+      "location_normalized": "Asia & Middle East, United Arab Emirates, Dubai",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "The Orchard",
+      "posted_at": "2026-05-11T02:50:03-04:00",
+      "updated_at": "2026-05-11T02:50:03-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8542446002",
+      "source": "greenhouse",
+      "seniority": "Manager/Senior",
+      "functions": [],
+      "is_grad_relevant": false
     },
     {
       "id": "greenhouse_8239876002",
@@ -3278,30 +3253,6 @@
       "is_grad_relevant": false
     },
     {
-      "id": "greenhouse_8512342002",
-      "title": "Specialist, Supply Chain",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "Canada, Ontario, Toronto",
-      "location_normalized": "Canada, Ontario, Toronto",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Canada Production, Infrastructure & Logistics",
-      "posted_at": "2026-04-20T09:37:47-04:00",
-      "updated_at": "2026-04-20T09:37:47-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8512342002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Operations"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "greenhouse_8468637002",
       "title": "Sr. Analyst, Business Affairs Admin",
       "company": "Sony Music Entertainment",
@@ -4701,30 +4652,6 @@
       "seniority": "Entry/Associate",
       "functions": [
         "Technology & Product"
-      ],
-      "is_grad_relevant": true
-    },
-    {
-      "id": "lever_d95e1989-9a1a-4853-95b1-ecdebf5f81ff",
-      "title": "Associate Analytics Engineer",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "New York, NY",
-      "location_normalized": "New York, NY",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Trust & Safety",
-      "posted_at": "2026-05-07T10:09:46.457Z",
-      "updated_at": "2026-05-07T10:09:46.457Z",
-      "apply_url": "https://jobs.lever.co/spotify/d95e1989-9a1a-4853-95b1-ecdebf5f81ff",
-      "source": "lever",
-      "seniority": "Entry/Associate",
-      "functions": [
-        "Analytics & Data"
       ],
       "is_grad_relevant": true
     },
@@ -6780,6 +6707,28 @@
       "is_grad_relevant": false
     },
     {
+      "id": "lever_fd79c3f5-1b2c-47c0-a3c6-4972b559e1c1",
+      "title": "Machine Learning Engineer I, Personalization , Minesweeper",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "New York, NY",
+      "location_normalized": "New York, NY",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Personalization",
+      "posted_at": "2026-05-08T15:14:28.766Z",
+      "updated_at": "2026-05-08T15:14:28.766Z",
+      "apply_url": "https://jobs.lever.co/spotify/fd79c3f5-1b2c-47c0-a3c6-4972b559e1c1",
+      "source": "lever",
+      "seniority": null,
+      "functions": [],
+      "is_grad_relevant": false
+    },
+    {
       "id": "lever_de3f6a47-4d75-4512-8351-b362f1d1c32e",
       "title": "Machine Learning Engineer, Personalization, Minesweeper",
       "company": "Spotify",
@@ -7232,28 +7181,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "lever_63f5b15b-aa4a-4537-bf88-dcb6d809f3a7",
-      "title": "Partner Delivery Lead - Music",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "Stockholm",
-      "location_normalized": "Stockholm",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Music",
-      "posted_at": "2026-03-18T23:04:38.784Z",
-      "updated_at": "2026-03-18T23:04:38.784Z",
-      "apply_url": "https://jobs.lever.co/spotify/63f5b15b-aa4a-4537-bf88-dcb6d809f3a7",
-      "source": "lever",
-      "seniority": "Manager/Senior",
-      "functions": [],
-      "is_grad_relevant": false
-    },
-    {
       "id": "lever_76a2bac9-855a-403c-8832-b378a5507a0c",
       "title": "Platform Integrity Lead",
       "company": "Spotify",
@@ -7462,30 +7389,6 @@
       "apply_url": "https://jobs.lever.co/spotify/0f471f89-a2e7-4203-87b9-7fa848c78737",
       "source": "lever",
       "seniority": null,
-      "functions": [
-        "Technology & Product"
-      ],
-      "is_grad_relevant": true
-    },
-    {
-      "id": "lever_a4a933ce-ab44-4a13-b8ca-8575c97ea40a",
-      "title": "Product Manager - Artist Promotion",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "New York, NY",
-      "location_normalized": "New York, NY",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Music",
-      "posted_at": "2026-04-09T07:29:33.795Z",
-      "updated_at": "2026-04-09T07:29:33.795Z",
-      "apply_url": "https://jobs.lever.co/spotify/a4a933ce-ab44-4a13-b8ca-8575c97ea40a",
-      "source": "lever",
-      "seniority": "Manager/Senior",
       "functions": [
         "Technology & Product"
       ],
@@ -8195,6 +8098,30 @@
       "is_grad_relevant": true
     },
     {
+      "id": "lever_a1983900-6166-433e-88e6-fd6f1eff6b01",
+      "title": "Senior Engineering Manager - Core Experience",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "London",
+      "location_normalized": "London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Experience",
+      "posted_at": "2026-05-08T08:23:20.899Z",
+      "updated_at": "2026-05-08T08:23:20.899Z",
+      "apply_url": "https://jobs.lever.co/spotify/a1983900-6166-433e-88e6-fd6f1eff6b01",
+      "source": "lever",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Technology & Product"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "lever_b2116fac-5c9d-4f89-8753-b6c0bef1b380",
       "title": "Senior Engineering Manager - Native Ads",
       "company": "Spotify",
@@ -8401,6 +8328,30 @@
       "posted_at": "2026-03-26T12:21:00.807Z",
       "updated_at": "2026-03-26T12:21:00.807Z",
       "apply_url": "https://jobs.lever.co/spotify/0efed556-ce1a-455f-8ffc-2e11750ad2c5",
+      "source": "lever",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Technology & Product"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "lever_c322d068-5b59-4658-b618-bb2a032eeb9b",
+      "title": "Senior Machine Learning Engineer - Messaging Platform",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "London",
+      "location_normalized": "London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Subscriptions R&D",
+      "posted_at": "2026-05-08T14:29:46.970Z",
+      "updated_at": "2026-05-08T14:29:46.970Z",
+      "apply_url": "https://jobs.lever.co/spotify/c322d068-5b59-4658-b618-bb2a032eeb9b",
       "source": "lever",
       "seniority": "Manager/Senior",
       "functions": [
@@ -8853,6 +8804,30 @@
       "is_grad_relevant": false
     },
     {
+      "id": "lever_8b10d06e-0102-4306-831e-4949cb1cc753",
+      "title": "Senior Software Engineer - Platform Infrastructure",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "New York, NY",
+      "location_normalized": "New York, NY",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Platform",
+      "posted_at": "2026-05-08T12:04:16.216Z",
+      "updated_at": "2026-05-08T12:04:16.216Z",
+      "apply_url": "https://jobs.lever.co/spotify/8b10d06e-0102-4306-831e-4949cb1cc753",
+      "source": "lever",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Technology & Product"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "lever_827bfa7b-cc50-46d7-bdac-f642a14fe92b",
       "title": "Senior Software Engineer - TV Playback (C++)",
       "company": "Spotify",
@@ -8987,6 +8962,30 @@
       "seniority": "Manager/Senior",
       "functions": [
         "Marketing"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "lever_3707cd2f-202a-4aec-9de8-bf73a5a6e922",
+      "title": "Software Engineer - Platform Infrastructure",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "New York, NY",
+      "location_normalized": "New York, NY",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Platform",
+      "posted_at": "2026-05-08T12:00:23.583Z",
+      "updated_at": "2026-05-08T12:00:23.583Z",
+      "apply_url": "https://jobs.lever.co/spotify/3707cd2f-202a-4aec-9de8-bf73a5a6e922",
+      "source": "lever",
+      "seniority": null,
+      "functions": [
+        "Technology & Product"
       ],
       "is_grad_relevant": true
     },
