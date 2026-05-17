@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T08:50:44.791Z",
-  "total": 428,
+  "generated_at": "2026-05-17T09:08:59.123Z",
+  "total": 429,
   "jobs": [
     {
       "id": "greenhouse_8479015002",
@@ -1062,6 +1062,30 @@
       "functions": [
         "Strategy & Biz Dev",
         "Legal & Business Affairs"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8552203002",
+      "title": "Director, Commercial Partnerships",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "United States, New York, New York",
+      "location_normalized": "United States, New York, New York",
+      "is_remote": false,
+      "salary_min": 150000,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Commercial Partnerships",
+      "posted_at": "2026-05-16T07:25:24-04:00",
+      "updated_at": "2026-05-16T07:25:24-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8552203002",
+      "source": "greenhouse",
+      "seniority": "Director",
+      "functions": [
+        "Strategy & Biz Dev"
       ],
       "is_grad_relevant": true
     },
