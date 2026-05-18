@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T09:08:59.123Z",
-  "total": 429,
+  "generated_at": "2026-05-18T11:09:35.620Z",
+  "total": 432,
   "jobs": [
     {
       "id": "greenhouse_8479015002",
@@ -1082,30 +1082,6 @@
       "posted_at": "2026-05-16T07:25:24-04:00",
       "updated_at": "2026-05-16T07:25:24-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8552203002",
-      "source": "greenhouse",
-      "seniority": "Director",
-      "functions": [
-        "Strategy & Biz Dev"
-      ],
-      "is_grad_relevant": true
-    },
-    {
-      "id": "greenhouse_8501764002",
-      "title": "Director, Commercial Strategy D2C (The Orchard and Independent Labels)",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "UK & Ireland, United Kingdom, London",
-      "location_normalized": "UK & Ireland, United Kingdom, London",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "D2C",
-      "posted_at": "2026-04-29T12:05:58-04:00",
-      "updated_at": "2026-04-29T12:05:58-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8501764002",
       "source": "greenhouse",
       "seniority": "Director",
       "functions": [
@@ -2584,6 +2560,30 @@
       "is_grad_relevant": true
     },
     {
+      "id": "greenhouse_8551259002",
+      "title": "Marketing Manager, Catalogue",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "Australia & New Zealand, Australia, Sydney",
+      "location_normalized": "Australia & New Zealand, Australia, Sydney",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "SME Australia",
+      "posted_at": "2026-05-17T22:28:47-04:00",
+      "updated_at": "2026-05-17T22:28:47-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8551259002",
+      "source": "greenhouse",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Marketing"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "greenhouse_8479448002",
       "title": "Operations Specialist - Ceremony of Roses",
       "company": "Sony Music Entertainment",
@@ -3028,30 +3028,6 @@
       "seniority": "Manager/Senior",
       "functions": [
         "Finance & Accounting"
-      ],
-      "is_grad_relevant": true
-    },
-    {
-      "id": "greenhouse_8415239002",
-      "title": "Senior Manager, Business & Legal Affairs  ",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "Asia, Indonesia, Jakarta",
-      "location_normalized": "Asia, Indonesia, Jakarta",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "SME Indonesia",
-      "posted_at": "2026-04-15T16:14:10-04:00",
-      "updated_at": "2026-04-15T16:14:10-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8415239002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Legal & Business Affairs"
       ],
       "is_grad_relevant": true
     },
@@ -4769,6 +4745,31 @@
       "is_grad_relevant": true
     },
     {
+      "id": "lever_77526d53-3811-4336-9c0d-72f6ac0242c7",
+      "title": "Artist Label Partnerships Manager, Taiwan",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "Taiwan",
+      "location_normalized": "Taiwan",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Music Marketing",
+      "posted_at": "2026-04-16T13:42:42.281Z",
+      "updated_at": "2026-04-16T13:42:42.281Z",
+      "apply_url": "https://jobs.lever.co/spotify/77526d53-3811-4336-9c0d-72f6ac0242c7",
+      "source": "lever",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Strategy & Biz Dev",
+        "Marketing"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "lever_aa83c2ac-d441-4b78-b89a-0bac95918c42",
       "title": "Associate Client Partner - Emerging & Scaled (New Business, French Speaking)",
       "company": "Spotify",
@@ -5236,6 +5237,28 @@
       "is_grad_relevant": true
     },
     {
+      "id": "lever_721300cd-471b-4f20-ab92-aefe7c4c382d",
+      "title": "Client Partner, Enterprise - UK",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "London",
+      "location_normalized": "London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Advertising Sales - Enterprise",
+      "posted_at": "2026-05-15T15:17:38.339Z",
+      "updated_at": "2026-05-15T15:17:38.339Z",
+      "apply_url": "https://jobs.lever.co/spotify/721300cd-471b-4f20-ab92-aefe7c4c382d",
+      "source": "lever",
+      "seniority": null,
+      "functions": [],
+      "is_grad_relevant": false
+    },
+    {
       "id": "lever_6ea8d335-e16c-4eac-ac2c-0f4fe02f4b17",
       "title": "Content Designer, Personalization",
       "company": "Spotify",
@@ -5300,31 +5323,6 @@
       "seniority": "Manager/Senior",
       "functions": [],
       "is_grad_relevant": false
-    },
-    {
-      "id": "lever_cb90282e-0917-4219-99fd-8b5d7d5e3050",
-      "title": "Data Analyst II – Performance Optimization Squad",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "Stockholm",
-      "location_normalized": "Stockholm",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Platform",
-      "posted_at": "2026-03-27T10:27:53.538Z",
-      "updated_at": "2026-03-27T10:27:53.538Z",
-      "apply_url": "https://jobs.lever.co/spotify/cb90282e-0917-4219-99fd-8b5d7d5e3050",
-      "source": "lever",
-      "seniority": "Entry/Associate",
-      "functions": [
-        "Analytics & Data",
-        "Technology & Product"
-      ],
-      "is_grad_relevant": true
     },
     {
       "id": "lever_4303f795-d0a5-41ed-8c78-0941780b6e54",
@@ -5595,6 +5593,31 @@
       "seniority": null,
       "functions": [
         "Analytics & Data"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "lever_cb90282e-0917-4219-99fd-8b5d7d5e3050",
+      "title": "Data Scientist II – Performance Optimization Squad",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "Stockholm",
+      "location_normalized": "Stockholm",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Platform",
+      "posted_at": "2026-03-27T10:27:53.538Z",
+      "updated_at": "2026-03-27T10:27:53.538Z",
+      "apply_url": "https://jobs.lever.co/spotify/cb90282e-0917-4219-99fd-8b5d7d5e3050",
+      "source": "lever",
+      "seniority": null,
+      "functions": [
+        "Analytics & Data",
+        "Technology & Product"
       ],
       "is_grad_relevant": true
     },
@@ -7773,6 +7796,32 @@
       "is_grad_relevant": true
     },
     {
+      "id": "lever_2aac2091-cd38-4779-a6e9-d5da6a46b386",
+      "title": "Senior Analyst - Internal Audit & Risk",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "New York, NY",
+      "location_normalized": "New York, NY",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Finance Strategy, Operations & Risk",
+      "posted_at": "2026-02-12T16:04:52.609Z",
+      "updated_at": "2026-02-12T16:04:52.609Z",
+      "apply_url": "https://jobs.lever.co/spotify/2aac2091-cd38-4779-a6e9-d5da6a46b386",
+      "source": "lever",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Finance & Accounting",
+        "Strategy & Biz Dev",
+        "Operations"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "lever_a7768944-809a-43bf-972e-7221d223331f",
       "title": "Senior Analyst, FP&A, Music Publishing Deal Analysis",
       "company": "Spotify",
@@ -8624,6 +8673,28 @@
       "posted_at": "2026-05-15T13:17:26.508Z",
       "updated_at": "2026-05-15T13:17:26.508Z",
       "apply_url": "https://jobs.lever.co/spotify/351ad979-231f-4bee-ae49-8ff55b64f605",
+      "source": "lever",
+      "seniority": "Manager/Senior",
+      "functions": [],
+      "is_grad_relevant": false
+    },
+    {
+      "id": "lever_e3e57517-0677-4032-85c1-841fdc9c26c6",
+      "title": "Senior Machine Learning Engineer, Zeitgeist, Personalization",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "London",
+      "location_normalized": "London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Personalization",
+      "posted_at": "2026-05-15T13:19:44.400Z",
+      "updated_at": "2026-05-15T13:19:44.400Z",
+      "apply_url": "https://jobs.lever.co/spotify/e3e57517-0677-4032-85c1-841fdc9c26c6",
       "source": "lever",
       "seniority": "Manager/Senior",
       "functions": [],
