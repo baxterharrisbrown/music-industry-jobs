@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T10:41:46.533Z",
-  "total": 436,
+  "generated_at": "2026-05-22T10:26:16.790Z",
+  "total": 431,
   "jobs": [
     {
       "id": "greenhouse_8479015002",
@@ -440,28 +440,6 @@
         "Marketing"
       ],
       "is_grad_relevant": true
-    },
-    {
-      "id": "greenhouse_8409338002",
-      "title": "Associate, People Experience Partner",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, New York, New York",
-      "location_normalized": "United States, New York, New York",
-      "is_remote": false,
-      "salary_min": 80000,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "People Experience",
-      "posted_at": "2026-05-12T17:48:45-04:00",
-      "updated_at": "2026-05-12T17:48:45-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8409338002",
-      "source": "greenhouse",
-      "seniority": "Entry/Associate",
-      "functions": [],
-      "is_grad_relevant": false
     },
     {
       "id": "greenhouse_8501325002",
@@ -1501,26 +1479,28 @@
       "is_grad_relevant": false
     },
     {
-      "id": "greenhouse_8365504002",
-      "title": "Fan Engagement Lead",
+      "id": "greenhouse_8512670002",
+      "title": "Finance and Admin Coordinator",
       "company": "Sony Music Entertainment",
       "company_id": "sony_music",
       "category": "Major Label",
-      "location": "United States, Florida, Miami",
-      "location_normalized": "United States, Florida, Miami",
+      "location": "United States, California, Los Angeles",
+      "location_normalized": "United States, California, Los Angeles",
       "is_remote": false,
-      "salary_min": null,
+      "salary_min": 50000,
       "salary_max": null,
       "salary_text": null,
       "salary_currency": "USD",
-      "department": "Latin Regional Management",
-      "posted_at": "2026-04-15T16:14:10-04:00",
-      "updated_at": "2026-04-15T16:14:10-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8365504002",
+      "department": "Masterworks",
+      "posted_at": "2026-05-21T16:38:43-04:00",
+      "updated_at": "2026-05-21T16:38:43-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8512670002",
       "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [],
-      "is_grad_relevant": false
+      "seniority": "Entry/Associate",
+      "functions": [
+        "Finance & Accounting"
+      ],
+      "is_grad_relevant": true
     },
     {
       "id": "greenhouse_8517050002",
@@ -1613,28 +1593,6 @@
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8542607002",
       "source": "greenhouse",
       "seniority": null,
-      "functions": [],
-      "is_grad_relevant": false
-    },
-    {
-      "id": "greenhouse_8437617002",
-      "title": "Head of Artist Accounts - Ceremony of Roses",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "UK & Ireland, United Kingdom, London",
-      "location_normalized": "UK & Ireland, United Kingdom, London",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Ceremony of Roses (SME UK)",
-      "posted_at": "2026-04-15T16:14:10-04:00",
-      "updated_at": "2026-04-15T16:14:10-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8437617002",
-      "source": "greenhouse",
-      "seniority": "Director",
       "functions": [],
       "is_grad_relevant": false
     },
@@ -2017,26 +1975,27 @@
       "is_grad_relevant": false
     },
     {
-      "id": "greenhouse_8485277002",
-      "title": "Manager, Channel Strategy - Kids & Family- The Orchard",
+      "id": "greenhouse_8558607002",
+      "title": "Manager, Business and Legal Affairs Operations",
       "company": "Sony Music Entertainment",
       "company_id": "sony_music",
       "category": "Major Label",
-      "location": "United States, California, Los Angeles",
-      "location_normalized": "United States, California, Los Angeles",
+      "location": "United States, New York, New York",
+      "location_normalized": "United States, New York, New York",
       "is_remote": false,
-      "salary_min": 70000,
+      "salary_min": 65000,
       "salary_max": null,
       "salary_text": null,
       "salary_currency": "USD",
-      "department": "The Orchard",
-      "posted_at": "2026-05-20T12:21:21-04:00",
-      "updated_at": "2026-05-20T12:21:21-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8485277002",
+      "department": "Label Shared Services - BLA",
+      "posted_at": "2026-05-21T10:28:27-04:00",
+      "updated_at": "2026-05-21T10:28:27-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8558607002",
       "source": "greenhouse",
       "seniority": "Manager/Senior",
       "functions": [
-        "Strategy & Biz Dev"
+        "Operations",
+        "Legal & Business Affairs"
       ],
       "is_grad_relevant": true
     },
@@ -2057,6 +2016,30 @@
       "posted_at": "2026-05-20T12:20:20-04:00",
       "updated_at": "2026-05-20T12:20:20-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8482985002",
+      "source": "greenhouse",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Strategy & Biz Dev"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8485277002",
+      "title": "Manager, Channel Strategy - Kids & Family- The Orchard",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "United States, California, Los Angeles",
+      "location_normalized": "United States, California, Los Angeles",
+      "is_remote": false,
+      "salary_min": 70000,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "The Orchard",
+      "posted_at": "2026-05-20T12:21:21-04:00",
+      "updated_at": "2026-05-20T12:21:21-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8485277002",
       "source": "greenhouse",
       "seniority": "Manager/Senior",
       "functions": [
@@ -3366,28 +3349,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8495135002",
-      "title": "Specialist, Royalty and Metadata - Provident Entertainment",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, Tennessee, Franklin",
-      "location_normalized": "United States, Tennessee, Franklin",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Provident Label Group",
-      "posted_at": "2026-04-15T16:14:10-04:00",
-      "updated_at": "2026-04-15T16:14:10-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8495135002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [],
-      "is_grad_relevant": false
-    },
-    {
       "id": "greenhouse_8468637002",
       "title": "Sr. Analyst, Business Affairs Admin",
       "company": "Sony Music Entertainment",
@@ -3648,30 +3609,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8468025002",
-      "title": "VP, Customer Satisfaction and Supply Chain - D2C",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, New York, New York",
-      "location_normalized": "United States, New York, New York",
-      "is_remote": false,
-      "salary_min": 200000,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "D2C",
-      "posted_at": "2026-04-15T16:14:10-04:00",
-      "updated_at": "2026-04-15T16:14:10-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8468025002",
-      "source": "greenhouse",
-      "seniority": "VP/Executive",
-      "functions": [
-        "Operations"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "greenhouse_8393375002",
       "title": "VP, Global D2C Supply Chain",
       "company": "Sony Music Entertainment",
@@ -3743,7 +3680,7 @@
     },
     {
       "id": "greenhouse_8556790002",
-      "title": "Youtube Channel Strategy Manager - The Orchard",
+      "title": "Youtube Channel Strategy Manager - The Orchard 6 Month FTC",
       "company": "Sony Music Entertainment",
       "company_id": "sony_music",
       "category": "Major Label",
@@ -3755,8 +3692,8 @@
       "salary_text": null,
       "salary_currency": "USD",
       "department": "The Orchard",
-      "posted_at": "2026-05-19T12:50:14-04:00",
-      "updated_at": "2026-05-19T12:50:14-04:00",
+      "posted_at": "2026-05-21T08:51:10-04:00",
+      "updated_at": "2026-05-21T08:51:10-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8556790002",
       "source": "greenhouse",
       "seniority": "Manager/Senior",
@@ -4079,30 +4016,6 @@
         "Marketing"
       ],
       "is_grad_relevant": true
-    },
-    {
-      "id": "greenhouse_8406011002",
-      "title": "Artist Relations Manager",
-      "company": "UnitedMasters",
-      "company_id": "unitedmasters",
-      "category": "Music Tech",
-      "location": "Brooklyn, New York",
-      "location_normalized": "Brooklyn, New York",
-      "is_remote": false,
-      "salary_min": 70000,
-      "salary_max": 85000,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Artist Services",
-      "posted_at": "2026-04-27T15:26:46-04:00",
-      "updated_at": "2026-04-27T15:26:46-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/unitedmasterstranslation/jobs/8406011002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Artist & Label Services"
-      ],
-      "is_grad_relevant": false
     },
     {
       "id": "greenhouse_8535905002",
@@ -4866,28 +4779,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "lever_aa83c2ac-d441-4b78-b89a-0bac95918c42",
-      "title": "Associate Client Partner - Emerging & Scaled (New Business, French Speaking)",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "London",
-      "location_normalized": "London",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Advertising Sales - Emerging and Scaled Sales",
-      "posted_at": "2026-04-24T15:00:27.195Z",
-      "updated_at": "2026-04-24T15:00:27.195Z",
-      "apply_url": "https://jobs.lever.co/spotify/aa83c2ac-d441-4b78-b89a-0bac95918c42",
-      "source": "lever",
-      "seniority": "Entry/Associate",
-      "functions": [],
-      "is_grad_relevant": false
-    },
-    {
       "id": "lever_d5628547-6362-470e-8828-7ab565054eaa",
       "title": "Associate Client Partner - Emerging & Scaled (New Business, German Speaking)",
       "company": "Spotify",
@@ -4904,28 +4795,6 @@
       "posted_at": "2026-04-24T15:05:41.126Z",
       "updated_at": "2026-04-24T15:05:41.126Z",
       "apply_url": "https://jobs.lever.co/spotify/d5628547-6362-470e-8828-7ab565054eaa",
-      "source": "lever",
-      "seniority": "Entry/Associate",
-      "functions": [],
-      "is_grad_relevant": false
-    },
-    {
-      "id": "lever_305cfc42-32fd-4127-8797-ea420a755569",
-      "title": "Associate Client Partner - Emerging & Scaled (New Business)",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "London",
-      "location_normalized": "London",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Advertising Sales - Emerging and Scaled Sales",
-      "posted_at": "2026-04-23T14:56:23.149Z",
-      "updated_at": "2026-04-23T14:56:23.149Z",
-      "apply_url": "https://jobs.lever.co/spotify/305cfc42-32fd-4127-8797-ea420a755569",
       "source": "lever",
       "seniority": "Entry/Associate",
       "functions": [],
@@ -5260,31 +5129,6 @@
       "is_grad_relevant": false
     },
     {
-      "id": "lever_baa87498-b0a3-4ac5-b197-a224e93c8a07",
-      "title": "Backend/Data Engineer - Data Platform",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "London",
-      "location_normalized": "London",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Platform",
-      "posted_at": "2026-04-14T08:06:32.059Z",
-      "updated_at": "2026-04-14T08:06:32.059Z",
-      "apply_url": "https://jobs.lever.co/spotify/baa87498-b0a3-4ac5-b197-a224e93c8a07",
-      "source": "lever",
-      "seniority": null,
-      "functions": [
-        "Analytics & Data",
-        "Technology & Product"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "lever_e1f0f313-5188-455c-af18-8de01dd1a699",
       "title": "Billing Operations Lead",
       "company": "Spotify",
@@ -5355,6 +5199,28 @@
         "Technology & Product"
       ],
       "is_grad_relevant": true
+    },
+    {
+      "id": "lever_4f95d579-dffd-4624-9769-6cf7de0931fb",
+      "title": "Client Engineer II - Core Experience (Formats & Foundations)",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "Stockholm",
+      "location_normalized": "Stockholm",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Experience",
+      "posted_at": "2026-05-21T09:47:32.307Z",
+      "updated_at": "2026-05-21T09:47:32.307Z",
+      "apply_url": "https://jobs.lever.co/spotify/4f95d579-dffd-4624-9769-6cf7de0931fb",
+      "source": "lever",
+      "seniority": null,
+      "functions": [],
+      "is_grad_relevant": false
     },
     {
       "id": "lever_43e0d904-84f7-4cfa-a293-579fb9ac271f",
@@ -7822,31 +7688,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "lever_97528686-2b62-4b63-b451-1a72a0ad1e1e",
-      "title": "Senior Analyst, Yield Strategy, APAC",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "Sydney",
-      "location_normalized": "Sydney",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Global Sales Operations",
-      "posted_at": "2026-04-23T10:13:50.906Z",
-      "updated_at": "2026-04-23T10:13:50.906Z",
-      "apply_url": "https://jobs.lever.co/spotify/97528686-2b62-4b63-b451-1a72a0ad1e1e",
-      "source": "lever",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Strategy & Biz Dev",
-        "Operations"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "lever_7505b9b1-ea36-4c4f-8eb6-8c7013d701d7",
       "title": "Senior Android Engineer - Data Platform",
       "company": "Spotify",
@@ -8140,6 +7981,28 @@
         "Technology & Product"
       ],
       "is_grad_relevant": true
+    },
+    {
+      "id": "lever_f69cf300-99b3-4a24-9728-9786a36a38b5",
+      "title": "Senior Client Engineer - Core Experience (Formats & Foundations)",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "Stockholm",
+      "location_normalized": "Stockholm",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Experience",
+      "posted_at": "2026-05-21T09:54:49.978Z",
+      "updated_at": "2026-05-21T09:54:49.978Z",
+      "apply_url": "https://jobs.lever.co/spotify/f69cf300-99b3-4a24-9728-9786a36a38b5",
+      "source": "lever",
+      "seniority": "Manager/Senior",
+      "functions": [],
+      "is_grad_relevant": false
     },
     {
       "id": "lever_32297d46-a347-4680-849c-1c56d0a2666a",
@@ -9441,6 +9304,30 @@
       "seniority": "Manager/Senior",
       "functions": [],
       "is_grad_relevant": false
+    },
+    {
+      "id": "lever_1a01cbcb-1b72-410d-a450-fb3175fa9d2b",
+      "title": "Systems Manager - Financial Systems Functional Analysis",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "Toronto",
+      "location_normalized": "Toronto",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "FinE",
+      "posted_at": "2026-05-20T14:29:27.529Z",
+      "updated_at": "2026-05-20T14:29:27.529Z",
+      "apply_url": "https://jobs.lever.co/spotify/1a01cbcb-1b72-410d-a450-fb3175fa9d2b",
+      "source": "lever",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Finance & Accounting"
+      ],
+      "is_grad_relevant": true
     },
     {
       "id": "lever_15b92be4-402a-460b-a773-1d8110dd09d4",
