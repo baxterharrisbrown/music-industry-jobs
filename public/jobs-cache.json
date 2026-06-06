@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-05T10:51:14.912Z",
-  "total": 386,
+  "generated_at": "2026-06-06T09:28:13.644Z",
+  "total": 388,
   "jobs": [
     {
       "id": "greenhouse_8479015002",
@@ -536,6 +536,28 @@
       "is_grad_relevant": false
     },
     {
+      "id": "greenhouse_8578194002",
+      "title": "Catalogue Consultant - Malayalam",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "Asia, India, Chennai",
+      "location_normalized": "Asia, India, Chennai",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "SME India",
+      "posted_at": "2026-06-05T09:40:28-04:00",
+      "updated_at": "2026-06-05T09:40:28-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8578194002",
+      "source": "greenhouse",
+      "seniority": null,
+      "functions": [],
+      "is_grad_relevant": false
+    },
+    {
       "id": "greenhouse_8486962002",
       "title": "College Marketing Representative, Atlanta - The Orchard",
       "company": "Sony Music Entertainment",
@@ -928,30 +950,6 @@
       "is_grad_relevant": false
     },
     {
-      "id": "greenhouse_8459858002",
-      "title": "Director A&R - AWAL",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, California, Los Angeles",
-      "location_normalized": "United States, California, Los Angeles",
-      "is_remote": false,
-      "salary_min": 90000,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "AWAL",
-      "posted_at": "2026-04-15T16:14:10-04:00",
-      "updated_at": "2026-04-15T16:14:10-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8459858002",
-      "source": "greenhouse",
-      "seniority": "Director",
-      "functions": [
-        "Artist & Label Services"
-      ],
-      "is_grad_relevant": false
-    },
-    {
       "id": "greenhouse_8456238002",
       "title": "Director A&R - AWAL",
       "company": "Sony Music Entertainment",
@@ -968,6 +966,30 @@
       "posted_at": "2026-04-15T16:14:10-04:00",
       "updated_at": "2026-04-15T16:14:10-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8456238002",
+      "source": "greenhouse",
+      "seniority": "Director",
+      "functions": [
+        "Artist & Label Services"
+      ],
+      "is_grad_relevant": false
+    },
+    {
+      "id": "greenhouse_8459858002",
+      "title": "Director A&R - AWAL",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "United States, California, Los Angeles",
+      "location_normalized": "United States, California, Los Angeles",
+      "is_remote": false,
+      "salary_min": 90000,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "AWAL",
+      "posted_at": "2026-04-15T16:14:10-04:00",
+      "updated_at": "2026-04-15T16:14:10-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8459858002",
       "source": "greenhouse",
       "seniority": "Director",
       "functions": [
@@ -1794,30 +1816,6 @@
       "is_grad_relevant": false
     },
     {
-      "id": "greenhouse_8456255002",
-      "title": "Manager, A&R - AWAL",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, New York, New York",
-      "location_normalized": "United States, New York, New York",
-      "is_remote": false,
-      "salary_min": 75000,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "AWAL",
-      "posted_at": "2026-04-15T16:14:10-04:00",
-      "updated_at": "2026-04-15T16:14:10-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8456255002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Artist & Label Services"
-      ],
-      "is_grad_relevant": false
-    },
-    {
       "id": "greenhouse_8459852002",
       "title": "Manager, A&R - AWAL",
       "company": "Sony Music Entertainment",
@@ -1834,6 +1832,30 @@
       "posted_at": "2026-04-15T16:14:10-04:00",
       "updated_at": "2026-04-15T16:14:10-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8459852002",
+      "source": "greenhouse",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Artist & Label Services"
+      ],
+      "is_grad_relevant": false
+    },
+    {
+      "id": "greenhouse_8456255002",
+      "title": "Manager, A&R - AWAL",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "United States, New York, New York",
+      "location_normalized": "United States, New York, New York",
+      "is_remote": false,
+      "salary_min": 75000,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "AWAL",
+      "posted_at": "2026-04-15T16:14:10-04:00",
+      "updated_at": "2026-04-15T16:14:10-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8456255002",
       "source": "greenhouse",
       "seniority": "Manager/Senior",
       "functions": [
@@ -1889,30 +1911,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8482985002",
-      "title": "Manager, Channel Strategy - Kids & Family- The Orchard",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, New York, New York",
-      "location_normalized": "United States, New York, New York",
-      "is_remote": false,
-      "salary_min": 70000,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "The Orchard",
-      "posted_at": "2026-05-20T12:20:20-04:00",
-      "updated_at": "2026-05-20T12:20:20-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8482985002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Strategy & Biz Dev"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "greenhouse_8485277002",
       "title": "Manager, Channel Strategy - Kids & Family- The Orchard",
       "company": "Sony Music Entertainment",
@@ -1929,6 +1927,30 @@
       "posted_at": "2026-05-20T12:21:21-04:00",
       "updated_at": "2026-05-20T12:21:21-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8485277002",
+      "source": "greenhouse",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Strategy & Biz Dev"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8482985002",
+      "title": "Manager, Channel Strategy - Kids & Family- The Orchard",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "United States, New York, New York",
+      "location_normalized": "United States, New York, New York",
+      "is_remote": false,
+      "salary_min": 70000,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "The Orchard",
+      "posted_at": "2026-05-20T12:20:20-04:00",
+      "updated_at": "2026-05-20T12:20:20-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8482985002",
       "source": "greenhouse",
       "seniority": "Manager/Senior",
       "functions": [
@@ -3053,6 +3075,28 @@
       "is_grad_relevant": true
     },
     {
+      "id": "greenhouse_8576068002",
+      "title": "Publicist, Columbia Records UK",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "UK & Ireland, United Kingdom, London",
+      "location_normalized": "UK & Ireland, United Kingdom, London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Columbia Records (SME UK)",
+      "posted_at": "2026-06-05T11:10:02-04:00",
+      "updated_at": "2026-06-05T11:10:02-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8576068002",
+      "source": "greenhouse",
+      "seniority": null,
+      "functions": [],
+      "is_grad_relevant": false
+    },
+    {
       "id": "greenhouse_8521533002",
       "title": "Purchase-to-Pay Analyst",
       "company": "Sony Music Entertainment",
@@ -3814,6 +3858,28 @@
       "is_grad_relevant": false
     },
     {
+      "id": "greenhouse_8565037002",
+      "title": "VP, Promotion - Triple Tigers (Country Music)",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "United States, Tennessee, Nashville",
+      "location_normalized": "United States, Tennessee, Nashville",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "The Orchard",
+      "posted_at": "2026-06-05T15:06:15-04:00",
+      "updated_at": "2026-06-05T15:06:15-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8565037002",
+      "source": "greenhouse",
+      "seniority": "VP/Executive",
+      "functions": [],
+      "is_grad_relevant": false
+    },
+    {
       "id": "greenhouse_8180575002",
       "title": "Warehouse Associate - Kings Road Merch ",
       "company": "Sony Music Entertainment",
@@ -4072,31 +4138,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8209260002",
-      "title": "Senior Marketing Data Analyst (m/w/d)",
-      "company": "Yousician",
-      "company_id": "yousician",
-      "category": "Music Tech",
-      "location": "Berlin",
-      "location_normalized": "Berlin",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Growth",
-      "posted_at": "2026-03-18T01:00:44-04:00",
-      "updated_at": "2026-03-18T01:00:44-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/yousician/jobs/8209260002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Marketing",
-        "Analytics & Data"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "greenhouse_8517861002",
       "title": "Senior Product Manager, Monetization (m/w/d)",
       "company": "Yousician",
@@ -4264,6 +4305,28 @@
       "is_grad_relevant": false
     },
     {
+      "id": "greenhouse_8446132002",
+      "title": "Context Director",
+      "company": "UnitedMasters",
+      "company_id": "unitedmasters",
+      "category": "Music Tech",
+      "location": "Brooklyn, New York",
+      "location_normalized": "Brooklyn, New York",
+      "is_remote": false,
+      "salary_min": 119000,
+      "salary_max": 140000,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Context",
+      "posted_at": "2026-06-05T16:56:56-04:00",
+      "updated_at": "2026-06-05T16:56:56-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/unitedmasterstranslation/jobs/8446132002",
+      "source": "greenhouse",
+      "seniority": "Director",
+      "functions": [],
+      "is_grad_relevant": false
+    },
+    {
       "id": "greenhouse_8520730002",
       "title": " Creative",
       "company": "UnitedMasters",
@@ -4399,31 +4462,6 @@
       "seniority": "Director",
       "functions": [
         "Technology & Product"
-      ],
-      "is_grad_relevant": true
-    },
-    {
-      "id": "greenhouse_8510352002",
-      "title": "Head of Brand & Sync Partnerships ",
-      "company": "UnitedMasters",
-      "company_id": "unitedmasters",
-      "category": "Music Tech",
-      "location": "Brooklyn, New York",
-      "location_normalized": "Brooklyn, New York",
-      "is_remote": false,
-      "salary_min": 200000,
-      "salary_max": 275000,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Brand Partnerships",
-      "posted_at": "2026-04-27T15:26:46-04:00",
-      "updated_at": "2026-04-27T15:26:46-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/unitedmasterstranslation/jobs/8510352002",
-      "source": "greenhouse",
-      "seniority": "Director",
-      "functions": [
-        "Strategy & Biz Dev",
-        "Marketing"
       ],
       "is_grad_relevant": true
     },
@@ -4569,22 +4607,22 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8446132002",
-      "title": "Temporary Context Director",
+      "id": "greenhouse_8537970002",
+      "title": "Sr. Context Director",
       "company": "UnitedMasters",
       "company_id": "unitedmasters",
       "category": "Music Tech",
       "location": "Brooklyn, New York",
       "location_normalized": "Brooklyn, New York",
       "is_remote": false,
-      "salary_min": 119000,
-      "salary_max": 140000,
+      "salary_min": 145000,
+      "salary_max": 170000,
       "salary_text": null,
       "salary_currency": "USD",
       "department": "Context",
-      "posted_at": "2026-04-27T15:26:46-04:00",
-      "updated_at": "2026-04-27T15:26:46-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/unitedmasterstranslation/jobs/8446132002",
+      "posted_at": "2026-06-05T16:30:31-04:00",
+      "updated_at": "2026-06-05T16:30:31-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/unitedmasterstranslation/jobs/8537970002",
       "source": "greenhouse",
       "seniority": "Director",
       "functions": [],
