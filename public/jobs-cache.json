@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T10:05:40.002Z",
+  "generated_at": "2026-06-29T12:02:33.148Z",
   "total": 352,
   "jobs": [
     {
@@ -97,30 +97,6 @@
       "is_grad_relevant": false
     },
     {
-      "id": "greenhouse_8600268002",
-      "title": "A&R Manager",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "Asia, Vietnam, Ho Chi Minh City",
-      "location_normalized": "Asia, Vietnam, Ho Chi Minh City",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "SME Vietnam",
-      "posted_at": "2026-06-26T00:35:47-04:00",
-      "updated_at": "2026-06-26T00:35:47-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8600268002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Artist & Label Services"
-      ],
-      "is_grad_relevant": false
-    },
-    {
       "id": "greenhouse_8604708002",
       "title": "A&R Manager",
       "company": "Sony Music Entertainment",
@@ -137,6 +113,30 @@
       "posted_at": "2026-06-23T16:00:53-04:00",
       "updated_at": "2026-06-23T16:00:53-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8604708002",
+      "source": "greenhouse",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Artist & Label Services"
+      ],
+      "is_grad_relevant": false
+    },
+    {
+      "id": "greenhouse_8600268002",
+      "title": "A&R Manager",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "Asia, Vietnam, Ho Chi Minh City",
+      "location_normalized": "Asia, Vietnam, Ho Chi Minh City",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "SME Vietnam",
+      "posted_at": "2026-06-26T00:35:47-04:00",
+      "updated_at": "2026-06-26T00:35:47-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8600268002",
       "source": "greenhouse",
       "seniority": "Manager/Senior",
       "functions": [
@@ -1033,28 +1033,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8603493002",
-      "title": "Coordinator, Sync – Columbia Records",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, California, Los Angeles",
-      "location_normalized": "United States, California, Los Angeles",
-      "is_remote": false,
-      "salary_min": 48000,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Columbia Frontline",
-      "posted_at": "2026-06-23T18:09:59-04:00",
-      "updated_at": "2026-06-23T18:09:59-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8603493002",
-      "source": "greenhouse",
-      "seniority": "Entry/Associate",
-      "functions": [],
-      "is_grad_relevant": false
-    },
-    {
       "id": "greenhouse_8605065002",
       "title": "Coordinator, Sync – Columbia Records",
       "company": "Sony Music Entertainment",
@@ -1071,6 +1049,28 @@
       "posted_at": "2026-06-23T18:10:03-04:00",
       "updated_at": "2026-06-23T18:10:03-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8605065002",
+      "source": "greenhouse",
+      "seniority": "Entry/Associate",
+      "functions": [],
+      "is_grad_relevant": false
+    },
+    {
+      "id": "greenhouse_8603493002",
+      "title": "Coordinator, Sync – Columbia Records",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "United States, California, Los Angeles",
+      "location_normalized": "United States, California, Los Angeles",
+      "is_remote": false,
+      "salary_min": 48000,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Columbia Frontline",
+      "posted_at": "2026-06-23T18:09:59-04:00",
+      "updated_at": "2026-06-23T18:09:59-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8603493002",
       "source": "greenhouse",
       "seniority": "Entry/Associate",
       "functions": [],
@@ -1686,6 +1686,28 @@
       "is_grad_relevant": false
     },
     {
+      "id": "greenhouse_8469124002",
+      "title": "Executive Assistant (MD's Office)",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "Asia, India, Mumbai",
+      "location_normalized": "Asia, India, Mumbai",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "SME India",
+      "posted_at": "2026-06-29T03:44:34-04:00",
+      "updated_at": "2026-06-29T03:44:34-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8469124002",
+      "source": "greenhouse",
+      "seniority": "Entry/Associate",
+      "functions": [],
+      "is_grad_relevant": false
+    },
+    {
       "id": "greenhouse_8512670002",
       "title": "Finance and Admin Coordinator",
       "company": "Sony Music Entertainment",
@@ -1944,28 +1966,6 @@
         "Legal & Business Affairs"
       ],
       "is_grad_relevant": true
-    },
-    {
-      "id": "greenhouse_8586109002",
-      "title": "Live Experience Administrator - RG Live",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "UK & Ireland, United Kingdom, London",
-      "location_normalized": "UK & Ireland, United Kingdom, London",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "RG Live",
-      "posted_at": "2026-06-11T10:50:43-04:00",
-      "updated_at": "2026-06-11T10:50:43-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8586109002",
-      "source": "greenhouse",
-      "seniority": null,
-      "functions": [],
-      "is_grad_relevant": false
     },
     {
       "id": "greenhouse_8496771002",
@@ -2533,6 +2533,30 @@
       "is_grad_relevant": true
     },
     {
+      "id": "greenhouse_8603966002",
+      "title": " Marketing Manager, Domestic Repertoire",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "Europe, Greece, Athens",
+      "location_normalized": "Europe, Greece, Athens",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "SME Greece",
+      "posted_at": "2026-06-29T06:47:24-04:00",
+      "updated_at": "2026-06-29T06:47:24-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8603966002",
+      "source": "greenhouse",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Marketing"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "greenhouse_8580759002",
       "title": "Merchandise Admin Assistant - Ceremony of Roses (6 Month FTC)",
       "company": "Sony Music Entertainment",
@@ -2672,31 +2696,6 @@
         "Artist & Label Services"
       ],
       "is_grad_relevant": false
-    },
-    {
-      "id": "greenhouse_8340416002",
-      "title": "Praktikant (m/w/d) Brand Partnerships ",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "Europe, Germany, Berlin",
-      "location_normalized": "Europe, Germany, Berlin",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "SME Germany",
-      "posted_at": "2026-06-01T05:24:54-04:00",
-      "updated_at": "2026-06-01T05:24:54-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8340416002",
-      "source": "greenhouse",
-      "seniority": null,
-      "functions": [
-        "Strategy & Biz Dev",
-        "Marketing"
-      ],
-      "is_grad_relevant": true
     },
     {
       "id": "greenhouse_8568644002",
@@ -4973,6 +4972,30 @@
       "is_grad_relevant": false
     },
     {
+      "id": "lever_e5ef674b-bc46-4a11-bf34-624b49ec7e67",
+      "title": "Cloud Security Engineer",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "Stockholm",
+      "location_normalized": "Stockholm",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Platform",
+      "posted_at": "2026-06-26T14:27:00.646Z",
+      "updated_at": "2026-06-26T14:27:00.646Z",
+      "apply_url": "https://jobs.lever.co/spotify/e5ef674b-bc46-4a11-bf34-624b49ec7e67",
+      "source": "lever",
+      "seniority": null,
+      "functions": [
+        "Technology & Product"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "lever_d4479186-6d5f-4c62-837b-474a78c65e3f",
       "title": "Consumer Marketing Manager, East Africa",
       "company": "Spotify",
@@ -6039,6 +6062,30 @@
       "is_grad_relevant": false
     },
     {
+      "id": "lever_30b40bdc-86a4-4504-8ada-d22dc26b08e6",
+      "title": "Marketing Manager ANZ",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "Sydney",
+      "location_normalized": "Sydney",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Advertising Business Marketing",
+      "posted_at": "2026-06-29T08:23:10.215Z",
+      "updated_at": "2026-06-29T08:23:10.215Z",
+      "apply_url": "https://jobs.lever.co/spotify/30b40bdc-86a4-4504-8ada-d22dc26b08e6",
+      "source": "lever",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Marketing"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "lever_22f3ad1b-0dff-4058-8d1a-e7b02475413e",
       "title": "Marketing Manager UK/IE",
       "company": "Spotify",
@@ -6603,30 +6650,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "lever_0efed556-ce1a-455f-8ffc-2e11750ad2c5",
-      "title": "Senior Machine Learning Engineer - Generative UI Platform",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "Stockholm",
-      "location_normalized": "Stockholm",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Platform",
-      "posted_at": "2026-03-26T12:21:00.807Z",
-      "updated_at": "2026-03-26T12:21:00.807Z",
-      "apply_url": "https://jobs.lever.co/spotify/0efed556-ce1a-455f-8ffc-2e11750ad2c5",
-      "source": "lever",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Technology & Product"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "lever_c322d068-5b59-4658-b618-bb2a032eeb9b",
       "title": "Senior Machine Learning Engineer - Messaging Platform",
       "company": "Spotify",
@@ -7072,28 +7095,6 @@
         "Operations"
       ],
       "is_grad_relevant": true
-    },
-    {
-      "id": "lever_fa4125a9-b99a-4c96-94ff-427d3da127d3",
-      "title": "Senior Security Engineer - Enterprise Security",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "Stockholm",
-      "location_normalized": "Stockholm",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Security",
-      "posted_at": "2026-03-23T12:26:19.119Z",
-      "updated_at": "2026-03-23T12:26:19.119Z",
-      "apply_url": "https://jobs.lever.co/spotify/fa4125a9-b99a-4c96-94ff-427d3da127d3",
-      "source": "lever",
-      "seniority": "Manager/Senior",
-      "functions": [],
-      "is_grad_relevant": false
     },
     {
       "id": "lever_827bfa7b-cc50-46d7-bdac-f642a14fe92b",
