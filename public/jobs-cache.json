@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T09:43:58.624Z",
-  "total": 338,
+  "generated_at": "2026-07-06T11:39:54.248Z",
+  "total": 339,
   "jobs": [
     {
       "id": "greenhouse_8588592002",
@@ -211,30 +211,6 @@
       "posted_at": "2026-06-24T08:08:16-04:00",
       "updated_at": "2026-06-24T08:08:16-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8598527002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Finance & Accounting"
-      ],
-      "is_grad_relevant": true
-    },
-    {
-      "id": "greenhouse_8593841002",
-      "title": "Assistant Manager – OTC Liaison (APAC)",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "Asia, India, Mumbai",
-      "location_normalized": "Asia, India, Mumbai",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Finance - Shared Services",
-      "posted_at": "2026-06-19T00:28:10-04:00",
-      "updated_at": "2026-06-19T00:28:10-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8593841002",
       "source": "greenhouse",
       "seniority": "Manager/Senior",
       "functions": [
@@ -1977,8 +1953,8 @@
       "salary_text": null,
       "salary_currency": "USD",
       "department": "SME Middle East",
-      "posted_at": "2026-06-08T03:41:40-04:00",
-      "updated_at": "2026-06-08T03:41:40-04:00",
+      "posted_at": "2026-07-06T03:47:07-04:00",
+      "updated_at": "2026-07-06T03:47:07-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8556186002",
       "source": "greenhouse",
       "seniority": null,
@@ -2805,6 +2781,30 @@
       "posted_at": "2026-05-29T10:10:20-04:00",
       "updated_at": "2026-05-29T10:10:20-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8570608002",
+      "source": "greenhouse",
+      "seniority": null,
+      "functions": [
+        "Artist & Label Services"
+      ],
+      "is_grad_relevant": false
+    },
+    {
+      "id": "greenhouse_8568644002",
+      "title": "Praktikant (m/w/d) Catalog + 1991 Artist & Label Services ",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "Europe, Germany, Berlin",
+      "location_normalized": "Europe, Germany, Berlin",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "SME Germany",
+      "posted_at": "2026-07-06T06:48:03-04:00",
+      "updated_at": "2026-07-06T06:48:03-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8568644002",
       "source": "greenhouse",
       "seniority": null,
       "functions": [
@@ -4801,6 +4801,30 @@
       "is_grad_relevant": true
     },
     {
+      "id": "lever_e841d99b-6daf-466a-bcbc-0dd81c2cf52e",
+      "title": "Associate Music Editor, South Korea (Contract)",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "Seoul",
+      "location_normalized": "Seoul",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Music Marketing",
+      "posted_at": "2026-03-03T08:31:00.821Z",
+      "updated_at": "2026-03-03T08:31:00.821Z",
+      "apply_url": "https://jobs.lever.co/spotify/e841d99b-6daf-466a-bcbc-0dd81c2cf52e",
+      "source": "lever",
+      "seniority": "Entry/Associate",
+      "functions": [
+        "Marketing"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "lever_e8ef80ed-633f-45ec-a1fc-a55704241f64",
       "title": "Backend Engineer - Platform",
       "company": "Spotify",
@@ -4979,6 +5003,28 @@
       "posted_at": "2026-06-12T10:11:08.693Z",
       "updated_at": "2026-06-12T10:11:08.693Z",
       "apply_url": "https://jobs.lever.co/spotify/003df472-fd5a-4988-8175-f185aa9b1298",
+      "source": "lever",
+      "seniority": "Manager/Senior",
+      "functions": [],
+      "is_grad_relevant": false
+    },
+    {
+      "id": "lever_704edd6d-eeec-42cd-ba76-89889aa7161f",
+      "title": "Customer Success Manager, Ad Sales",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "London",
+      "location_normalized": "London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Automation and Agency Teams",
+      "posted_at": "2026-07-03T14:55:27.999Z",
+      "updated_at": "2026-07-03T14:55:27.999Z",
+      "apply_url": "https://jobs.lever.co/spotify/704edd6d-eeec-42cd-ba76-89889aa7161f",
       "source": "lever",
       "seniority": "Manager/Senior",
       "functions": [],
@@ -6098,30 +6144,6 @@
       "seniority": null,
       "functions": [],
       "is_grad_relevant": false
-    },
-    {
-      "id": "lever_bb9867e6-4b35-4250-a7c4-918198c038e4",
-      "title": "Security Engineer- Product Security",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "London",
-      "location_normalized": "London",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Security",
-      "posted_at": "2026-06-10T07:06:36.739Z",
-      "updated_at": "2026-06-10T07:06:36.739Z",
-      "apply_url": "https://jobs.lever.co/spotify/bb9867e6-4b35-4250-a7c4-918198c038e4",
-      "source": "lever",
-      "seniority": null,
-      "functions": [
-        "Technology & Product"
-      ],
-      "is_grad_relevant": true
     },
     {
       "id": "lever_69ce7cd5-c137-435f-84bc-9da27389c7e6",
