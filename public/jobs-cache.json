@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T08:50:21.725Z",
-  "total": 328,
+  "generated_at": "2026-07-12T09:06:15.994Z",
+  "total": 327,
   "jobs": [
     {
       "id": "greenhouse_8615907002",
@@ -5207,30 +5207,6 @@
       "seniority": null,
       "functions": [],
       "is_grad_relevant": false
-    },
-    {
-      "id": "lever_0cb3b774-3c2c-4b9b-ba35-fa983c2c6e68",
-      "title": "Group Product Manager - Backend Experience (Core Infrastructure)",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "London",
-      "location_normalized": "London",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Platform",
-      "posted_at": "2026-07-10T18:22:35.843Z",
-      "updated_at": "2026-07-10T18:22:35.843Z",
-      "apply_url": "https://jobs.lever.co/spotify/0cb3b774-3c2c-4b9b-ba35-fa983c2c6e68",
-      "source": "lever",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Technology & Product"
-      ],
-      "is_grad_relevant": true
     },
     {
       "id": "lever_bcdf7880-6ad8-447d-822a-8265a24fd336",
