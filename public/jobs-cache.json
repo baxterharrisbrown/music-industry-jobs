@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T09:11:26.160Z",
-  "total": 321,
+  "generated_at": "2026-07-16T09:18:40.388Z",
+  "total": 318,
   "jobs": [
     {
       "id": "greenhouse_8615907002",
@@ -396,8 +396,8 @@
       "salary_text": null,
       "salary_currency": "USD",
       "department": "Global Digital Business",
-      "posted_at": "2026-06-12T17:00:46-04:00",
-      "updated_at": "2026-06-12T17:00:46-04:00",
+      "posted_at": "2026-07-15T18:01:45-04:00",
+      "updated_at": "2026-07-15T18:01:45-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8582373002",
       "source": "greenhouse",
       "seniority": "Director",
@@ -1261,6 +1261,30 @@
       "is_grad_relevant": false
     },
     {
+      "id": "greenhouse_8630112002",
+      "title": "D2C Program Manager",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "Asia, China, Shanghai",
+      "location_normalized": "Asia, China, Shanghai",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "SME China",
+      "posted_at": "2026-07-15T22:52:10-04:00",
+      "updated_at": "2026-07-15T22:52:10-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8630112002",
+      "source": "greenhouse",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Operations"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "greenhouse_8583288002",
       "title": "Digital Marketing Creative Manager ",
       "company": "Sony Music Entertainment",
@@ -1357,30 +1381,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8459858002",
-      "title": "Director A&R - AWAL",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, California, Los Angeles",
-      "location_normalized": "United States, California, Los Angeles",
-      "is_remote": false,
-      "salary_min": 90000,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "AWAL",
-      "posted_at": "2026-04-15T16:14:10-04:00",
-      "updated_at": "2026-04-15T16:14:10-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8459858002",
-      "source": "greenhouse",
-      "seniority": "Director",
-      "functions": [
-        "Artist & Label Services"
-      ],
-      "is_grad_relevant": false
-    },
-    {
       "id": "greenhouse_8456238002",
       "title": "Director A&R - AWAL",
       "company": "Sony Music Entertainment",
@@ -1397,6 +1397,30 @@
       "posted_at": "2026-04-15T16:14:10-04:00",
       "updated_at": "2026-04-15T16:14:10-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8456238002",
+      "source": "greenhouse",
+      "seniority": "Director",
+      "functions": [
+        "Artist & Label Services"
+      ],
+      "is_grad_relevant": false
+    },
+    {
+      "id": "greenhouse_8459858002",
+      "title": "Director A&R - AWAL",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "United States, California, Los Angeles",
+      "location_normalized": "United States, California, Los Angeles",
+      "is_remote": false,
+      "salary_min": 90000,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "AWAL",
+      "posted_at": "2026-04-15T16:14:10-04:00",
+      "updated_at": "2026-04-15T16:14:10-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8459858002",
       "source": "greenhouse",
       "seniority": "Director",
       "functions": [
@@ -1522,6 +1546,28 @@
         "Strategy & Biz Dev"
       ],
       "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8633207002",
+      "title": "Director, Media - Commercial Music Group",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "United States, California, Los Angeles",
+      "location_normalized": "United States, California, Los Angeles",
+      "is_remote": false,
+      "salary_min": 115000,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Commercial Group",
+      "posted_at": "2026-07-15T13:10:39-04:00",
+      "updated_at": "2026-07-15T13:10:39-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8633207002",
+      "source": "greenhouse",
+      "seniority": "Director",
+      "functions": [],
+      "is_grad_relevant": false
     },
     {
       "id": "greenhouse_8589744002",
@@ -2016,6 +2062,30 @@
       "is_grad_relevant": true
     },
     {
+      "id": "greenhouse_8634193002",
+      "title": "Internship, International Marketing- 6 month",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "Asia & Middle East, China, Shanghai",
+      "location_normalized": "Asia & Middle East, China, Shanghai",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "SME China",
+      "posted_at": "2026-07-16T02:07:03-04:00",
+      "updated_at": "2026-07-16T02:07:03-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8634193002",
+      "source": "greenhouse",
+      "seniority": "Intern",
+      "functions": [
+        "Marketing"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "greenhouse_8556186002",
       "title": "Junior Accountant & Office Administrator",
       "company": "Sony Music Entertainment",
@@ -2205,30 +2275,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8548147002",
-      "title": "Manager, Digital Marketing - Provident Entertainment",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, Tennessee, Franklin",
-      "location_normalized": "United States, Tennessee, Franklin",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Provident Label Group",
-      "posted_at": "2026-06-02T11:48:08-04:00",
-      "updated_at": "2026-06-02T11:48:08-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8548147002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Marketing"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "greenhouse_8551247002",
       "title": "Manager, Digital Operations - The Orchard",
       "company": "Sony Music Entertainment",
@@ -2299,26 +2345,26 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8598529002",
-      "title": "Manager – IRL/DQC",
+      "id": "greenhouse_8635514002",
+      "title": "Manager, Marketing - Epic Records",
       "company": "Sony Music Entertainment",
       "company_id": "sony_music",
       "category": "Major Label",
-      "location": "Asia, India, Mumbai",
-      "location_normalized": "Asia, India, Mumbai",
+      "location": "United States, California, Los Angeles",
+      "location_normalized": "United States, California, Los Angeles",
       "is_remote": false,
-      "salary_min": null,
+      "salary_min": 75000,
       "salary_max": null,
       "salary_text": null,
       "salary_currency": "USD",
-      "department": "Finance - Shared Services",
-      "posted_at": "2026-06-24T08:05:58-04:00",
-      "updated_at": "2026-06-24T08:05:58-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8598529002",
+      "department": "Epic Frontline",
+      "posted_at": "2026-07-15T16:33:23-04:00",
+      "updated_at": "2026-07-15T16:33:23-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8635514002",
       "source": "greenhouse",
       "seniority": "Manager/Senior",
       "functions": [
-        "Finance & Accounting"
+        "Marketing"
       ],
       "is_grad_relevant": true
     },
@@ -2439,7 +2485,7 @@
     },
     {
       "id": "greenhouse_8600277002",
-      "title": "Marketing Manager (1 year fixed term contract)",
+      "title": "Marketing Manager",
       "company": "Sony Music Entertainment",
       "company_id": "sony_music",
       "category": "Major Label",
@@ -2451,8 +2497,8 @@
       "salary_text": null,
       "salary_currency": "USD",
       "department": "SME Vietnam",
-      "posted_at": "2026-06-25T05:50:58-04:00",
-      "updated_at": "2026-06-25T05:50:58-04:00",
+      "posted_at": "2026-07-16T05:09:34-04:00",
+      "updated_at": "2026-07-16T05:09:34-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8600277002",
       "source": "greenhouse",
       "seniority": "Manager/Senior",
@@ -2748,8 +2794,8 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8568785002",
-      "title": "Praktikant (m/w/d) Engagement Marketing ",
+      "id": "greenhouse_8634912002",
+      "title": "Praktikant (m/w/d) Corporate Communications",
       "company": "Sony Music Entertainment",
       "company_id": "sony_music",
       "category": "Major Label",
@@ -2761,15 +2807,13 @@
       "salary_text": null,
       "salary_currency": "USD",
       "department": "SME Germany",
-      "posted_at": "2026-05-28T11:41:37-04:00",
-      "updated_at": "2026-05-28T11:41:37-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8568785002",
+      "posted_at": "2026-07-15T11:17:28-04:00",
+      "updated_at": "2026-07-15T11:17:28-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8634912002",
       "source": "greenhouse",
       "seniority": null,
-      "functions": [
-        "Marketing"
-      ],
-      "is_grad_relevant": true
+      "functions": [],
+      "is_grad_relevant": false
     },
     {
       "id": "greenhouse_8571110002",
@@ -2794,28 +2838,6 @@
         "Marketing"
       ],
       "is_grad_relevant": true
-    },
-    {
-      "id": "greenhouse_8570677002",
-      "title": "Praktikant (m/w/d) Retail Team",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "Europe, Germany, Berlin",
-      "location_normalized": "Europe, Germany, Berlin",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "SME Germany",
-      "posted_at": "2026-06-10T04:38:32-04:00",
-      "updated_at": "2026-06-10T04:38:32-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8570677002",
-      "source": "greenhouse",
-      "seniority": null,
-      "functions": [],
-      "is_grad_relevant": false
     },
     {
       "id": "greenhouse_8400821002",
@@ -3619,8 +3641,8 @@
       "salary_text": null,
       "salary_currency": "USD",
       "department": "SME Germany",
-      "posted_at": "2026-07-09T08:37:29-04:00",
-      "updated_at": "2026-07-09T08:37:29-04:00",
+      "posted_at": "2026-07-15T08:57:37-04:00",
+      "updated_at": "2026-07-15T08:57:37-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8625950002",
       "source": "greenhouse",
       "seniority": null,
@@ -3676,6 +3698,30 @@
       "is_grad_relevant": false
     },
     {
+      "id": "greenhouse_8634235002",
+      "title": "Full Stack Engineer",
+      "company": "Downtown Music",
+      "company_id": "downtown_music",
+      "category": "Publishing / Rights",
+      "location": "Nashville, Tennessee",
+      "location_normalized": "Nashville, Tennessee",
+      "is_remote": false,
+      "salary_min": 150000,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Engineering",
+      "posted_at": "2026-07-15T09:35:03-04:00",
+      "updated_at": "2026-07-15T09:35:03-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/downtownmusic/jobs/8634235002",
+      "source": "greenhouse",
+      "seniority": null,
+      "functions": [
+        "Technology & Product"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "greenhouse_8383075002",
       "title": "Senior IT Support Engineer - 12 Month FTC",
       "company": "Downtown Music",
@@ -3694,28 +3740,6 @@
       "apply_url": "https://job-boards.greenhouse.io/downtownmusic/jobs/8383075002",
       "source": "greenhouse",
       "seniority": "Manager/Senior",
-      "functions": [],
-      "is_grad_relevant": false
-    },
-    {
-      "id": "greenhouse_8436071002",
-      "title": "VP, AI",
-      "company": "Downtown Music",
-      "company_id": "downtown_music",
-      "category": "Publishing / Rights",
-      "location": "London or Amsterdam",
-      "location_normalized": "London or Amsterdam",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Downtown Music",
-      "posted_at": "2026-06-04T11:27:57-04:00",
-      "updated_at": "2026-06-04T11:27:57-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/downtownmusic/jobs/8436071002",
-      "source": "greenhouse",
-      "seniority": "VP/Executive",
       "functions": [],
       "is_grad_relevant": false
     },
@@ -4074,30 +4098,6 @@
       "seniority": "VP/Executive",
       "functions": [
         "Marketing"
-      ],
-      "is_grad_relevant": true
-    },
-    {
-      "id": "greenhouse_8590194002",
-      "title": "Product Engineer III",
-      "company": "Splice",
-      "company_id": "splice",
-      "category": "Music Tech",
-      "location": "Remote - U.S.",
-      "location_normalized": "Remote - U.S.",
-      "is_remote": true,
-      "salary_min": 130480,
-      "salary_max": 163100,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Engineering",
-      "posted_at": "2026-06-12T18:06:17-04:00",
-      "updated_at": "2026-06-12T18:06:17-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/splice/jobs/8590194002",
-      "source": "greenhouse",
-      "seniority": null,
-      "functions": [
-        "Technology & Product"
       ],
       "is_grad_relevant": true
     },
@@ -4621,28 +4621,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "lever_3895bc9e-ca1c-433c-8604-b58ae84aa577",
-      "title": "Client Partner - Emerging & Scaled (German Speaking)",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "London",
-      "location_normalized": "London",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Advertising Sales - Emerging and Scaled Sales",
-      "posted_at": "2026-06-30T16:50:14.817Z",
-      "updated_at": "2026-06-30T16:50:14.817Z",
-      "apply_url": "https://jobs.lever.co/spotify/3895bc9e-ca1c-433c-8604-b58ae84aa577",
-      "source": "lever",
-      "seniority": null,
-      "functions": [],
-      "is_grad_relevant": false
-    },
-    {
       "id": "lever_43e0d904-84f7-4cfa-a293-579fb9ac271f",
       "title": "Client Partner - Emerging & Scaled (Nordics / UK)",
       "company": "Spotify",
@@ -4659,6 +4637,28 @@
       "posted_at": "2026-05-19T11:27:39.702Z",
       "updated_at": "2026-05-19T11:27:39.702Z",
       "apply_url": "https://jobs.lever.co/spotify/43e0d904-84f7-4cfa-a293-579fb9ac271f",
+      "source": "lever",
+      "seniority": null,
+      "functions": [],
+      "is_grad_relevant": false
+    },
+    {
+      "id": "lever_3895bc9e-ca1c-433c-8604-b58ae84aa577",
+      "title": "Client Partner - Emerging & Scaled (UK)",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "London",
+      "location_normalized": "London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Advertising Sales - Emerging and Scaled Sales",
+      "posted_at": "2026-06-30T16:50:14.817Z",
+      "updated_at": "2026-06-30T16:50:14.817Z",
+      "apply_url": "https://jobs.lever.co/spotify/3895bc9e-ca1c-433c-8604-b58ae84aa577",
       "source": "lever",
       "seniority": null,
       "functions": [],
@@ -5464,6 +5464,30 @@
       "is_grad_relevant": true
     },
     {
+      "id": "lever_1d7db6ea-59dd-4ebb-86c5-f0f12ee2db92",
+      "title": "Manager, Financial Planning & Analysis – Payments & Customer Service",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "New York, NY",
+      "location_normalized": "New York, NY",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Financial Planning and Analysis",
+      "posted_at": "2026-07-15T10:34:50.558Z",
+      "updated_at": "2026-07-15T10:34:50.558Z",
+      "apply_url": "https://jobs.lever.co/spotify/1d7db6ea-59dd-4ebb-86c5-f0f12ee2db92",
+      "source": "lever",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Finance & Accounting"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "lever_7d4e94b7-ca5f-41a0-9222-5d6bb24e4950",
       "title": "Manager, Growth Creative Strategy & Optimization - Markets & Subscribers",
       "company": "Spotify",
@@ -5627,30 +5651,6 @@
       "seniority": "Manager/Senior",
       "functions": [
         "Technology & Product"
-      ],
-      "is_grad_relevant": true
-    },
-    {
-      "id": "lever_7747053a-43cd-4f6e-8bcc-94ef063cc49a",
-      "title": "Music Editor, Türkiye",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "Dubai",
-      "location_normalized": "Dubai",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Music Marketing",
-      "posted_at": "2026-03-18T02:40:37.862Z",
-      "updated_at": "2026-03-18T02:40:37.862Z",
-      "apply_url": "https://jobs.lever.co/spotify/7747053a-43cd-4f6e-8bcc-94ef063cc49a",
-      "source": "lever",
-      "seniority": null,
-      "functions": [
-        "Marketing"
       ],
       "is_grad_relevant": true
     },
@@ -5978,30 +5978,6 @@
       "seniority": "Manager/Senior",
       "functions": [],
       "is_grad_relevant": false
-    },
-    {
-      "id": "lever_0c364c03-4f52-4cbc-9dd1-8e2524d269ab",
-      "title": "Senior Fullstack Engineer - Commerce Platform",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "London",
-      "location_normalized": "London",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Subscriptions R&D",
-      "posted_at": "2026-03-16T18:03:22.028Z",
-      "updated_at": "2026-03-16T18:03:22.028Z",
-      "apply_url": "https://jobs.lever.co/spotify/0c364c03-4f52-4cbc-9dd1-8e2524d269ab",
-      "source": "lever",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Technology & Product"
-      ],
-      "is_grad_relevant": true
     },
     {
       "id": "lever_142aa205-8ddb-4884-97ba-600d1eb19f4f",
@@ -6369,55 +6345,6 @@
       "posted_at": "2026-06-30T13:37:44.226Z",
       "updated_at": "2026-06-30T13:37:44.226Z",
       "apply_url": "https://jobs.lever.co/spotify/07641cac-402a-44fd-ba42-9cb75473fc0a",
-      "source": "lever",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Technology & Product"
-      ],
-      "is_grad_relevant": true
-    },
-    {
-      "id": "lever_d30af7c7-67aa-404a-a1a5-b8b3838e08c3",
-      "title": "Senior Product Manager - ML / Subscriptions Growth",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "London",
-      "location_normalized": "London",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Subscriptions R&D",
-      "posted_at": "2026-03-19T15:49:15.400Z",
-      "updated_at": "2026-03-19T15:49:15.400Z",
-      "apply_url": "https://jobs.lever.co/spotify/d30af7c7-67aa-404a-a1a5-b8b3838e08c3",
-      "source": "lever",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Marketing",
-        "Technology & Product"
-      ],
-      "is_grad_relevant": true
-    },
-    {
-      "id": "lever_2a3b6947-2a3b-4d4a-a58d-eb242c3a2cae",
-      "title": "Senior Product Manager - Sharing & Social",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "Stockholm",
-      "location_normalized": "Stockholm",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Experience",
-      "posted_at": "2026-04-24T12:28:26.329Z",
-      "updated_at": "2026-04-24T12:28:26.329Z",
-      "apply_url": "https://jobs.lever.co/spotify/2a3b6947-2a3b-4d4a-a58d-eb242c3a2cae",
       "source": "lever",
       "seniority": "Manager/Senior",
       "functions": [
@@ -7090,30 +7017,6 @@
       "is_grad_relevant": false
     },
     {
-      "id": "lever_73e29261-95b9-4c22-b5c9-64ff2ee70564",
-      "title": "Senior Software Engineer",
-      "company": "Warner Music Group",
-      "company_id": "warner_music",
-      "category": "Major Label",
-      "location": "Toronto, Ontario",
-      "location_normalized": "Toronto, Ontario",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Software Engineering",
-      "posted_at": "2026-06-12T18:55:37.734Z",
-      "updated_at": "2026-06-12T18:55:37.734Z",
-      "apply_url": "https://jobs.lever.co/wmg/73e29261-95b9-4c22-b5c9-64ff2ee70564",
-      "source": "lever",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Technology & Product"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "lever_7703e9f7-78fe-4d68-817b-2635b0909459",
       "title": "Senior Software Engineer",
       "company": "Warner Music Group",
@@ -7380,6 +7283,31 @@
       "seniority": "Manager/Senior",
       "functions": [
         "Legal & Business Affairs",
+        "Technology & Product"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "lever_4a58de7d-7816-47ad-9770-84d648398b05",
+      "title": "Staff Backend Software Engineer - Data Platform",
+      "company": "Warner Music Group",
+      "company_id": "warner_music",
+      "category": "Major Label",
+      "location": "Bangalore",
+      "location_normalized": "Bangalore",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Data Platform",
+      "posted_at": "2026-03-30T20:03:05.279Z",
+      "updated_at": "2026-03-30T20:03:05.279Z",
+      "apply_url": "https://jobs.lever.co/wmg/4a58de7d-7816-47ad-9770-84d648398b05",
+      "source": "lever",
+      "seniority": null,
+      "functions": [
+        "Analytics & Data",
         "Technology & Product"
       ],
       "is_grad_relevant": true
