@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T09:12:19.137Z",
-  "total": 319,
+  "generated_at": "2026-07-18T08:50:54.036Z",
+  "total": 320,
   "jobs": [
     {
       "id": "greenhouse_8615907002",
@@ -97,30 +97,6 @@
       "is_grad_relevant": false
     },
     {
-      "id": "greenhouse_8604708002",
-      "title": "A&R Manager",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "Latin America, Mexico, Mexico City",
-      "location_normalized": "Latin America, Mexico, Mexico City",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "SME Mexico",
-      "posted_at": "2026-06-23T16:00:53-04:00",
-      "updated_at": "2026-06-23T16:00:53-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8604708002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Artist & Label Services"
-      ],
-      "is_grad_relevant": false
-    },
-    {
       "id": "greenhouse_8600268002",
       "title": "A&R Manager",
       "company": "Sony Music Entertainment",
@@ -137,6 +113,30 @@
       "posted_at": "2026-06-26T00:35:47-04:00",
       "updated_at": "2026-06-26T00:35:47-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8600268002",
+      "source": "greenhouse",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Artist & Label Services"
+      ],
+      "is_grad_relevant": false
+    },
+    {
+      "id": "greenhouse_8604708002",
+      "title": "A&R Manager",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "Latin America, Mexico, Mexico City",
+      "location_normalized": "Latin America, Mexico, Mexico City",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "SME Mexico",
+      "posted_at": "2026-06-23T16:00:53-04:00",
+      "updated_at": "2026-06-23T16:00:53-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8604708002",
       "source": "greenhouse",
       "seniority": "Manager/Senior",
       "functions": [
@@ -333,30 +333,6 @@
       "seniority": "Director",
       "functions": [],
       "is_grad_relevant": false
-    },
-    {
-      "id": "greenhouse_8608535002",
-      "title": "Associate Director, Data Privacy",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, New York, New York",
-      "location_normalized": "United States, New York, New York",
-      "is_remote": false,
-      "salary_min": 90000,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Corporate/Shared Services",
-      "posted_at": "2026-07-08T09:58:54-04:00",
-      "updated_at": "2026-07-08T09:58:54-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8608535002",
-      "source": "greenhouse",
-      "seniority": "Director",
-      "functions": [
-        "Analytics & Data"
-      ],
-      "is_grad_relevant": true
     },
     {
       "id": "greenhouse_7699273002",
@@ -1081,28 +1057,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8605065002",
-      "title": "Coordinator, Sync – Columbia Records",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, New York, New York",
-      "location_normalized": "United States, New York, New York",
-      "is_remote": false,
-      "salary_min": 48000,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Columbia Frontline",
-      "posted_at": "2026-06-23T18:10:03-04:00",
-      "updated_at": "2026-06-23T18:10:03-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8605065002",
-      "source": "greenhouse",
-      "seniority": "Entry/Associate",
-      "functions": [],
-      "is_grad_relevant": false
-    },
-    {
       "id": "greenhouse_8603493002",
       "title": "Coordinator, Sync – Columbia Records",
       "company": "Sony Music Entertainment",
@@ -1119,6 +1073,28 @@
       "posted_at": "2026-06-23T18:09:59-04:00",
       "updated_at": "2026-06-23T18:09:59-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8603493002",
+      "source": "greenhouse",
+      "seniority": "Entry/Associate",
+      "functions": [],
+      "is_grad_relevant": false
+    },
+    {
+      "id": "greenhouse_8605065002",
+      "title": "Coordinator, Sync – Columbia Records",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "United States, New York, New York",
+      "location_normalized": "United States, New York, New York",
+      "is_remote": false,
+      "salary_min": 48000,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Columbia Frontline",
+      "posted_at": "2026-06-23T18:10:03-04:00",
+      "updated_at": "2026-06-23T18:10:03-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8605065002",
       "source": "greenhouse",
       "seniority": "Entry/Associate",
       "functions": [],
@@ -1250,8 +1226,8 @@
       "salary_text": null,
       "salary_currency": "USD",
       "department": "SME China",
-      "posted_at": "2026-07-16T07:50:14-04:00",
-      "updated_at": "2026-07-16T07:50:14-04:00",
+      "posted_at": "2026-07-17T05:14:25-04:00",
+      "updated_at": "2026-07-17T05:14:25-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8630112002",
       "source": "greenhouse",
       "seniority": "Manager/Senior",
@@ -1277,6 +1253,30 @@
       "posted_at": "2026-06-09T01:11:49-04:00",
       "updated_at": "2026-06-09T01:11:49-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8583288002",
+      "source": "greenhouse",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Marketing"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8626284002",
+      "title": "Digital Marketing Creative Manager – Domestic",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "Asia, Indonesia, Jakarta",
+      "location_normalized": "Asia, Indonesia, Jakarta",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "SME Indonesia",
+      "posted_at": "2026-07-17T05:39:36-04:00",
+      "updated_at": "2026-07-17T05:39:36-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8626284002",
       "source": "greenhouse",
       "seniority": "Manager/Senior",
       "functions": [
@@ -1333,30 +1333,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8456238002",
-      "title": "Director A&R - AWAL",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, New York, New York",
-      "location_normalized": "United States, New York, New York",
-      "is_remote": false,
-      "salary_min": 90000,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "AWAL",
-      "posted_at": "2026-04-15T16:14:10-04:00",
-      "updated_at": "2026-04-15T16:14:10-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8456238002",
-      "source": "greenhouse",
-      "seniority": "Director",
-      "functions": [
-        "Artist & Label Services"
-      ],
-      "is_grad_relevant": false
-    },
-    {
       "id": "greenhouse_8459858002",
       "title": "Director A&R - AWAL",
       "company": "Sony Music Entertainment",
@@ -1373,6 +1349,30 @@
       "posted_at": "2026-04-15T16:14:10-04:00",
       "updated_at": "2026-04-15T16:14:10-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8459858002",
+      "source": "greenhouse",
+      "seniority": "Director",
+      "functions": [
+        "Artist & Label Services"
+      ],
+      "is_grad_relevant": false
+    },
+    {
+      "id": "greenhouse_8456238002",
+      "title": "Director A&R - AWAL",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "United States, New York, New York",
+      "location_normalized": "United States, New York, New York",
+      "is_remote": false,
+      "salary_min": 90000,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "AWAL",
+      "posted_at": "2026-04-15T16:14:10-04:00",
+      "updated_at": "2026-04-15T16:14:10-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8456238002",
       "source": "greenhouse",
       "seniority": "Director",
       "functions": [
@@ -1942,30 +1942,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8612491002",
-      "title": "Intern, Commercial Partnerships",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "Canada, Ontario, Toronto",
-      "location_normalized": "Canada, Ontario, Toronto",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Canada Commercial Partnerships",
-      "posted_at": "2026-07-06T07:46:33-04:00",
-      "updated_at": "2026-07-06T07:46:33-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8612491002",
-      "source": "greenhouse",
-      "seniority": "Intern",
-      "functions": [
-        "Strategy & Biz Dev"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "greenhouse_8621129002",
       "title": "Intern, Digital Marketing, Costa Rica",
       "company": "Sony Music Entertainment",
@@ -2132,30 +2108,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8459852002",
-      "title": "Manager, A&R - AWAL",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, California, Los Angeles",
-      "location_normalized": "United States, California, Los Angeles",
-      "is_remote": false,
-      "salary_min": 75000,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "AWAL",
-      "posted_at": "2026-04-15T16:14:10-04:00",
-      "updated_at": "2026-04-15T16:14:10-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8459852002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Artist & Label Services"
-      ],
-      "is_grad_relevant": false
-    },
-    {
       "id": "greenhouse_8456255002",
       "title": "Manager, A&R - AWAL",
       "company": "Sony Music Entertainment",
@@ -2172,6 +2124,30 @@
       "posted_at": "2026-04-15T16:14:10-04:00",
       "updated_at": "2026-04-15T16:14:10-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8456255002",
+      "source": "greenhouse",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Artist & Label Services"
+      ],
+      "is_grad_relevant": false
+    },
+    {
+      "id": "greenhouse_8459852002",
+      "title": "Manager, A&R - AWAL",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "United States, California, Los Angeles",
+      "location_normalized": "United States, California, Los Angeles",
+      "is_remote": false,
+      "salary_min": 75000,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "AWAL",
+      "posted_at": "2026-04-15T16:14:10-04:00",
+      "updated_at": "2026-04-15T16:14:10-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8459852002",
       "source": "greenhouse",
       "seniority": "Manager/Senior",
       "functions": [
@@ -2225,6 +2201,28 @@
         "Marketing"
       ],
       "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8558505002",
+      "title": "Manager, eCommerce - The Merch Collective",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "United States, Tennessee, Nashville",
+      "location_normalized": "United States, Tennessee, Nashville",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "The Merch Collective",
+      "posted_at": "2026-07-17T15:07:41-04:00",
+      "updated_at": "2026-07-17T15:07:41-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8558505002",
+      "source": "greenhouse",
+      "seniority": "Manager/Senior",
+      "functions": [],
+      "is_grad_relevant": false
     },
     {
       "id": "greenhouse_8535099002",
@@ -2719,31 +2717,6 @@
         "Artist & Label Services"
       ],
       "is_grad_relevant": false
-    },
-    {
-      "id": "greenhouse_8596181002",
-      "title": "Praktikant (m/w/d) Commercial Partnerships / Streaming ",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "Europe, Germany, Berlin",
-      "location_normalized": "Europe, Germany, Berlin",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "SME Germany",
-      "posted_at": "2026-06-17T09:26:30-04:00",
-      "updated_at": "2026-06-17T09:26:30-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8596181002",
-      "source": "greenhouse",
-      "seniority": null,
-      "functions": [
-        "Strategy & Biz Dev",
-        "Artist & Label Services"
-      ],
-      "is_grad_relevant": true
     },
     {
       "id": "greenhouse_8634912002",
@@ -3556,30 +3529,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8634197002",
-      "title": "Werkstudent:in Marketing für die Labels Epic & Nitron",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "Europe, Germany, Berlin",
-      "location_normalized": "Europe, Germany, Berlin",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "SME Germany",
-      "posted_at": "2026-07-15T05:01:22-04:00",
-      "updated_at": "2026-07-15T05:01:22-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8634197002",
-      "source": "greenhouse",
-      "seniority": null,
-      "functions": [
-        "Marketing"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "greenhouse_8625950002",
       "title": "Werkstudent (m/w/d) Catalog: Repertoire & Audience Development",
       "company": "Sony Music Entertainment",
@@ -3604,6 +3553,28 @@
       "is_grad_relevant": false
     },
     {
+      "id": "greenhouse_8638350002",
+      "title": "Werkstudent (m/w/d) Creator Concepts & Public Relations ",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "Europe, Germany, Berlin",
+      "location_normalized": "Europe, Germany, Berlin",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "SME Germany",
+      "posted_at": "2026-07-17T10:39:30-04:00",
+      "updated_at": "2026-07-17T10:39:30-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8638350002",
+      "source": "greenhouse",
+      "seniority": null,
+      "functions": [],
+      "is_grad_relevant": false
+    },
+    {
       "id": "greenhouse_8625992002",
       "title": "Werkstudent (m/w/d) Digital Transformation & Power Platform, Global Technology ",
       "company": "Sony Music Entertainment",
@@ -3624,6 +3595,30 @@
       "seniority": null,
       "functions": [
         "Technology & Product"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8634197002",
+      "title": "Werkstudent (m/w/d) Marketing für die Labels Epic & Nitron",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "Europe, Germany, Berlin",
+      "location_normalized": "Europe, Germany, Berlin",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "SME Germany",
+      "posted_at": "2026-07-17T09:37:01-04:00",
+      "updated_at": "2026-07-17T09:37:01-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8634197002",
+      "source": "greenhouse",
+      "seniority": null,
+      "functions": [
+        "Marketing"
       ],
       "is_grad_relevant": true
     },
@@ -4593,6 +4588,28 @@
       "is_grad_relevant": false
     },
     {
+      "id": "lever_f2445abb-a1cd-424a-8ca1-8948f68fcc4a",
+      "title": "Client Partner - Emerging & Scaled (UK)",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "London",
+      "location_normalized": "London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Advertising Sales - Emerging and Scaled Sales",
+      "posted_at": "2026-07-16T09:33:30.530Z",
+      "updated_at": "2026-07-16T09:33:30.530Z",
+      "apply_url": "https://jobs.lever.co/spotify/f2445abb-a1cd-424a-8ca1-8948f68fcc4a",
+      "source": "lever",
+      "seniority": null,
+      "functions": [],
+      "is_grad_relevant": false
+    },
+    {
       "id": "lever_e5ef674b-bc46-4a11-bf34-624b49ec7e67",
       "title": "Cloud Security Engineer",
       "company": "Spotify",
@@ -5487,28 +5504,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "lever_17ca2696-4eb2-4108-a802-eeee7de8ac43",
-      "title": "Manager, Technical Advertising Solutions - Americas",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "New York, NY",
-      "location_normalized": "New York, NY",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Advertising Sales - Emerging and Scaled Sales",
-      "posted_at": "2026-06-10T14:16:34.909Z",
-      "updated_at": "2026-06-10T14:16:34.909Z",
-      "apply_url": "https://jobs.lever.co/spotify/17ca2696-4eb2-4108-a802-eeee7de8ac43",
-      "source": "lever",
-      "seniority": "Manager/Senior",
-      "functions": [],
-      "is_grad_relevant": false
-    },
-    {
       "id": "lever_30b40bdc-86a4-4504-8ada-d22dc26b08e6",
       "title": "Marketing Manager ANZ",
       "company": "Spotify",
@@ -5573,6 +5568,30 @@
       "posted_at": "2026-04-29T15:53:16.162Z",
       "updated_at": "2026-04-29T15:53:16.162Z",
       "apply_url": "https://jobs.lever.co/spotify/5aeac023-dd35-4cc4-995f-62ac1ec7d85e",
+      "source": "lever",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Marketing"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "lever_6c591c8a-9aeb-4760-ace1-1942da31aca9",
+      "title": "Marketing Technology Manager",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "New York, NY",
+      "location_normalized": "New York, NY",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Marketing",
+      "posted_at": "2026-07-17T12:05:12.509Z",
+      "updated_at": "2026-07-17T12:05:12.509Z",
+      "apply_url": "https://jobs.lever.co/spotify/6c591c8a-9aeb-4760-ace1-1942da31aca9",
       "source": "lever",
       "seniority": "Manager/Senior",
       "functions": [
