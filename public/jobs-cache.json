@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T09:30:35.193Z",
-  "total": 316,
+  "generated_at": "2026-07-22T09:29:37.030Z",
+  "total": 314,
   "jobs": [
     {
       "id": "greenhouse_8588592002",
@@ -1641,28 +1641,6 @@
       "is_grad_relevant": false
     },
     {
-      "id": "greenhouse_8612811002",
-      "title": "eComm Manager – The Merch Collective",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, Remote, Remote",
-      "location_normalized": "United States, Remote, Remote",
-      "is_remote": true,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "The Merch Collective",
-      "posted_at": "2026-07-06T15:04:34-04:00",
-      "updated_at": "2026-07-06T15:04:34-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8612811002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [],
-      "is_grad_relevant": false
-    },
-    {
       "id": "greenhouse_8446861002",
       "title": "Engineering Manager, Data Operations ",
       "company": "Sony Music Entertainment",
@@ -1946,30 +1924,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8612478002",
-      "title": "Intern, Fan Acquisition & Engagement",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "Canada, Ontario, Toronto",
-      "location_normalized": "Canada, Ontario, Toronto",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Canada Artist Strategy",
-      "posted_at": "2026-07-06T07:46:58-04:00",
-      "updated_at": "2026-07-06T07:46:58-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8612478002",
-      "source": "greenhouse",
-      "seniority": "Intern",
-      "functions": [
-        "Strategy & Biz Dev"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "greenhouse_8634193002",
       "title": "Internship, International Marketing- 6 month",
       "company": "Sony Music Entertainment",
@@ -2014,6 +1968,30 @@
       "seniority": null,
       "functions": [],
       "is_grad_relevant": false
+    },
+    {
+      "id": "greenhouse_8642636002",
+      "title": "Junior Manager Infringements - Synch & Rights Management",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "Europe, Germany, Berlin",
+      "location_normalized": "Europe, Germany, Berlin",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "SME Germany",
+      "posted_at": "2026-07-21T09:52:21-04:00",
+      "updated_at": "2026-07-21T09:52:21-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8642636002",
+      "source": "greenhouse",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Legal & Business Affairs"
+      ],
+      "is_grad_relevant": true
     },
     {
       "id": "greenhouse_8624360002",
@@ -2673,6 +2651,30 @@
       "is_grad_relevant": false
     },
     {
+      "id": "greenhouse_8642862002",
+      "title": "Praktikant (m/w/d) Marketing Domestic",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "Europe, Switzerland, Zürich",
+      "location_normalized": "Europe, Switzerland, Zürich",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "SME Germany",
+      "posted_at": "2026-07-21T11:46:09-04:00",
+      "updated_at": "2026-07-21T11:46:09-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8642862002",
+      "source": "greenhouse",
+      "seniority": null,
+      "functions": [
+        "Marketing"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "greenhouse_8571110002",
       "title": "Praktikant (m/w/d) Marketing, PR und Content Creation für das Label Century Media ",
       "company": "Sony Music Entertainment",
@@ -2890,6 +2892,28 @@
       "is_grad_relevant": false
     },
     {
+      "id": "greenhouse_8636928002",
+      "title": "Senior Account Manager - Ceremony of Roses ",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "United States, California, Los Angeles",
+      "location_normalized": "United States, California, Los Angeles",
+      "is_remote": false,
+      "salary_min": 105000,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Ceremony of Roses",
+      "posted_at": "2026-07-21T12:30:36-04:00",
+      "updated_at": "2026-07-21T12:30:36-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8636928002",
+      "source": "greenhouse",
+      "seniority": "Manager/Senior",
+      "functions": [],
+      "is_grad_relevant": false
+    },
+    {
       "id": "greenhouse_8600745002",
       "title": "Senior A&R Manager (m/w/d) - Century Media Records",
       "company": "Sony Music Entertainment",
@@ -3006,30 +3030,6 @@
       "seniority": "Manager/Senior",
       "functions": [
         "Strategy & Biz Dev",
-        "Marketing"
-      ],
-      "is_grad_relevant": true
-    },
-    {
-      "id": "greenhouse_7695832002",
-      "title": "Senior Marketing Manager",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "Asia, Thailand, Bangkok",
-      "location_normalized": "Asia, Thailand, Bangkok",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "SME Thailand",
-      "posted_at": "2026-04-15T16:14:10-04:00",
-      "updated_at": "2026-04-15T16:14:10-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/7695832002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
         "Marketing"
       ],
       "is_grad_relevant": true
@@ -3936,30 +3936,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8606536002",
-      "title": "Product Manager (Remote US)",
-      "company": "Splice",
-      "company_id": "splice",
-      "category": "Music Tech",
-      "location": "Remote - U.S.",
-      "location_normalized": "Remote - U.S.",
-      "is_remote": true,
-      "salary_min": 97600,
-      "salary_max": 122000,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Product",
-      "posted_at": "2026-07-10T15:31:46-04:00",
-      "updated_at": "2026-07-10T15:31:46-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/splice/jobs/8606536002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Technology & Product"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "greenhouse_8604888002",
       "title": "Senior Product Manager",
       "company": "Splice",
@@ -4004,54 +3980,6 @@
       "seniority": "Manager/Senior",
       "functions": [
         "Marketing",
-        "Technology & Product"
-      ],
-      "is_grad_relevant": true
-    },
-    {
-      "id": "greenhouse_8605044002",
-      "title": "Staff Designer (Remote US)",
-      "company": "Splice",
-      "company_id": "splice",
-      "category": "Music Tech",
-      "location": "Remote - U.S.",
-      "location_normalized": "Remote - U.S.",
-      "is_remote": true,
-      "salary_min": 151108,
-      "salary_max": 188885,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Product Design",
-      "posted_at": "2026-07-09T14:39:56-04:00",
-      "updated_at": "2026-07-09T14:39:56-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/splice/jobs/8605044002",
-      "source": "greenhouse",
-      "seniority": null,
-      "functions": [
-        "Technology & Product"
-      ],
-      "is_grad_relevant": true
-    },
-    {
-      "id": "greenhouse_8606428002",
-      "title": "Technical Product Manager (Remote US)",
-      "company": "Splice",
-      "company_id": "splice",
-      "category": "Music Tech",
-      "location": "Remote - U.S.",
-      "location_normalized": "Remote - U.S.",
-      "is_remote": true,
-      "salary_min": 94329,
-      "salary_max": 117911,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Product",
-      "posted_at": "2026-06-24T14:42:30-04:00",
-      "updated_at": "2026-06-24T14:42:30-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/splice/jobs/8606428002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
         "Technology & Product"
       ],
       "is_grad_relevant": true
@@ -4407,28 +4335,26 @@
       "is_grad_relevant": true
     },
     {
-      "id": "lever_e8ef80ed-633f-45ec-a1fc-a55704241f64",
-      "title": "Backend Engineer - Platform",
+      "id": "lever_1689082c-9265-431f-9e55-ef7666e41283",
+      "title": "Backend Engineer - Advertising",
       "company": "Spotify",
       "company_id": "spotify",
       "category": "Streaming",
-      "location": "Toronto",
-      "location_normalized": "Toronto",
+      "location": "New York, NY",
+      "location_normalized": "New York, NY",
       "is_remote": false,
       "salary_min": null,
       "salary_max": null,
       "salary_text": null,
       "salary_currency": "USD",
-      "department": "Platform",
-      "posted_at": "2026-03-05T14:30:10.328Z",
-      "updated_at": "2026-03-05T14:30:10.328Z",
-      "apply_url": "https://jobs.lever.co/spotify/e8ef80ed-633f-45ec-a1fc-a55704241f64",
+      "department": "Advertising R&D",
+      "posted_at": "2026-04-08T16:46:25.770Z",
+      "updated_at": "2026-04-08T16:46:25.770Z",
+      "apply_url": "https://jobs.lever.co/spotify/1689082c-9265-431f-9e55-ef7666e41283",
       "source": "lever",
       "seniority": null,
-      "functions": [
-        "Technology & Product"
-      ],
-      "is_grad_relevant": true
+      "functions": [],
+      "is_grad_relevant": false
     },
     {
       "id": "lever_973b0b71-e8d2-4d7d-9c4b-1c716bd45c8b",
@@ -4635,6 +4561,28 @@
       "is_grad_relevant": true
     },
     {
+      "id": "lever_4ec62019-04b9-40ea-ab9b-b0998a24cf63",
+      "title": "Customer Success Manager ANZ - 12 Month Fixed Term",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "Sydney",
+      "location_normalized": "Sydney",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Automation and Agency Teams",
+      "posted_at": "2026-07-21T02:07:48.485Z",
+      "updated_at": "2026-07-21T02:07:48.485Z",
+      "apply_url": "https://jobs.lever.co/spotify/4ec62019-04b9-40ea-ab9b-b0998a24cf63",
+      "source": "lever",
+      "seniority": "Manager/Senior",
+      "functions": [],
+      "is_grad_relevant": false
+    },
+    {
       "id": "lever_f05f5e26-21aa-4e49-88b6-5be1ef514d63",
       "title": "Customer Success Manager, Japan",
       "company": "Spotify",
@@ -4698,6 +4646,31 @@
       "posted_at": "2026-04-24T11:20:48.796Z",
       "updated_at": "2026-04-24T11:20:48.796Z",
       "apply_url": "https://jobs.lever.co/spotify/56300df8-a614-4b75-bed7-5b6da38218ec",
+      "source": "lever",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Analytics & Data",
+        "Technology & Product"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "lever_abcc8b41-7553-4054-b5eb-8d3e49e00e25",
+      "title": "Engineering Manager - Data Platform",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "London",
+      "location_normalized": "London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Platform",
+      "posted_at": "2026-07-21T13:57:00.362Z",
+      "updated_at": "2026-07-21T13:57:00.362Z",
+      "apply_url": "https://jobs.lever.co/spotify/abcc8b41-7553-4054-b5eb-8d3e49e00e25",
       "source": "lever",
       "seniority": "Manager/Senior",
       "functions": [
@@ -5795,6 +5768,30 @@
       "is_grad_relevant": false
     },
     {
+      "id": "lever_813b4b62-429c-42e9-a8f7-59e9412fb287",
+      "title": "Senior C++/iOS Engineer - User Platform",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "Stockholm",
+      "location_normalized": "Stockholm",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Platform",
+      "posted_at": "2026-07-06T11:59:02.403Z",
+      "updated_at": "2026-07-06T11:59:02.403Z",
+      "apply_url": "https://jobs.lever.co/spotify/813b4b62-429c-42e9-a8f7-59e9412fb287",
+      "source": "lever",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Technology & Product"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "lever_7ce8eee9-9371-43dd-b2fd-5759062938f6",
       "title": "Senior Conversation Designer - Experience Content Design",
       "company": "Spotify",
@@ -6228,30 +6225,6 @@
       "posted_at": "2026-05-14T20:08:24.094Z",
       "updated_at": "2026-05-14T20:08:24.094Z",
       "apply_url": "https://jobs.lever.co/spotify/008e0a44-088b-48f2-b100-cce07e40a45b",
-      "source": "lever",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Technology & Product"
-      ],
-      "is_grad_relevant": true
-    },
-    {
-      "id": "lever_01afc9d0-ca8d-494f-a0c9-e95dc7c9e555",
-      "title": "Senior Product Manager - Core Experience",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "New York, NY",
-      "location_normalized": "New York, NY",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Experience",
-      "posted_at": "2026-04-21T09:13:29.033Z",
-      "updated_at": "2026-04-21T09:13:29.033Z",
-      "apply_url": "https://jobs.lever.co/spotify/01afc9d0-ca8d-494f-a0c9-e95dc7c9e555",
       "source": "lever",
       "seniority": "Manager/Senior",
       "functions": [
@@ -7421,28 +7394,6 @@
       "apply_url": "https://jobs.lever.co/vevo/5a24fcb9-3ab3-41ac-b983-85e39b053c40",
       "source": "lever",
       "seniority": "Director",
-      "functions": [],
-      "is_grad_relevant": false
-    },
-    {
-      "id": "lever_9c31df5c-be49-498a-9045-b34c720aa5c6",
-      "title": "Sales Manager (6-month Parental Leave Cover)",
-      "company": "Vevo",
-      "company_id": "vevo",
-      "category": "Music Tech",
-      "location": "Sydney",
-      "location_normalized": "Sydney",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Sales AU/NZ",
-      "posted_at": "2026-06-10T16:28:45.628Z",
-      "updated_at": "2026-06-10T16:28:45.628Z",
-      "apply_url": "https://jobs.lever.co/vevo/9c31df5c-be49-498a-9045-b34c720aa5c6",
-      "source": "lever",
-      "seniority": "Manager/Senior",
       "functions": [],
       "is_grad_relevant": false
     }
