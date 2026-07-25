@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T09:23:31.804Z",
-  "total": 307,
+  "generated_at": "2026-07-25T09:02:32.767Z",
+  "total": 310,
   "jobs": [
     {
       "id": "greenhouse_8588592002",
@@ -550,31 +550,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8605853002",
-      "title": "Business Controller (m/w/d) - M&A und Ventures",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "Europe, Germany, Berlin",
-      "location_normalized": "Europe, Germany, Berlin",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "SME Germany",
-      "posted_at": "2026-06-24T11:39:17-04:00",
-      "updated_at": "2026-06-24T11:39:17-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8605853002",
-      "source": "greenhouse",
-      "seniority": null,
-      "functions": [
-        "Finance & Accounting",
-        "Strategy & Biz Dev"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "greenhouse_8186918002",
       "title": "Candidature spontanée F/H ",
       "company": "Sony Music Entertainment",
@@ -1017,6 +992,30 @@
       "is_grad_relevant": true
     },
     {
+      "id": "greenhouse_8632006002",
+      "title": "Coordinator, Marketing - Provident Entertainment",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "United States, Tennessee, Nashville",
+      "location_normalized": "United States, Tennessee, Nashville",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Provident Label Group",
+      "posted_at": "2026-07-24T12:32:10-04:00",
+      "updated_at": "2026-07-24T12:32:10-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8632006002",
+      "source": "greenhouse",
+      "seniority": "Entry/Associate",
+      "functions": [
+        "Marketing"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "greenhouse_8535095002",
       "title": "Coordinator, Project Support - RCA",
       "company": "Sony Music Entertainment",
@@ -1385,30 +1384,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8456238002",
-      "title": "Director A&R - AWAL",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, New York, New York",
-      "location_normalized": "United States, New York, New York",
-      "is_remote": false,
-      "salary_min": 90000,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "AWAL",
-      "posted_at": "2026-04-15T16:14:10-04:00",
-      "updated_at": "2026-04-15T16:14:10-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8456238002",
-      "source": "greenhouse",
-      "seniority": "Director",
-      "functions": [
-        "Artist & Label Services"
-      ],
-      "is_grad_relevant": false
-    },
-    {
       "id": "greenhouse_8459858002",
       "title": "Director A&R - AWAL",
       "company": "Sony Music Entertainment",
@@ -1425,6 +1400,30 @@
       "posted_at": "2026-04-15T16:14:10-04:00",
       "updated_at": "2026-04-15T16:14:10-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8459858002",
+      "source": "greenhouse",
+      "seniority": "Director",
+      "functions": [
+        "Artist & Label Services"
+      ],
+      "is_grad_relevant": false
+    },
+    {
+      "id": "greenhouse_8456238002",
+      "title": "Director A&R - AWAL",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "United States, New York, New York",
+      "location_normalized": "United States, New York, New York",
+      "is_remote": false,
+      "salary_min": 90000,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "AWAL",
+      "posted_at": "2026-04-15T16:14:10-04:00",
+      "updated_at": "2026-04-15T16:14:10-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8456238002",
       "source": "greenhouse",
       "seniority": "Director",
       "functions": [
@@ -1670,20 +1669,20 @@
     },
     {
       "id": "greenhouse_7895554002",
-      "title": "Director, Publicity - Alamo",
+      "title": "Director, Publicity - Alamo & Santa Anna",
       "company": "Sony Music Entertainment",
       "company_id": "sony_music",
       "category": "Major Label",
-      "location": "United States, New York, New York",
-      "location_normalized": "United States, New York, New York",
+      "location": "United States, Tennessee, Nashville",
+      "location_normalized": "United States, Tennessee, Nashville",
       "is_remote": false,
-      "salary_min": 105000,
+      "salary_min": null,
       "salary_max": null,
       "salary_text": null,
       "salary_currency": "USD",
-      "department": "Alamo Records",
-      "posted_at": "2026-04-15T16:14:10-04:00",
-      "updated_at": "2026-04-15T16:14:10-04:00",
+      "department": "Santa Anna",
+      "posted_at": "2026-07-24T16:23:18-04:00",
+      "updated_at": "2026-07-24T16:23:18-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/7895554002",
       "source": "greenhouse",
       "seniority": "Director",
@@ -2390,28 +2389,6 @@
       "posted_at": "2026-07-02T13:19:16-04:00",
       "updated_at": "2026-07-02T13:19:16-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8594753002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [],
-      "is_grad_relevant": false
-    },
-    {
-      "id": "greenhouse_8446842002",
-      "title": "Manager, Relationship Support - The Orchard",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, New York, New York",
-      "location_normalized": "United States, New York, New York",
-      "is_remote": false,
-      "salary_min": 68000,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "The Orchard",
-      "posted_at": "2026-05-20T14:05:43-04:00",
-      "updated_at": "2026-05-20T14:05:43-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8446842002",
       "source": "greenhouse",
       "seniority": "Manager/Senior",
       "functions": [],
@@ -3606,6 +3583,30 @@
       "seniority": null,
       "functions": [],
       "is_grad_relevant": false
+    },
+    {
+      "id": "greenhouse_5195653007",
+      "title": "Senior Engineer, QA Automation",
+      "company": "SoundExchange",
+      "company_id": "soundexchange",
+      "category": "Rights & Royalties",
+      "location": "Washington, DC",
+      "location_normalized": "Washington, DC",
+      "is_remote": false,
+      "salary_min": 123000,
+      "salary_max": 145000,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Engineering",
+      "posted_at": "2026-07-24T13:23:13-04:00",
+      "updated_at": "2026-07-24T13:23:13-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/soundexchangeinc/jobs/5195653007",
+      "source": "greenhouse",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Technology & Product"
+      ],
+      "is_grad_relevant": true
     },
     {
       "id": "greenhouse_8634235002",
@@ -5564,6 +5565,31 @@
       "is_grad_relevant": true
     },
     {
+      "id": "lever_c49edf5d-f300-4d57-85c6-bab115006567",
+      "title": "Product Marketing Lead - Podcast Creator Marketing",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "New York, NY",
+      "location_normalized": "New York, NY",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Podcast Business",
+      "posted_at": "2026-07-24T15:00:23.219Z",
+      "updated_at": "2026-07-24T15:00:23.219Z",
+      "apply_url": "https://jobs.lever.co/spotify/c49edf5d-f300-4d57-85c6-bab115006567",
+      "source": "lever",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Marketing",
+        "Technology & Product"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "lever_0eebb462-b5a2-4e3a-b830-d8ef7505b014",
       "title": "Research Scientist - Generative Audio",
       "company": "Spotify",
@@ -5769,6 +5795,30 @@
       "source": "lever",
       "seniority": "Manager/Senior",
       "functions": [],
+      "is_grad_relevant": false
+    },
+    {
+      "id": "lever_3f6aae92-7ae9-45cc-8b84-85b3bf0241c2",
+      "title": "Senior HR Generalist",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "Singapore",
+      "location_normalized": "Singapore",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Human Resources",
+      "posted_at": "2025-12-19T12:21:21.010Z",
+      "updated_at": "2025-12-19T12:21:21.010Z",
+      "apply_url": "https://jobs.lever.co/spotify/3f6aae92-7ae9-45cc-8b84-85b3bf0241c2",
+      "source": "lever",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "People & Talent"
+      ],
       "is_grad_relevant": false
     },
     {
@@ -6761,6 +6811,30 @@
       "seniority": null,
       "functions": [],
       "is_grad_relevant": false
+    },
+    {
+      "id": "lever_2badd508-5d7d-4733-b357-f2eecf7cd1b6",
+      "title": "Product Manager",
+      "company": "Warner Music Group",
+      "company_id": "warner_music",
+      "category": "Major Label",
+      "location": "Bangalore",
+      "location_normalized": "Bangalore",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Product Management",
+      "posted_at": "2026-07-24T19:32:01.998Z",
+      "updated_at": "2026-07-24T19:32:01.998Z",
+      "apply_url": "https://jobs.lever.co/wmg/2badd508-5d7d-4733-b357-f2eecf7cd1b6",
+      "source": "lever",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Technology & Product"
+      ],
+      "is_grad_relevant": true
     },
     {
       "id": "lever_9a8b9159-93dd-4a4c-86fe-f26c07e85081",
