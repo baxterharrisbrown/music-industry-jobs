@@ -1,7 +1,29 @@
 {
-  "generated_at": "2026-07-30T09:33:07.228Z",
-  "total": 303,
+  "generated_at": "2026-07-31T09:48:39.608Z",
+  "total": 304,
   "jobs": [
+    {
+      "id": "greenhouse_8643110002",
+      "title": "Account Support Specialist, Royalty Share - The Orchard",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "United States, California, San Diego",
+      "location_normalized": "United States, California, San Diego",
+      "is_remote": false,
+      "salary_min": 71000,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "The Orchard",
+      "posted_at": "2026-07-30T16:10:11-04:00",
+      "updated_at": "2026-07-30T16:10:11-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8643110002",
+      "source": "greenhouse",
+      "seniority": "Manager/Senior",
+      "functions": [],
+      "is_grad_relevant": false
+    },
     {
       "id": "greenhouse_8588592002",
       "title": "Analyst, A&R Administration ",
@@ -169,6 +191,28 @@
         "Artist & Label Services"
       ],
       "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8605165002",
+      "title": "Assistant Manager, Digital Business",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "Asia, Hong Kong, Hong Kong",
+      "location_normalized": "Asia, Hong Kong, Hong Kong",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "SME Hong Kong",
+      "posted_at": "2026-07-31T05:38:06-04:00",
+      "updated_at": "2026-07-31T05:38:06-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8605165002",
+      "source": "greenhouse",
+      "seniority": "Manager/Senior",
+      "functions": [],
+      "is_grad_relevant": false
     },
     {
       "id": "greenhouse_8598527002",
@@ -478,28 +522,6 @@
       "is_grad_relevant": false
     },
     {
-      "id": "greenhouse_8605165002",
-      "title": "Associate Manager, Digital Business",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "Asia, Hong Kong, Hong Kong",
-      "location_normalized": "Asia, Hong Kong, Hong Kong",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "SME Hong Kong",
-      "posted_at": "2026-06-23T21:49:38-04:00",
-      "updated_at": "2026-06-23T21:49:38-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8605165002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [],
-      "is_grad_relevant": false
-    },
-    {
       "id": "greenhouse_8644294002",
       "title": "Associate Manager, Frontline Repertoire",
       "company": "Sony Music Entertainment",
@@ -660,28 +682,6 @@
         "Operations"
       ],
       "is_grad_relevant": true
-    },
-    {
-      "id": "greenhouse_8643110002",
-      "title": "Client Support Specialist, Royalty Share - The Orchard",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, California, San Diego",
-      "location_normalized": "United States, California, San Diego",
-      "is_remote": false,
-      "salary_min": 71000,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "The Orchard",
-      "posted_at": "2026-07-29T15:41:13-04:00",
-      "updated_at": "2026-07-29T15:41:13-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8643110002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [],
-      "is_grad_relevant": false
     },
     {
       "id": "greenhouse_8486962002",
@@ -1451,31 +1451,6 @@
       "is_grad_relevant": false
     },
     {
-      "id": "greenhouse_8500136002",
-      "title": "Director, Business & Legal Affairs - Corporate M&A",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, New York, New York",
-      "location_normalized": "United States, New York, New York",
-      "is_remote": false,
-      "salary_min": 200000,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Business & Legal Affairs",
-      "posted_at": "2026-07-10T20:33:51-04:00",
-      "updated_at": "2026-07-10T20:33:51-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8500136002",
-      "source": "greenhouse",
-      "seniority": "Director",
-      "functions": [
-        "Strategy & Biz Dev",
-        "Legal & Business Affairs"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "greenhouse_8567516002",
       "title": "Director, Commercial Partnerships Lead- The Orchard",
       "company": "Sony Music Entertainment",
@@ -1540,6 +1515,28 @@
       "posted_at": "2026-06-01T15:11:10-04:00",
       "updated_at": "2026-06-01T15:11:10-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8571093002",
+      "source": "greenhouse",
+      "seniority": "Director",
+      "functions": [],
+      "is_grad_relevant": false
+    },
+    {
+      "id": "greenhouse_8558505002",
+      "title": "Director, eCommerce - D2C",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "United States, Tennessee, Nashville",
+      "location_normalized": "United States, Tennessee, Nashville",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "D2C",
+      "posted_at": "2026-07-30T19:25:32-04:00",
+      "updated_at": "2026-07-30T19:25:32-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8558505002",
       "source": "greenhouse",
       "seniority": "Director",
       "functions": [],
@@ -2110,30 +2107,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8642636002",
-      "title": "Junior Manager Infringements - Synch & Rights Management",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "Europe, Germany, Berlin",
-      "location_normalized": "Europe, Germany, Berlin",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "SME Germany",
-      "posted_at": "2026-07-21T09:52:21-04:00",
-      "updated_at": "2026-07-21T09:52:21-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8642636002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Legal & Business Affairs"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "greenhouse_8624360002",
       "title": "Junior Manager Music Licensing (m/w/d) - Synch & Rights Management",
       "company": "Sony Music Entertainment",
@@ -2347,28 +2320,6 @@
         "Marketing"
       ],
       "is_grad_relevant": true
-    },
-    {
-      "id": "greenhouse_8558505002",
-      "title": "Manager, eCommerce - The Merch Collective",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, Tennessee, Nashville",
-      "location_normalized": "United States, Tennessee, Nashville",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "The Merch Collective",
-      "posted_at": "2026-07-17T15:07:41-04:00",
-      "updated_at": "2026-07-17T15:07:41-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8558505002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [],
-      "is_grad_relevant": false
     },
     {
       "id": "greenhouse_8535099002",
@@ -2791,30 +2742,6 @@
       "seniority": null,
       "functions": [
         "Marketing"
-      ],
-      "is_grad_relevant": true
-    },
-    {
-      "id": "greenhouse_8400821002",
-      "title": "Principal Software Engineer, Pub Admin",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "UK & Ireland, United Kingdom, London",
-      "location_normalized": "UK & Ireland, United Kingdom, London",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Product & Engineering",
-      "posted_at": "2026-04-15T16:14:10-04:00",
-      "updated_at": "2026-04-15T16:14:10-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8400821002",
-      "source": "greenhouse",
-      "seniority": null,
-      "functions": [
-        "Technology & Product"
       ],
       "is_grad_relevant": true
     },
@@ -4085,6 +4012,30 @@
       "is_grad_relevant": true
     },
     {
+      "id": "greenhouse_8659434002",
+      "title": "Sr Software Engineer II (Remote- US)",
+      "company": "Splice",
+      "company_id": "splice",
+      "category": "Music Tech",
+      "location": "Remote - U.S.",
+      "location_normalized": "Remote - U.S.",
+      "is_remote": true,
+      "salary_min": 176000,
+      "salary_max": 220000,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Engineering",
+      "posted_at": "2026-07-30T16:26:36-04:00",
+      "updated_at": "2026-07-30T16:26:36-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/splice/jobs/8659434002",
+      "source": "greenhouse",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Technology & Product"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "lever_890b2c0f-f46f-4a4b-bb73-3a6af6e0edd5",
       "title": "Advertiser Solutions Vendor Lead - Programmatic and Direct Support",
       "company": "Spotify",
@@ -5014,31 +4965,6 @@
       "is_grad_relevant": false
     },
     {
-      "id": "lever_a094768f-03ff-4361-9418-ab6834f871fb",
-      "title": "Head, Markets Strategy & Operations APAC",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "Singapore",
-      "location_normalized": "Singapore",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Operations and Strategy",
-      "posted_at": "2026-07-03T09:16:06.169Z",
-      "updated_at": "2026-07-03T09:16:06.169Z",
-      "apply_url": "https://jobs.lever.co/spotify/a094768f-03ff-4361-9418-ab6834f871fb",
-      "source": "lever",
-      "seniority": null,
-      "functions": [
-        "Strategy & Biz Dev",
-        "Operations"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "lever_5089cbe3-5e62-4c24-89a2-9a1487eb5034",
       "title": "iOS Engineer I - Subscriptions",
       "company": "Spotify",
@@ -5203,6 +5129,30 @@
       "seniority": null,
       "functions": [
         "Legal & Business Affairs",
+        "Technology & Product"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "lever_aca5697a-a87a-415e-8d58-627bb782cce8",
+      "title": "Machine Learning Engineering Manager, Personalization",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "New York, NY",
+      "location_normalized": "New York, NY",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Personalization",
+      "posted_at": "2026-07-30T18:31:15.095Z",
+      "updated_at": "2026-07-30T18:31:15.095Z",
+      "apply_url": "https://jobs.lever.co/spotify/aca5697a-a87a-415e-8d58-627bb782cce8",
+      "source": "lever",
+      "seniority": "Manager/Senior",
+      "functions": [
         "Technology & Product"
       ],
       "is_grad_relevant": true
@@ -5615,6 +5565,30 @@
       "posted_at": "2026-04-17T16:27:38.629Z",
       "updated_at": "2026-04-17T16:27:38.629Z",
       "apply_url": "https://jobs.lever.co/spotify/a8d3838e-01d8-457e-b21c-a5468c10a116",
+      "source": "lever",
+      "seniority": null,
+      "functions": [
+        "Analytics & Data"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "lever_35198a63-5c42-4dad-929f-818aab639284",
+      "title": "Research Scientist, Fixed-Term",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "Stockholm",
+      "location_normalized": "Stockholm",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Personalization",
+      "posted_at": "2026-07-30T18:56:33.885Z",
+      "updated_at": "2026-07-30T18:56:33.885Z",
+      "apply_url": "https://jobs.lever.co/spotify/35198a63-5c42-4dad-929f-818aab639284",
       "source": "lever",
       "seniority": null,
       "functions": [
@@ -6231,6 +6205,28 @@
       "is_grad_relevant": false
     },
     {
+      "id": "lever_58b112cc-7798-4083-9b88-589ab2ad04d7",
+      "title": "Senior Workplace Experience Coordinator, 12 Month Fixed Term",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "Seoul",
+      "location_normalized": "Seoul",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Global Workplace Services",
+      "posted_at": "2026-07-30T05:45:01.133Z",
+      "updated_at": "2026-07-30T05:45:01.133Z",
+      "apply_url": "https://jobs.lever.co/spotify/58b112cc-7798-4083-9b88-589ab2ad04d7",
+      "source": "lever",
+      "seniority": "Manager/Senior",
+      "functions": [],
+      "is_grad_relevant": false
+    },
+    {
       "id": "lever_ea5c969e-e317-44c2-9bda-fe5f1dc42207",
       "title": "Social Marketing Manager",
       "company": "Spotify",
@@ -6438,6 +6434,28 @@
       "posted_at": "2026-05-06T12:16:59.212Z",
       "updated_at": "2026-05-06T12:16:59.212Z",
       "apply_url": "https://jobs.lever.co/spotify/b441bb85-24c0-4ef4-971a-1372952c1c32",
+      "source": "lever",
+      "seniority": null,
+      "functions": [],
+      "is_grad_relevant": false
+    },
+    {
+      "id": "lever_9761af44-be41-43ca-8c01-79cdbb2aef93",
+      "title": "Staff Machine Learning Engineer, Personalization",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "New York, NY",
+      "location_normalized": "New York, NY",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Personalization",
+      "posted_at": "2026-07-30T20:55:39.455Z",
+      "updated_at": "2026-07-30T20:55:39.455Z",
+      "apply_url": "https://jobs.lever.co/spotify/9761af44-be41-43ca-8c01-79cdbb2aef93",
       "source": "lever",
       "seniority": null,
       "functions": [],
