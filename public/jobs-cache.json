@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T07:54:59.315Z",
-  "total": 297,
+  "generated_at": "2026-08-10T08:41:57.094Z",
+  "total": 303,
   "jobs": [
     {
       "id": "greenhouse_8687757002",
@@ -192,6 +192,30 @@
         "Artist & Label Services"
       ],
       "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8691112002",
+      "title": "Artist Relations Intern",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "UK & Ireland, United Kingdom, London",
+      "location_normalized": "UK & Ireland, United Kingdom, London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Internship Program ",
+      "posted_at": "2026-08-10T04:38:28-04:00",
+      "updated_at": "2026-08-10T04:38:28-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691112002",
+      "source": "greenhouse",
+      "seniority": "Intern",
+      "functions": [
+        "Artist & Label Services"
+      ],
+      "is_grad_relevant": false
     },
     {
       "id": "greenhouse_8188207002",
@@ -591,6 +615,31 @@
       "is_grad_relevant": false
     },
     {
+      "id": "greenhouse_8691103002",
+      "title": "Brand Partnerships Intern",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "UK & Ireland, United Kingdom, London",
+      "location_normalized": "UK & Ireland, United Kingdom, London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Internship Program ",
+      "posted_at": "2026-08-10T04:38:38-04:00",
+      "updated_at": "2026-08-10T04:38:38-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691103002",
+      "source": "greenhouse",
+      "seniority": "Intern",
+      "functions": [
+        "Strategy & Biz Dev",
+        "Marketing"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "greenhouse_8186918002",
       "title": "Candidature spontanée F/H ",
       "company": "Sony Music Entertainment",
@@ -891,30 +940,6 @@
       "is_grad_relevant": false
     },
     {
-      "id": "greenhouse_8622013002",
-      "title": "Controller",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "Europe, Finland, Helsinki",
-      "location_normalized": "Europe, Finland, Helsinki",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "SME Finland",
-      "posted_at": "2026-08-05T13:45:19-04:00",
-      "updated_at": "2026-08-05T13:45:19-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8622013002",
-      "source": "greenhouse",
-      "seniority": null,
-      "functions": [
-        "Finance & Accounting"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "greenhouse_8654543002",
       "title": "Coordinador, PX & Manejo Oficina, Costa Rica",
       "company": "Sony Music Entertainment",
@@ -1193,6 +1218,30 @@
       "is_grad_relevant": true
     },
     {
+      "id": "greenhouse_8691120002",
+      "title": "Data Analytics Intern - Sony Music Publishing",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "UK & Ireland, United Kingdom, London",
+      "location_normalized": "UK & Ireland, United Kingdom, London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Internship Program ",
+      "posted_at": "2026-08-10T04:38:51-04:00",
+      "updated_at": "2026-08-10T04:38:51-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691120002",
+      "source": "greenhouse",
+      "seniority": "Intern",
+      "functions": [
+        "Analytics & Data"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "greenhouse_8654146002",
       "title": "Data Strategy & Analytics Rotation Trainee 2026-2027",
       "company": "Sony Music Entertainment",
@@ -1216,6 +1265,28 @@
         "Analytics & Data"
       ],
       "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8691130002",
+      "title": "Design Intern",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "UK & Ireland, United Kingdom, London",
+      "location_normalized": "UK & Ireland, United Kingdom, London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Internship Program ",
+      "posted_at": "2026-08-10T04:39:03-04:00",
+      "updated_at": "2026-08-10T04:39:03-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691130002",
+      "source": "greenhouse",
+      "seniority": "Intern",
+      "functions": [],
+      "is_grad_relevant": false
     },
     {
       "id": "greenhouse_8660998002",
@@ -1288,6 +1359,78 @@
       "is_grad_relevant": true
     },
     {
+      "id": "greenhouse_8691131002",
+      "title": "Digital Marketing Intern - Columbia Records",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "UK & Ireland, United Kingdom, London",
+      "location_normalized": "UK & Ireland, United Kingdom, London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Internship Program ",
+      "posted_at": "2026-08-10T04:39:16-04:00",
+      "updated_at": "2026-08-10T04:39:16-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691131002",
+      "source": "greenhouse",
+      "seniority": "Intern",
+      "functions": [
+        "Marketing"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8691135002",
+      "title": "Digital Marketing Intern - Commercial Group",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "UK & Ireland, United Kingdom, London",
+      "location_normalized": "UK & Ireland, United Kingdom, London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Internship Program ",
+      "posted_at": "2026-08-10T04:39:25-04:00",
+      "updated_at": "2026-08-10T04:39:25-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691135002",
+      "source": "greenhouse",
+      "seniority": "Intern",
+      "functions": [
+        "Marketing"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8691141002",
+      "title": "Digital Marketing Intern - Ministry of Sound Records",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "UK & Ireland, United Kingdom, London",
+      "location_normalized": "UK & Ireland, United Kingdom, London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Internship Program ",
+      "posted_at": "2026-08-10T04:39:35-04:00",
+      "updated_at": "2026-08-10T04:39:35-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691141002",
+      "source": "greenhouse",
+      "seniority": "Intern",
+      "functions": [
+        "Marketing"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "greenhouse_8615659002",
       "title": "Digital Marketing Manager - The Orchard",
       "company": "Sony Music Entertainment",
@@ -1308,6 +1451,30 @@
       "seniority": "Manager/Senior",
       "functions": [
         "Marketing"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8691154002",
+      "title": "Digital Partnerships Intern",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "UK & Ireland, United Kingdom, London",
+      "location_normalized": "UK & Ireland, United Kingdom, London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Internship Program ",
+      "posted_at": "2026-08-10T04:39:54-04:00",
+      "updated_at": "2026-08-10T04:39:54-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691154002",
+      "source": "greenhouse",
+      "seniority": "Intern",
+      "functions": [
+        "Strategy & Biz Dev"
       ],
       "is_grad_relevant": true
     },
@@ -1777,24 +1944,24 @@
       "is_grad_relevant": false
     },
     {
-      "id": "greenhouse_8469124002",
-      "title": "Executive Assistant (MD's Office)",
+      "id": "greenhouse_8691157002",
+      "title": "Fan Engagement CRM Intern",
       "company": "Sony Music Entertainment",
       "company_id": "sony_music",
       "category": "Major Label",
-      "location": "Asia, India, Mumbai",
-      "location_normalized": "Asia, India, Mumbai",
+      "location": "UK & Ireland, United Kingdom, London",
+      "location_normalized": "UK & Ireland, United Kingdom, London",
       "is_remote": false,
       "salary_min": null,
       "salary_max": null,
       "salary_text": null,
       "salary_currency": "USD",
-      "department": "SME India",
-      "posted_at": "2026-08-05T13:45:19-04:00",
-      "updated_at": "2026-08-05T13:45:19-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8469124002",
+      "department": "Internship Program ",
+      "posted_at": "2026-08-10T04:40:04-04:00",
+      "updated_at": "2026-08-10T04:40:04-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691157002",
       "source": "greenhouse",
-      "seniority": "Entry/Associate",
+      "seniority": "Intern",
       "functions": [],
       "is_grad_relevant": false
     },
@@ -1819,6 +1986,78 @@
       "seniority": "Manager/Senior",
       "functions": [
         "Finance & Accounting"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8691162002",
+      "title": "Finance & Royalties Intern ",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "UK & Ireland, United Kingdom, London",
+      "location_normalized": "UK & Ireland, United Kingdom, London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Internship Program ",
+      "posted_at": "2026-08-10T04:40:15-04:00",
+      "updated_at": "2026-08-10T04:40:15-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691162002",
+      "source": "greenhouse",
+      "seniority": "Intern",
+      "functions": [
+        "Finance & Accounting"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8691171002",
+      "title": "Insight & Analytics Intern ",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "UK & Ireland, United Kingdom, London",
+      "location_normalized": "UK & Ireland, United Kingdom, London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Internship Program ",
+      "posted_at": "2026-08-10T04:40:28-04:00",
+      "updated_at": "2026-08-10T04:40:28-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691171002",
+      "source": "greenhouse",
+      "seniority": "Intern",
+      "functions": [
+        "Analytics & Data"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8691173002",
+      "title": "International Legal, Business Affairs & Licensing Intern - Sony Music Publishing",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "UK & Ireland, United Kingdom, London",
+      "location_normalized": "UK & Ireland, United Kingdom, London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Internship Program ",
+      "posted_at": "2026-08-10T04:40:38-04:00",
+      "updated_at": "2026-08-10T04:40:38-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691173002",
+      "source": "greenhouse",
+      "seniority": "Intern",
+      "functions": [
+        "Legal & Business Affairs"
       ],
       "is_grad_relevant": true
     },
@@ -1959,30 +2198,6 @@
       "posted_at": "2026-08-06T07:05:45-04:00",
       "updated_at": "2026-08-06T07:05:45-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8643104002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Technology & Product"
-      ],
-      "is_grad_relevant": true
-    },
-    {
-      "id": "greenhouse_8405122002",
-      "title": "Lead Software Engineer, Pub Admin",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "UK & Ireland, United Kingdom, London",
-      "location_normalized": "UK & Ireland, United Kingdom, London",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Product & Engineering",
-      "posted_at": "2026-08-05T13:45:19-04:00",
-      "updated_at": "2026-08-05T13:45:19-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8405122002",
       "source": "greenhouse",
       "seniority": "Manager/Senior",
       "functions": [
@@ -2945,79 +3160,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8519292002",
-      "title": "Senior Software Engineer, Accounting & Royalties",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "UK & Ireland, United Kingdom, London",
-      "location_normalized": "UK & Ireland, United Kingdom, London",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Product & Engineering",
-      "posted_at": "2026-08-05T13:45:19-04:00",
-      "updated_at": "2026-08-05T13:45:19-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8519292002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Finance & Accounting",
-        "Technology & Product"
-      ],
-      "is_grad_relevant": true
-    },
-    {
-      "id": "greenhouse_8344246002",
-      "title": "Senior Software Engineer, D2C",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "UK & Ireland, United Kingdom, London",
-      "location_normalized": "UK & Ireland, United Kingdom, London",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Product & Engineering",
-      "posted_at": "2026-08-05T13:45:19-04:00",
-      "updated_at": "2026-08-05T13:45:19-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8344246002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Technology & Product"
-      ],
-      "is_grad_relevant": true
-    },
-    {
-      "id": "greenhouse_8405125002",
-      "title": "Senior Software Engineer, Pub Admin",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "UK & Ireland, United Kingdom, London",
-      "location_normalized": "UK & Ireland, United Kingdom, London",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Product & Engineering",
-      "posted_at": "2026-08-05T13:45:19-04:00",
-      "updated_at": "2026-08-05T13:45:19-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8405125002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Technology & Product"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "greenhouse_8630624002",
       "title": "Social Content & D2C Growth Supervisor",
       "company": "Sony Music Entertainment",
@@ -3064,8 +3206,8 @@
       "is_grad_relevant": false
     },
     {
-      "id": "greenhouse_8336599002",
-      "title": "Software Engineer, D2C",
+      "id": "greenhouse_8646105002",
+      "title": "Software Engineer",
       "company": "Sony Music Entertainment",
       "company_id": "sony_music",
       "category": "Major Label",
@@ -3077,9 +3219,9 @@
       "salary_text": null,
       "salary_currency": "USD",
       "department": "Product & Engineering",
-      "posted_at": "2026-08-06T06:35:37-04:00",
-      "updated_at": "2026-08-06T06:35:37-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8336599002",
+      "posted_at": "2026-08-09T10:07:12-04:00",
+      "updated_at": "2026-08-09T10:07:12-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8646105002",
       "source": "greenhouse",
       "seniority": null,
       "functions": [
