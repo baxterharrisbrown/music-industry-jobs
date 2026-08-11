@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T08:41:57.094Z",
-  "total": 303,
+  "generated_at": "2026-08-11T08:10:59.422Z",
+  "total": 306,
   "jobs": [
     {
       "id": "greenhouse_8687757002",
@@ -47,30 +47,6 @@
       "seniority": "Manager/Senior",
       "functions": [],
       "is_grad_relevant": false
-    },
-    {
-      "id": "greenhouse_8219411002",
-      "title": "Admin Assistant, Marketing - Epic",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, California, Los Angeles",
-      "location_normalized": "United States, California, Los Angeles",
-      "is_remote": false,
-      "salary_min": 45000,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Epic Frontline",
-      "posted_at": "2026-08-06T12:02:11-04:00",
-      "updated_at": "2026-08-06T12:02:11-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8219411002",
-      "source": "greenhouse",
-      "seniority": "Entry/Associate",
-      "functions": [
-        "Marketing"
-      ],
-      "is_grad_relevant": true
     },
     {
       "id": "greenhouse_8588592002",
@@ -194,7 +170,7 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8691112002",
+      "id": "greenhouse_8693094002",
       "title": "Artist Relations Intern",
       "company": "Sony Music Entertainment",
       "company_id": "sony_music",
@@ -207,9 +183,9 @@
       "salary_text": null,
       "salary_currency": "USD",
       "department": "Internship Program ",
-      "posted_at": "2026-08-10T04:38:28-04:00",
-      "updated_at": "2026-08-10T04:38:28-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691112002",
+      "posted_at": "2026-08-10T14:28:30-04:00",
+      "updated_at": "2026-08-10T14:28:30-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8693094002",
       "source": "greenhouse",
       "seniority": "Intern",
       "functions": [
@@ -628,8 +604,8 @@
       "salary_text": null,
       "salary_currency": "USD",
       "department": "Internship Program ",
-      "posted_at": "2026-08-10T04:38:38-04:00",
-      "updated_at": "2026-08-10T04:38:38-04:00",
+      "posted_at": "2026-08-10T06:59:57-04:00",
+      "updated_at": "2026-08-10T06:59:57-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691103002",
       "source": "greenhouse",
       "seniority": "Intern",
@@ -1231,8 +1207,8 @@
       "salary_text": null,
       "salary_currency": "USD",
       "department": "Internship Program ",
-      "posted_at": "2026-08-10T04:38:51-04:00",
-      "updated_at": "2026-08-10T04:38:51-04:00",
+      "posted_at": "2026-08-10T07:00:30-04:00",
+      "updated_at": "2026-08-10T07:00:30-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691120002",
       "source": "greenhouse",
       "seniority": "Intern",
@@ -1280,8 +1256,8 @@
       "salary_text": null,
       "salary_currency": "USD",
       "department": "Internship Program ",
-      "posted_at": "2026-08-10T04:39:03-04:00",
-      "updated_at": "2026-08-10T04:39:03-04:00",
+      "posted_at": "2026-08-10T07:01:38-04:00",
+      "updated_at": "2026-08-10T07:01:38-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691130002",
       "source": "greenhouse",
       "seniority": "Intern",
@@ -1372,8 +1348,8 @@
       "salary_text": null,
       "salary_currency": "USD",
       "department": "Internship Program ",
-      "posted_at": "2026-08-10T04:39:16-04:00",
-      "updated_at": "2026-08-10T04:39:16-04:00",
+      "posted_at": "2026-08-10T13:47:07-04:00",
+      "updated_at": "2026-08-10T13:47:07-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691131002",
       "source": "greenhouse",
       "seniority": "Intern",
@@ -1396,8 +1372,8 @@
       "salary_text": null,
       "salary_currency": "USD",
       "department": "Internship Program ",
-      "posted_at": "2026-08-10T04:39:25-04:00",
-      "updated_at": "2026-08-10T04:39:25-04:00",
+      "posted_at": "2026-08-10T12:46:17-04:00",
+      "updated_at": "2026-08-10T12:46:17-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691135002",
       "source": "greenhouse",
       "seniority": "Intern",
@@ -1420,8 +1396,8 @@
       "salary_text": null,
       "salary_currency": "USD",
       "department": "Internship Program ",
-      "posted_at": "2026-08-10T04:39:35-04:00",
-      "updated_at": "2026-08-10T04:39:35-04:00",
+      "posted_at": "2026-08-10T07:03:27-04:00",
+      "updated_at": "2026-08-10T07:03:27-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691141002",
       "source": "greenhouse",
       "seniority": "Intern",
@@ -1468,8 +1444,8 @@
       "salary_text": null,
       "salary_currency": "USD",
       "department": "Internship Program ",
-      "posted_at": "2026-08-10T04:39:54-04:00",
-      "updated_at": "2026-08-10T04:39:54-04:00",
+      "posted_at": "2026-08-10T07:04:03-04:00",
+      "updated_at": "2026-08-10T07:04:03-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691154002",
       "source": "greenhouse",
       "seniority": "Intern",
@@ -1525,30 +1501,6 @@
         "Artist & Label Services"
       ],
       "is_grad_relevant": false
-    },
-    {
-      "id": "greenhouse_8567516002",
-      "title": "Director, Commercial Partnerships Lead- The Orchard",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, California, Los Angeles",
-      "location_normalized": "United States, California, Los Angeles",
-      "is_remote": false,
-      "salary_min": 100000,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "The Orchard",
-      "posted_at": "2026-08-05T13:45:19-04:00",
-      "updated_at": "2026-08-05T13:45:19-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8567516002",
-      "source": "greenhouse",
-      "seniority": "Director",
-      "functions": [
-        "Strategy & Biz Dev"
-      ],
-      "is_grad_relevant": true
     },
     {
       "id": "greenhouse_8393126002",
@@ -1957,8 +1909,8 @@
       "salary_text": null,
       "salary_currency": "USD",
       "department": "Internship Program ",
-      "posted_at": "2026-08-10T04:40:04-04:00",
-      "updated_at": "2026-08-10T04:40:04-04:00",
+      "posted_at": "2026-08-10T07:04:38-04:00",
+      "updated_at": "2026-08-10T07:04:38-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691157002",
       "source": "greenhouse",
       "seniority": "Intern",
@@ -2003,8 +1955,8 @@
       "salary_text": null,
       "salary_currency": "USD",
       "department": "Internship Program ",
-      "posted_at": "2026-08-10T04:40:15-04:00",
-      "updated_at": "2026-08-10T04:40:15-04:00",
+      "posted_at": "2026-08-10T07:05:09-04:00",
+      "updated_at": "2026-08-10T07:05:09-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691162002",
       "source": "greenhouse",
       "seniority": "Intern",
@@ -2027,8 +1979,8 @@
       "salary_text": null,
       "salary_currency": "USD",
       "department": "Internship Program ",
-      "posted_at": "2026-08-10T04:40:28-04:00",
-      "updated_at": "2026-08-10T04:40:28-04:00",
+      "posted_at": "2026-08-10T07:05:46-04:00",
+      "updated_at": "2026-08-10T07:05:46-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691171002",
       "source": "greenhouse",
       "seniority": "Intern",
@@ -2051,8 +2003,8 @@
       "salary_text": null,
       "salary_currency": "USD",
       "department": "Internship Program ",
-      "posted_at": "2026-08-10T04:40:38-04:00",
-      "updated_at": "2026-08-10T04:40:38-04:00",
+      "posted_at": "2026-08-10T07:06:22-04:00",
+      "updated_at": "2026-08-10T07:06:22-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691173002",
       "source": "greenhouse",
       "seniority": "Intern",
@@ -2080,6 +2032,30 @@
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8399804002",
       "source": "greenhouse",
       "seniority": "Director",
+      "functions": [
+        "Marketing"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8691186002",
+      "title": "International Marketing Intern - Commercial Group",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "UK & Ireland, United Kingdom, London",
+      "location_normalized": "UK & Ireland, United Kingdom, London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Internship Program ",
+      "posted_at": "2026-08-10T07:06:55-04:00",
+      "updated_at": "2026-08-10T07:06:55-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691186002",
+      "source": "greenhouse",
+      "seniority": "Intern",
       "functions": [
         "Marketing"
       ],
@@ -2182,6 +2158,30 @@
       "is_grad_relevant": true
     },
     {
+      "id": "greenhouse_8691187002",
+      "title": "Latin International Marketing Intern",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "UK & Ireland, United Kingdom, London",
+      "location_normalized": "UK & Ireland, United Kingdom, London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Internship Program ",
+      "posted_at": "2026-08-10T07:07:37-04:00",
+      "updated_at": "2026-08-10T07:07:37-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691187002",
+      "source": "greenhouse",
+      "seniority": "Intern",
+      "functions": [
+        "Marketing"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "greenhouse_8643104002",
       "title": "Lead Software Engineer",
       "company": "Sony Music Entertainment",
@@ -2230,30 +2230,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8459852002",
-      "title": "Manager, A&R - AWAL",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, California, Los Angeles",
-      "location_normalized": "United States, California, Los Angeles",
-      "is_remote": false,
-      "salary_min": 75000,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "AWAL",
-      "posted_at": "2026-08-05T13:45:19-04:00",
-      "updated_at": "2026-08-05T13:45:19-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8459852002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Artist & Label Services"
-      ],
-      "is_grad_relevant": false
-    },
-    {
       "id": "greenhouse_8456255002",
       "title": "Manager, A&R - AWAL",
       "company": "Sony Music Entertainment",
@@ -2278,28 +2254,28 @@
       "is_grad_relevant": false
     },
     {
-      "id": "greenhouse_8641853002",
-      "title": "Manager, Commercial Partnerships",
+      "id": "greenhouse_8459852002",
+      "title": "Manager, A&R - AWAL",
       "company": "Sony Music Entertainment",
       "company_id": "sony_music",
       "category": "Major Label",
-      "location": "Canada, Ontario, Toronto",
-      "location_normalized": "Canada, Ontario, Toronto",
+      "location": "United States, California, Los Angeles",
+      "location_normalized": "United States, California, Los Angeles",
       "is_remote": false,
-      "salary_min": 64000,
-      "salary_max": 80000,
+      "salary_min": 75000,
+      "salary_max": null,
       "salary_text": null,
       "salary_currency": "USD",
-      "department": "Canada Commercial Partnerships",
+      "department": "AWAL",
       "posted_at": "2026-08-05T13:45:19-04:00",
       "updated_at": "2026-08-05T13:45:19-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8641853002",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8459852002",
       "source": "greenhouse",
       "seniority": "Manager/Senior",
       "functions": [
-        "Strategy & Biz Dev"
+        "Artist & Label Services"
       ],
-      "is_grad_relevant": true
+      "is_grad_relevant": false
     },
     {
       "id": "greenhouse_8065405002",
@@ -2492,6 +2468,78 @@
       "is_grad_relevant": true
     },
     {
+      "id": "greenhouse_8691205002",
+      "title": "Marketing Intern - AWAL",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "UK & Ireland, United Kingdom, London",
+      "location_normalized": "UK & Ireland, United Kingdom, London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Internship Program ",
+      "posted_at": "2026-08-10T07:08:12-04:00",
+      "updated_at": "2026-08-10T07:08:12-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691205002",
+      "source": "greenhouse",
+      "seniority": "Intern",
+      "functions": [
+        "Marketing"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8691207002",
+      "title": "Marketing Intern - Columbia Records",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "UK & Ireland, United Kingdom, London",
+      "location_normalized": "UK & Ireland, United Kingdom, London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Internship Program ",
+      "posted_at": "2026-08-10T07:08:56-04:00",
+      "updated_at": "2026-08-10T07:08:56-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691207002",
+      "source": "greenhouse",
+      "seniority": "Intern",
+      "functions": [
+        "Marketing"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8691210002",
+      "title": "Marketing Intern - Commercial Group",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "UK & Ireland, United Kingdom, London",
+      "location_normalized": "UK & Ireland, United Kingdom, London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Internship Program ",
+      "posted_at": "2026-08-10T07:09:35-04:00",
+      "updated_at": "2026-08-10T07:09:35-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691210002",
+      "source": "greenhouse",
+      "seniority": "Intern",
+      "functions": [
+        "Marketing"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "greenhouse_8498389002",
       "title": "Marketing Intern- OVO SOUND",
       "company": "Sony Music Entertainment",
@@ -2508,6 +2556,30 @@
       "posted_at": "2026-08-05T13:45:19-04:00",
       "updated_at": "2026-08-05T13:45:19-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8498389002",
+      "source": "greenhouse",
+      "seniority": "Intern",
+      "functions": [
+        "Marketing"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8691216002",
+      "title": "Marketing Intern - RCA Records",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "UK & Ireland, United Kingdom, London",
+      "location_normalized": "UK & Ireland, United Kingdom, London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Internship Program ",
+      "posted_at": "2026-08-10T07:10:06-04:00",
+      "updated_at": "2026-08-10T07:10:06-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691216002",
       "source": "greenhouse",
       "seniority": "Intern",
       "functions": [
@@ -2586,6 +2658,28 @@
         "Marketing"
       ],
       "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8691221002",
+      "title": "Merchandise Intern - Ceremony of Roses ",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "UK & Ireland, United Kingdom, London",
+      "location_normalized": "UK & Ireland, United Kingdom, London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Internship Program ",
+      "posted_at": "2026-08-10T07:10:41-04:00",
+      "updated_at": "2026-08-10T07:10:41-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691221002",
+      "source": "greenhouse",
+      "seniority": "Intern",
+      "functions": [],
+      "is_grad_relevant": false
     },
     {
       "id": "greenhouse_8593093002",
@@ -2797,6 +2891,28 @@
         "Marketing"
       ],
       "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8691232002",
+      "title": "Production Intern",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "UK & Ireland, United Kingdom, London",
+      "location_normalized": "UK & Ireland, United Kingdom, London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Internship Program ",
+      "posted_at": "2026-08-10T07:11:18-04:00",
+      "updated_at": "2026-08-10T07:11:18-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691232002",
+      "source": "greenhouse",
+      "seniority": "Intern",
+      "functions": [],
+      "is_grad_relevant": false
     },
     {
       "id": "greenhouse_8415949002",
@@ -3267,8 +3383,8 @@
       "salary_text": null,
       "salary_currency": "USD",
       "department": "Commercial Group",
-      "posted_at": "2026-08-05T13:45:19-04:00",
-      "updated_at": "2026-08-05T13:45:19-04:00",
+      "posted_at": "2026-08-10T11:43:42-04:00",
+      "updated_at": "2026-08-10T11:43:42-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8568968002",
       "source": "greenhouse",
       "seniority": "Manager/Senior",
@@ -3348,6 +3464,53 @@
         "Marketing"
       ],
       "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8691235002",
+      "title": "Streaming & Partnerships - The Orchard",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "UK & Ireland, United Kingdom, London",
+      "location_normalized": "UK & Ireland, United Kingdom, London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Internship Program ",
+      "posted_at": "2026-08-10T07:11:46-04:00",
+      "updated_at": "2026-08-10T07:11:46-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691235002",
+      "source": "greenhouse",
+      "seniority": null,
+      "functions": [
+        "Strategy & Biz Dev",
+        "Artist & Label Services"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8691238002",
+      "title": "Studio Intern - Sony Music Publishing",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "UK & Ireland, United Kingdom, London",
+      "location_normalized": "UK & Ireland, United Kingdom, London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Internship Program ",
+      "posted_at": "2026-08-10T06:35:53-04:00",
+      "updated_at": "2026-08-10T06:35:53-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8691238002",
+      "source": "greenhouse",
+      "seniority": "Intern",
+      "functions": [],
+      "is_grad_relevant": false
     },
     {
       "id": "greenhouse_8626943002",
@@ -3492,31 +3655,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8642700002",
-      "title": "Data Engineer",
-      "company": "Downtown Music",
-      "company_id": "downtown_music",
-      "category": "Publishing / Rights",
-      "location": "Nashville, Tennessee, United States",
-      "location_normalized": "Nashville, Tennessee, United States",
-      "is_remote": false,
-      "salary_min": 135000,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Engineering",
-      "posted_at": "2026-08-07T12:57:07-04:00",
-      "updated_at": "2026-08-07T12:57:07-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/downtownmusic/jobs/8642700002",
-      "source": "greenhouse",
-      "seniority": null,
-      "functions": [
-        "Analytics & Data",
-        "Technology & Product"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "greenhouse_8634235002",
       "title": "Full Stack Engineer",
       "company": "Downtown Music",
@@ -3554,8 +3692,8 @@
       "salary_text": null,
       "salary_currency": "USD",
       "department": "Client Services",
-      "posted_at": "2026-08-07T17:27:16-04:00",
-      "updated_at": "2026-08-07T17:27:16-04:00",
+      "posted_at": "2026-08-10T16:41:32-04:00",
+      "updated_at": "2026-08-10T16:41:32-04:00",
       "apply_url": "https://job-boards.greenhouse.io/downtownmusic/jobs/8686374002",
       "source": "greenhouse",
       "seniority": "Director",
@@ -4225,31 +4363,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "lever_4310f31c-90e1-4e8d-bdcf-dce39c145b8c",
-      "title": "Associate – Audiobook Licensing & Author Partnerships",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "New York, NY",
-      "location_normalized": "New York, NY",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Audio Books & Gated Content",
-      "posted_at": "2026-07-09T14:55:35.950Z",
-      "updated_at": "2026-07-09T14:55:35.950Z",
-      "apply_url": "https://jobs.lever.co/spotify/4310f31c-90e1-4e8d-bdcf-dce39c145b8c",
-      "source": "lever",
-      "seniority": "Entry/Associate",
-      "functions": [
-        "Strategy & Biz Dev",
-        "Legal & Business Affairs"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "lever_d5628547-6362-470e-8828-7ab565054eaa",
       "title": "Associate Client Partner - Emerging & Scaled (New Business, German Speaking)",
       "company": "Spotify",
@@ -4498,30 +4611,6 @@
       "is_grad_relevant": false
     },
     {
-      "id": "lever_66d3d827-e4c3-452d-a49c-b162b4bf86ea",
-      "title": "Creative Director - Social",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "New York, NY",
-      "location_normalized": "New York, NY",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Marketing",
-      "posted_at": "2026-07-24T19:47:41.559Z",
-      "updated_at": "2026-07-24T19:47:41.559Z",
-      "apply_url": "https://jobs.lever.co/spotify/66d3d827-e4c3-452d-a49c-b162b4bf86ea",
-      "source": "lever",
-      "seniority": "Director",
-      "functions": [
-        "Marketing"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "lever_0b8ea4d4-57ee-49c1-a57f-9a37248ee24f",
       "title": "Creative Lead - Visual Merchandising",
       "company": "Spotify",
@@ -4593,30 +4682,6 @@
       "is_grad_relevant": false
     },
     {
-      "id": "lever_5e91f92c-7487-40c5-92d8-b335b3b52ae9",
-      "title": "Data Scientist",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "New York, NY",
-      "location_normalized": "New York, NY",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Content Analytics",
-      "posted_at": "2026-06-09T10:41:42.915Z",
-      "updated_at": "2026-06-09T10:41:42.915Z",
-      "apply_url": "https://jobs.lever.co/spotify/5e91f92c-7487-40c5-92d8-b335b3b52ae9",
-      "source": "lever",
-      "seniority": null,
-      "functions": [
-        "Analytics & Data"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "lever_759f6c62-e450-4112-9db6-0c01eef47c76",
       "title": "Data Scientist",
       "company": "Spotify",
@@ -4636,6 +4701,31 @@
       "source": "lever",
       "seniority": null,
       "functions": [
+        "Analytics & Data"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "lever_73e87af2-1cf9-4aa2-bf3f-032cd2c3b05c",
+      "title": "Data Scientist, Finance Data & Insights",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "New York, NY",
+      "location_normalized": "New York, NY",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Accounting",
+      "posted_at": "2026-08-10T19:00:06.939Z",
+      "updated_at": "2026-08-10T19:00:06.939Z",
+      "apply_url": "https://jobs.lever.co/spotify/73e87af2-1cf9-4aa2-bf3f-032cd2c3b05c",
+      "source": "lever",
+      "seniority": null,
+      "functions": [
+        "Finance & Accounting",
         "Analytics & Data"
       ],
       "is_grad_relevant": true
@@ -5089,31 +5179,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "lever_7e7e90ab-e98e-4589-94a6-b83d52c4e20d",
-      "title": "Legal Counsel - Platform Liability",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "New York, NY",
-      "location_normalized": "New York, NY",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Legal",
-      "posted_at": "2026-04-22T03:48:56.477Z",
-      "updated_at": "2026-04-22T03:48:56.477Z",
-      "apply_url": "https://jobs.lever.co/spotify/7e7e90ab-e98e-4589-94a6-b83d52c4e20d",
-      "source": "lever",
-      "seniority": null,
-      "functions": [
-        "Legal & Business Affairs",
-        "Technology & Product"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "lever_c06439d5-1d38-4c0d-99d8-2c5431bec463",
       "title": "Legal Counsel - Platform Liability",
       "company": "Spotify",
@@ -5474,31 +5539,6 @@
       "source": "lever",
       "seniority": null,
       "functions": [
-        "Technology & Product"
-      ],
-      "is_grad_relevant": true
-    },
-    {
-      "id": "lever_03437e2a-2d5e-4593-9e97-11271014932e",
-      "title": "Product Manager - Data Platform",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "Toronto",
-      "location_normalized": "Toronto",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Platform",
-      "posted_at": "2026-04-14T09:50:37.237Z",
-      "updated_at": "2026-04-14T09:50:37.237Z",
-      "apply_url": "https://jobs.lever.co/spotify/03437e2a-2d5e-4593-9e97-11271014932e",
-      "source": "lever",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Analytics & Data",
         "Technology & Product"
       ],
       "is_grad_relevant": true
@@ -6710,6 +6750,56 @@
       "is_grad_relevant": true
     },
     {
+      "id": "lever_96ef3967-af15-445b-a62f-d1e701b3fed2",
+      "title": "Forward Deployed Engineer, Data & AI",
+      "company": "Warner Music Group",
+      "company_id": "warner_music",
+      "category": "Major Label",
+      "location": "London",
+      "location_normalized": "London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Data Platform",
+      "posted_at": "2026-08-10T22:41:22.006Z",
+      "updated_at": "2026-08-10T22:41:22.006Z",
+      "apply_url": "https://jobs.lever.co/wmg/96ef3967-af15-445b-a62f-d1e701b3fed2",
+      "source": "lever",
+      "seniority": null,
+      "functions": [
+        "Analytics & Data",
+        "Technology & Product"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "lever_c37a509c-a64b-4ee6-bc70-955f3f43898f",
+      "title": "Forward Deployed Engineer, Data & AI",
+      "company": "Warner Music Group",
+      "company_id": "warner_music",
+      "category": "Major Label",
+      "location": "Tel Aviv",
+      "location_normalized": "Tel Aviv",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Data Platform",
+      "posted_at": "2026-08-10T22:53:53.674Z",
+      "updated_at": "2026-08-10T22:53:53.674Z",
+      "apply_url": "https://jobs.lever.co/wmg/c37a509c-a64b-4ee6-bc70-955f3f43898f",
+      "source": "lever",
+      "seniority": null,
+      "functions": [
+        "Analytics & Data",
+        "Technology & Product"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "lever_cc5124f5-1380-474e-95a5-611dad0654fe",
       "title": "Infrastructure Engineer - Oracle DBA",
       "company": "Warner Music Group",
@@ -6849,30 +6939,6 @@
       "seniority": "Manager/Senior",
       "functions": [
         "Analytics & Data",
-        "Technology & Product"
-      ],
-      "is_grad_relevant": true
-    },
-    {
-      "id": "lever_d28114c1-9a80-4d4f-9a5b-1ca3be15c6e5",
-      "title": "Shopify Developer",
-      "company": "Warner Music Group",
-      "company_id": "warner_music",
-      "category": "Major Label",
-      "location": "Ontario",
-      "location_normalized": "Ontario",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Software Engineering",
-      "posted_at": "2026-07-06T20:27:37.673Z",
-      "updated_at": "2026-07-06T20:27:37.673Z",
-      "apply_url": "https://jobs.lever.co/wmg/d28114c1-9a80-4d4f-9a5b-1ca3be15c6e5",
-      "source": "lever",
-      "seniority": null,
-      "functions": [
         "Technology & Product"
       ],
       "is_grad_relevant": true
