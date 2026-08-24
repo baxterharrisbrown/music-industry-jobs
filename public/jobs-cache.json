@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T07:36:40.384Z",
-  "total": 327,
+  "generated_at": "2026-08-24T07:59:21.813Z",
+  "total": 326,
   "jobs": [
     {
       "id": "greenhouse_8687757002",
@@ -1874,6 +1874,30 @@
       "is_grad_relevant": true
     },
     {
+      "id": "greenhouse_8690322002",
+      "title": "Finance Director",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "Asia, Philippines, Manila",
+      "location_normalized": "Asia, Philippines, Manila",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Finance (Corporate)",
+      "posted_at": "2026-08-18T10:46:05-04:00",
+      "updated_at": "2026-08-18T10:46:05-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8690322002",
+      "source": "greenhouse",
+      "seniority": "Director",
+      "functions": [
+        "Finance & Accounting"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "greenhouse_8690596002",
       "title": "Finance Director",
       "company": "Sony Music Entertainment",
@@ -1938,30 +1962,6 @@
       "posted_at": "2026-08-18T10:46:05-04:00",
       "updated_at": "2026-08-18T10:46:05-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8690344002",
-      "source": "greenhouse",
-      "seniority": "Director",
-      "functions": [
-        "Finance & Accounting"
-      ],
-      "is_grad_relevant": true
-    },
-    {
-      "id": "greenhouse_8690322002",
-      "title": "Finance Director",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "Asia, Philippines, Manila",
-      "location_normalized": "Asia, Philippines, Manila",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Finance (Corporate)",
-      "posted_at": "2026-08-18T10:46:05-04:00",
-      "updated_at": "2026-08-18T10:46:05-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8690322002",
       "source": "greenhouse",
       "seniority": "Director",
       "functions": [
@@ -3957,30 +3957,6 @@
       "is_grad_relevant": false
     },
     {
-      "id": "greenhouse_8675813002",
-      "title": "Werkstudent (m/w/d) Controlling & Reporting",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "Europe, Germany, Berlin",
-      "location_normalized": "Europe, Germany, Berlin",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "SME Germany",
-      "posted_at": "2026-08-18T10:46:05-04:00",
-      "updated_at": "2026-08-18T10:46:05-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8675813002",
-      "source": "greenhouse",
-      "seniority": null,
-      "functions": [
-        "Analytics & Data"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "greenhouse_5195653007",
       "title": "Senior Engineer, QA Automation",
       "company": "SoundExchange",
@@ -4218,28 +4194,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8675172002",
-      "title": "Business Supervisor",
-      "company": "UnitedMasters",
-      "company_id": "unitedmasters",
-      "category": "Music Tech",
-      "location": "Brooklyn, NY",
-      "location_normalized": "Brooklyn, NY",
-      "is_remote": false,
-      "salary_min": 83000,
-      "salary_max": 100000,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Account Management",
-      "posted_at": "2026-08-03T18:30:07-04:00",
-      "updated_at": "2026-08-03T18:30:07-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/unitedmasterstranslation/jobs/8675172002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [],
-      "is_grad_relevant": false
-    },
-    {
       "id": "greenhouse_8733214002",
       "title": "Business Supervisor",
       "company": "UnitedMasters",
@@ -4256,6 +4210,28 @@
       "posted_at": "2026-08-20T09:38:00-04:00",
       "updated_at": "2026-08-20T09:38:00-04:00",
       "apply_url": "https://job-boards.greenhouse.io/unitedmasterstranslation/jobs/8733214002",
+      "source": "greenhouse",
+      "seniority": "Manager/Senior",
+      "functions": [],
+      "is_grad_relevant": false
+    },
+    {
+      "id": "greenhouse_8675172002",
+      "title": "Business Supervisor",
+      "company": "UnitedMasters",
+      "company_id": "unitedmasters",
+      "category": "Music Tech",
+      "location": "Brooklyn, NY",
+      "location_normalized": "Brooklyn, NY",
+      "is_remote": false,
+      "salary_min": 83000,
+      "salary_max": 100000,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Account Management",
+      "posted_at": "2026-08-03T18:30:07-04:00",
+      "updated_at": "2026-08-03T18:30:07-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/unitedmasterstranslation/jobs/8675172002",
       "source": "greenhouse",
       "seniority": "Manager/Senior",
       "functions": [],
