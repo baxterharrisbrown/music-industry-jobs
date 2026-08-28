@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T18:10:01.135Z",
+  "generated_at": "2026-08-28T19:20:07.393Z",
   "total": 298,
   "jobs": [
     {
@@ -1851,30 +1851,6 @@
       "is_grad_relevant": false
     },
     {
-      "id": "greenhouse_8705072002",
-      "title": "Lead Software Engineer",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "Europe, Estonia, Tallinn; UK & Ireland, United Kingdom, London",
-      "location_normalized": "Europe, Estonia, Tallinn; UK & Ireland, United Kingdom, London",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Product & Engineering",
-      "posted_at": "2026-08-27T10:06:13-04:00",
-      "updated_at": "2026-08-27T10:06:13-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8705072002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Technology & Product"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "greenhouse_8643104002",
       "title": "Lead Software Engineer",
       "company": "Sony Music Entertainment",
@@ -1891,6 +1867,30 @@
       "posted_at": "2026-08-27T10:06:13-04:00",
       "updated_at": "2026-08-27T10:06:13-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8643104002",
+      "source": "greenhouse",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Technology & Product"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8705072002",
+      "title": "Lead Software Engineer",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "Europe, Estonia, Tallinn; UK & Ireland, United Kingdom, London",
+      "location_normalized": "Europe, Estonia, Tallinn; UK & Ireland, United Kingdom, London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Product & Engineering",
+      "posted_at": "2026-08-27T10:06:13-04:00",
+      "updated_at": "2026-08-27T10:06:13-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8705072002",
       "source": "greenhouse",
       "seniority": "Manager/Senior",
       "functions": [
@@ -3062,30 +3062,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8344246002",
-      "title": "Senior Software Engineer, D2C",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "UK & Ireland, United Kingdom, London",
-      "location_normalized": "UK & Ireland, United Kingdom, London",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Product & Engineering",
-      "posted_at": "2026-08-27T10:06:13-04:00",
-      "updated_at": "2026-08-27T10:06:13-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8344246002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Technology & Product"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "greenhouse_8730207002",
       "title": "Senior Software Engineer, Data Ops - PDEGO   ",
       "company": "Sony Music Entertainment",
@@ -4233,6 +4209,30 @@
       "seniority": null,
       "functions": [],
       "is_grad_relevant": false
+    },
+    {
+      "id": "lever_d87833d0-fb78-4794-b45d-3fe5c8274bc8",
+      "title": "Artist & Label Partnerships Contractor, Vietnam",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "Ho Chi Minh",
+      "location_normalized": "Ho Chi Minh",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Music Business",
+      "posted_at": "2026-08-27T03:43:07.805Z",
+      "updated_at": "2026-08-27T03:43:07.805Z",
+      "apply_url": "https://jobs.lever.co/spotify/d87833d0-fb78-4794-b45d-3fe5c8274bc8",
+      "source": "lever",
+      "seniority": null,
+      "functions": [
+        "Strategy & Biz Dev"
+      ],
+      "is_grad_relevant": true
     },
     {
       "id": "lever_ddb5dfa9-c5ef-4199-bd19-c179af568cc8",
@@ -5695,6 +5695,30 @@
       "is_grad_relevant": true
     },
     {
+      "id": "lever_34e3828f-db98-486f-a077-cd67ece45be0",
+      "title": "Senior Product Designer - Platform and Partner Experience",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "London",
+      "location_normalized": "London",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Personalization",
+      "posted_at": "2026-08-28T13:23:56.446Z",
+      "updated_at": "2026-08-28T13:23:56.446Z",
+      "apply_url": "https://jobs.lever.co/spotify/34e3828f-db98-486f-a077-cd67ece45be0",
+      "source": "lever",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Technology & Product"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "lever_008e0a44-088b-48f2-b100-cce07e40a45b",
       "title": "Senior Product Manager - Advertising",
       "company": "Spotify",
@@ -5954,31 +5978,6 @@
       "seniority": "Manager/Senior",
       "functions": [],
       "is_grad_relevant": false
-    },
-    {
-      "id": "lever_f503e610-7346-4892-ab39-fb6dbe6d1585",
-      "title": "Social Strategy Manager, Brand Social",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "New York, NY",
-      "location_normalized": "New York, NY",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Marketing",
-      "posted_at": "2026-08-19T15:10:05.445Z",
-      "updated_at": "2026-08-19T15:10:05.445Z",
-      "apply_url": "https://jobs.lever.co/spotify/f503e610-7346-4892-ab39-fb6dbe6d1585",
-      "source": "lever",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Strategy & Biz Dev",
-        "Marketing"
-      ],
-      "is_grad_relevant": true
     },
     {
       "id": "lever_308d127c-e765-4895-9264-3765ddbfc620",
