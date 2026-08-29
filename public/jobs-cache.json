@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-28T19:20:07.393Z",
-  "total": 298,
+  "generated_at": "2026-08-29T13:04:29.058Z",
+  "total": 300,
   "jobs": [
     {
       "id": "greenhouse_8704690002",
@@ -1540,30 +1540,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8690344002",
-      "title": "Finance Director",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "Asia, Thailand, Bangkok",
-      "location_normalized": "Asia, Thailand, Bangkok",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Finance (Corporate)",
-      "posted_at": "2026-08-27T10:06:13-04:00",
-      "updated_at": "2026-08-27T10:06:13-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8690344002",
-      "source": "greenhouse",
-      "seniority": "Director",
-      "functions": [
-        "Finance & Accounting"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "greenhouse_8690322002",
       "title": "Finance Director",
       "company": "Sony Music Entertainment",
@@ -1612,6 +1588,30 @@
       "is_grad_relevant": true
     },
     {
+      "id": "greenhouse_8690459002",
+      "title": "Finance Director",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "Asia, Malaysia, Kuala Lumpur",
+      "location_normalized": "Asia, Malaysia, Kuala Lumpur",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Finance (Corporate)",
+      "posted_at": "2026-08-27T10:06:13-04:00",
+      "updated_at": "2026-08-27T10:06:13-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8690459002",
+      "source": "greenhouse",
+      "seniority": "Director",
+      "functions": [
+        "Finance & Accounting"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "greenhouse_8690346002",
       "title": "Finance Director",
       "company": "Sony Music Entertainment",
@@ -1636,13 +1636,13 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8690459002",
+      "id": "greenhouse_8690344002",
       "title": "Finance Director",
       "company": "Sony Music Entertainment",
       "company_id": "sony_music",
       "category": "Major Label",
-      "location": "Asia, Malaysia, Kuala Lumpur",
-      "location_normalized": "Asia, Malaysia, Kuala Lumpur",
+      "location": "Asia, Thailand, Bangkok",
+      "location_normalized": "Asia, Thailand, Bangkok",
       "is_remote": false,
       "salary_min": null,
       "salary_max": null,
@@ -1651,7 +1651,7 @@
       "department": "Finance (Corporate)",
       "posted_at": "2026-08-27T10:06:13-04:00",
       "updated_at": "2026-08-27T10:06:13-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8690459002",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8690344002",
       "source": "greenhouse",
       "seniority": "Director",
       "functions": [
@@ -6501,6 +6501,55 @@
       "seniority": null,
       "functions": [],
       "is_grad_relevant": false
+    },
+    {
+      "id": "lever_a1f02a45-6c50-4f21-8674-8d3245ecd253",
+      "title": "Lead, Business Development & Licensing - Sureel AI",
+      "company": "Warner Music Group",
+      "company_id": "warner_music",
+      "category": "Major Label",
+      "location": "Ontario",
+      "location_normalized": "Ontario",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Sureel",
+      "posted_at": "2026-08-28T19:53:51.652Z",
+      "updated_at": "2026-08-28T19:53:51.652Z",
+      "apply_url": "https://jobs.lever.co/wmg/a1f02a45-6c50-4f21-8674-8d3245ecd253",
+      "source": "lever",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Strategy & Biz Dev",
+        "Legal & Business Affairs"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "lever_f2187b2a-0ef4-4707-9abc-0c8ce7662629",
+      "title": "Lead, Client Partnerships- Sureel",
+      "company": "Warner Music Group",
+      "company_id": "warner_music",
+      "category": "Major Label",
+      "location": "Ontario",
+      "location_normalized": "Ontario",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Sureel",
+      "posted_at": "2026-08-28T19:50:15.405Z",
+      "updated_at": "2026-08-28T19:50:15.405Z",
+      "apply_url": "https://jobs.lever.co/wmg/f2187b2a-0ef4-4707-9abc-0c8ce7662629",
+      "source": "lever",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Strategy & Biz Dev"
+      ],
+      "is_grad_relevant": true
     },
     {
       "id": "lever_6d31b5ab-c765-4a9b-a96a-cc4923a88e20",
