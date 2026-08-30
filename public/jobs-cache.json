@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T13:04:29.058Z",
+  "generated_at": "2026-08-30T12:41:06.248Z",
   "total": 300,
   "jobs": [
     {
@@ -1540,6 +1540,30 @@
       "is_grad_relevant": true
     },
     {
+      "id": "greenhouse_8690344002",
+      "title": "Finance Director",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "Asia, Thailand, Bangkok",
+      "location_normalized": "Asia, Thailand, Bangkok",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Finance (Corporate)",
+      "posted_at": "2026-08-27T10:06:13-04:00",
+      "updated_at": "2026-08-27T10:06:13-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8690344002",
+      "source": "greenhouse",
+      "seniority": "Director",
+      "functions": [
+        "Finance & Accounting"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "greenhouse_8690322002",
       "title": "Finance Director",
       "company": "Sony Music Entertainment",
@@ -1588,30 +1612,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8690459002",
-      "title": "Finance Director",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "Asia, Malaysia, Kuala Lumpur",
-      "location_normalized": "Asia, Malaysia, Kuala Lumpur",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Finance (Corporate)",
-      "posted_at": "2026-08-27T10:06:13-04:00",
-      "updated_at": "2026-08-27T10:06:13-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8690459002",
-      "source": "greenhouse",
-      "seniority": "Director",
-      "functions": [
-        "Finance & Accounting"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "greenhouse_8690346002",
       "title": "Finance Director",
       "company": "Sony Music Entertainment",
@@ -1636,13 +1636,13 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8690344002",
+      "id": "greenhouse_8690459002",
       "title": "Finance Director",
       "company": "Sony Music Entertainment",
       "company_id": "sony_music",
       "category": "Major Label",
-      "location": "Asia, Thailand, Bangkok",
-      "location_normalized": "Asia, Thailand, Bangkok",
+      "location": "Asia, Malaysia, Kuala Lumpur",
+      "location_normalized": "Asia, Malaysia, Kuala Lumpur",
       "is_remote": false,
       "salary_min": null,
       "salary_max": null,
@@ -1651,7 +1651,7 @@
       "department": "Finance (Corporate)",
       "posted_at": "2026-08-27T10:06:13-04:00",
       "updated_at": "2026-08-27T10:06:13-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8690344002",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8690459002",
       "source": "greenhouse",
       "seniority": "Director",
       "functions": [
