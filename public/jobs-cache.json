@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T12:06:19.999Z",
-  "total": 289,
+  "generated_at": "2026-09-12T11:32:16.887Z",
+  "total": 288,
   "jobs": [
     {
       "id": "greenhouse_8782517002",
@@ -998,6 +998,30 @@
       "is_grad_relevant": false
     },
     {
+      "id": "greenhouse_8796329002",
+      "title": "Coordinator, Digital Marketing & Artist Development - Sony Music Nashville",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "United States, Tennessee, Nashville",
+      "location_normalized": "United States, Tennessee, Nashville",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Nashville Frontline",
+      "posted_at": "2026-09-11T17:08:36-04:00",
+      "updated_at": "2026-09-11T17:08:36-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8796329002",
+      "source": "greenhouse",
+      "seniority": "Entry/Associate",
+      "functions": [
+        "Marketing"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "greenhouse_8535099002",
       "title": "Coordinator, Fan Engagement",
       "company": "Sony Music Entertainment",
@@ -1018,30 +1042,6 @@
       "seniority": "Entry/Associate",
       "functions": [],
       "is_grad_relevant": false
-    },
-    {
-      "id": "greenhouse_8604366002",
-      "title": "Coordinator, IP Licensing",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, New York, New York",
-      "location_normalized": "United States, New York, New York",
-      "is_remote": false,
-      "salary_min": 47000,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Corporate/Shared Services",
-      "posted_at": "2026-09-02T09:12:37-04:00",
-      "updated_at": "2026-09-02T09:12:37-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8604366002",
-      "source": "greenhouse",
-      "seniority": "Entry/Associate",
-      "functions": [
-        "Legal & Business Affairs"
-      ],
-      "is_grad_relevant": true
     },
     {
       "id": "greenhouse_8782628002",
@@ -1068,6 +1068,30 @@
       "is_grad_relevant": true
     },
     {
+      "id": "greenhouse_8604366002",
+      "title": "Coordinator, IP Licensing",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "United States, New York, New York",
+      "location_normalized": "United States, New York, New York",
+      "is_remote": false,
+      "salary_min": 47000,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Corporate/Shared Services",
+      "posted_at": "2026-09-02T09:12:37-04:00",
+      "updated_at": "2026-09-02T09:12:37-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8604366002",
+      "source": "greenhouse",
+      "seniority": "Entry/Associate",
+      "functions": [
+        "Legal & Business Affairs"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "greenhouse_8728599002",
       "title": "Coordinator, Production - The Merch Collective   ",
       "company": "Sony Music Entertainment",
@@ -1081,8 +1105,8 @@
       "salary_text": null,
       "salary_currency": "USD",
       "department": "The Merch Collective",
-      "posted_at": "2026-09-02T09:12:37-04:00",
-      "updated_at": "2026-09-02T09:12:37-04:00",
+      "posted_at": "2026-09-11T11:52:22-04:00",
+      "updated_at": "2026-09-11T11:52:22-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8728599002",
       "source": "greenhouse",
       "seniority": "Entry/Associate",
@@ -1578,6 +1602,30 @@
       "is_grad_relevant": true
     },
     {
+      "id": "greenhouse_8690346002",
+      "title": "Finance Director",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "Asia, Indonesia, Jakarta",
+      "location_normalized": "Asia, Indonesia, Jakarta",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Finance (Corporate)",
+      "posted_at": "2026-09-02T09:12:37-04:00",
+      "updated_at": "2026-09-02T09:12:37-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8690346002",
+      "source": "greenhouse",
+      "seniority": "Director",
+      "functions": [
+        "Finance & Accounting"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "greenhouse_8690596002",
       "title": "Finance Director",
       "company": "Sony Music Entertainment",
@@ -1594,30 +1642,6 @@
       "posted_at": "2026-09-02T09:12:37-04:00",
       "updated_at": "2026-09-02T09:12:37-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8690596002",
-      "source": "greenhouse",
-      "seniority": "Director",
-      "functions": [
-        "Finance & Accounting"
-      ],
-      "is_grad_relevant": true
-    },
-    {
-      "id": "greenhouse_8690322002",
-      "title": "Finance Director",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "Asia, Philippines, Manila",
-      "location_normalized": "Asia, Philippines, Manila",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Finance (Corporate)",
-      "posted_at": "2026-09-02T09:12:37-04:00",
-      "updated_at": "2026-09-02T09:12:37-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8690322002",
       "source": "greenhouse",
       "seniority": "Director",
       "functions": [
@@ -1650,13 +1674,13 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8690346002",
+      "id": "greenhouse_8690322002",
       "title": "Finance Director",
       "company": "Sony Music Entertainment",
       "company_id": "sony_music",
       "category": "Major Label",
-      "location": "Asia, Indonesia, Jakarta",
-      "location_normalized": "Asia, Indonesia, Jakarta",
+      "location": "Asia, Philippines, Manila",
+      "location_normalized": "Asia, Philippines, Manila",
       "is_remote": false,
       "salary_min": null,
       "salary_max": null,
@@ -1665,7 +1689,7 @@
       "department": "Finance (Corporate)",
       "posted_at": "2026-09-02T09:12:37-04:00",
       "updated_at": "2026-09-02T09:12:37-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8690346002",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8690322002",
       "source": "greenhouse",
       "seniority": "Director",
       "functions": [
@@ -4015,28 +4039,6 @@
       "is_grad_relevant": false
     },
     {
-      "id": "greenhouse_8537970002",
-      "title": "Sr. Context Director",
-      "company": "UnitedMasters",
-      "company_id": "unitedmasters",
-      "category": "Music Tech",
-      "location": "Brooklyn, New York",
-      "location_normalized": "Brooklyn, New York",
-      "is_remote": false,
-      "salary_min": 145000,
-      "salary_max": 170000,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Context",
-      "posted_at": "2026-06-05T16:30:31-04:00",
-      "updated_at": "2026-06-05T16:30:31-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/unitedmasterstranslation/jobs/8537970002",
-      "source": "greenhouse",
-      "seniority": "Director",
-      "functions": [],
-      "is_grad_relevant": false
-    },
-    {
       "id": "greenhouse_8748043002",
       "title": "Sr. Producer",
       "company": "UnitedMasters",
@@ -4248,6 +4250,30 @@
       "seniority": null,
       "functions": [
         "Analytics & Data"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8796078002",
+      "title": "Junior Freelance Video Editor (Remote US)",
+      "company": "Splice",
+      "company_id": "splice",
+      "category": "Music Tech",
+      "location": "Remote - U.S.",
+      "location_normalized": "Remote - U.S.",
+      "is_remote": true,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Marketing",
+      "posted_at": "2026-09-11T11:52:36-04:00",
+      "updated_at": "2026-09-11T11:52:36-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/splice/jobs/8796078002",
+      "source": "greenhouse",
+      "seniority": null,
+      "functions": [
+        "Marketing"
       ],
       "is_grad_relevant": true
     },
@@ -5228,30 +5254,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "lever_eba7e621-6236-42ee-acad-aaa5df6929c3",
-      "title": "Senior Accountant, Paid Revenue",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "New York, NY",
-      "location_normalized": "New York, NY",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Accounting",
-      "posted_at": "2026-08-17T16:58:45.881Z",
-      "updated_at": "2026-08-17T16:58:45.881Z",
-      "apply_url": "https://jobs.lever.co/spotify/eba7e621-6236-42ee-acad-aaa5df6929c3",
-      "source": "lever",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Finance & Accounting"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "lever_88b0a5ea-65d8-4c0c-8d1f-c30989ea5c16",
       "title": "Senior Backend Engineer - Commerce Platform",
       "company": "Spotify",
@@ -5597,30 +5599,6 @@
       "seniority": "Manager/Senior",
       "functions": [
         "Strategy & Biz Dev"
-      ],
-      "is_grad_relevant": true
-    },
-    {
-      "id": "lever_f6c45551-3bb2-4b62-9b7f-02f2b3a3441b",
-      "title": "Senior Product Designer - Subscriptions",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "Stockholm",
-      "location_normalized": "Stockholm",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Subscriptions R&D",
-      "posted_at": "2026-08-28T14:29:29.292Z",
-      "updated_at": "2026-08-28T14:29:29.292Z",
-      "apply_url": "https://jobs.lever.co/spotify/f6c45551-3bb2-4b62-9b7f-02f2b3a3441b",
-      "source": "lever",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Technology & Product"
       ],
       "is_grad_relevant": true
     },
