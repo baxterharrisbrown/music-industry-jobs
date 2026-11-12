@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T14:59:25.288Z",
-  "total": 301,
+  "generated_at": "2026-11-12T15:51:56.865Z",
+  "total": 300,
   "jobs": [
     {
       "id": "greenhouse_8782517002",
@@ -846,30 +846,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8842809002",
-      "title": "Coordinator, BLA and A&R Admin - Masterworks",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, New York, New York",
-      "location_normalized": "United States, New York, New York",
-      "is_remote": false,
-      "salary_min": 50000,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Masterworks",
-      "posted_at": "2026-10-07T10:58:20-04:00",
-      "updated_at": "2026-10-07T10:58:20-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8842809002",
-      "source": "greenhouse",
-      "seniority": "Entry/Associate",
-      "functions": [
-        "Artist & Label Services"
-      ],
-      "is_grad_relevant": false
-    },
-    {
       "id": "greenhouse_8796329002",
       "title": "Coordinator, Digital Marketing & Artist Development - Sony Music Nashville",
       "company": "Sony Music Entertainment",
@@ -1035,30 +1011,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8459858002",
-      "title": "Director A&R - AWAL",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, California, Los Angeles",
-      "location_normalized": "United States, California, Los Angeles",
-      "is_remote": false,
-      "salary_min": 90000,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "AWAL",
-      "posted_at": "2026-10-07T10:58:20-04:00",
-      "updated_at": "2026-10-07T10:58:20-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8459858002",
-      "source": "greenhouse",
-      "seniority": "Director",
-      "functions": [
-        "Artist & Label Services"
-      ],
-      "is_grad_relevant": false
-    },
-    {
       "id": "greenhouse_8456238002",
       "title": "Director A&R - AWAL",
       "company": "Sony Music Entertainment",
@@ -1075,6 +1027,30 @@
       "posted_at": "2026-10-07T10:58:20-04:00",
       "updated_at": "2026-10-07T10:58:20-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8456238002",
+      "source": "greenhouse",
+      "seniority": "Director",
+      "functions": [
+        "Artist & Label Services"
+      ],
+      "is_grad_relevant": false
+    },
+    {
+      "id": "greenhouse_8459858002",
+      "title": "Director A&R - AWAL",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "United States, California, Los Angeles",
+      "location_normalized": "United States, California, Los Angeles",
+      "is_remote": false,
+      "salary_min": 90000,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "AWAL",
+      "posted_at": "2026-10-07T10:58:20-04:00",
+      "updated_at": "2026-10-07T10:58:20-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8459858002",
       "source": "greenhouse",
       "seniority": "Director",
       "functions": [
@@ -1153,30 +1129,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8908517002",
-      "title": "Director, Digital Retail Partnership and Marketing- The Orchard",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "Asia, Taiwan, Taipei",
-      "location_normalized": "Asia, Taiwan, Taipei",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "The Orchard",
-      "posted_at": "2026-10-22T07:02:44-04:00",
-      "updated_at": "2026-10-22T07:02:44-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8908517002",
-      "source": "greenhouse",
-      "seniority": "Director",
-      "functions": [
-        "Marketing"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "greenhouse_8908507002",
       "title": "Director, Digital Retail Partnership and Marketing- The Orchard",
       "company": "Sony Music Entertainment",
@@ -1193,6 +1145,30 @@
       "posted_at": "2026-10-22T06:54:25-04:00",
       "updated_at": "2026-10-22T06:54:25-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8908507002",
+      "source": "greenhouse",
+      "seniority": "Director",
+      "functions": [
+        "Marketing"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8908517002",
+      "title": "Director, Digital Retail Partnership and Marketing- The Orchard",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "Asia, Taiwan, Taipei",
+      "location_normalized": "Asia, Taiwan, Taipei",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "The Orchard",
+      "posted_at": "2026-10-22T07:02:44-04:00",
+      "updated_at": "2026-10-22T07:02:44-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8908517002",
       "source": "greenhouse",
       "seniority": "Director",
       "functions": [
@@ -1339,13 +1315,13 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8690344002",
+      "id": "greenhouse_8690596002",
       "title": "Finance Director",
       "company": "Sony Music Entertainment",
       "company_id": "sony_music",
       "category": "Major Label",
-      "location": "Asia, Thailand, Bangkok",
-      "location_normalized": "Asia, Thailand, Bangkok",
+      "location": "Asia, Vietnam, Ho Chi Minh City",
+      "location_normalized": "Asia, Vietnam, Ho Chi Minh City",
       "is_remote": false,
       "salary_min": null,
       "salary_max": null,
@@ -1354,7 +1330,7 @@
       "department": "Finance (Corporate)",
       "posted_at": "2026-10-07T10:58:20-04:00",
       "updated_at": "2026-10-07T10:58:20-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8690344002",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8690596002",
       "source": "greenhouse",
       "seniority": "Director",
       "functions": [
@@ -1387,13 +1363,13 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8690596002",
+      "id": "greenhouse_8690344002",
       "title": "Finance Director",
       "company": "Sony Music Entertainment",
       "company_id": "sony_music",
       "category": "Major Label",
-      "location": "Asia, Vietnam, Ho Chi Minh City",
-      "location_normalized": "Asia, Vietnam, Ho Chi Minh City",
+      "location": "Asia, Thailand, Bangkok",
+      "location_normalized": "Asia, Thailand, Bangkok",
       "is_remote": false,
       "salary_min": null,
       "salary_max": null,
@@ -1402,7 +1378,7 @@
       "department": "Finance (Corporate)",
       "posted_at": "2026-10-07T10:58:20-04:00",
       "updated_at": "2026-10-07T10:58:20-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8690596002",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8690344002",
       "source": "greenhouse",
       "seniority": "Director",
       "functions": [
@@ -1694,30 +1670,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8456255002",
-      "title": "Manager, A&R - AWAL",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "United States, New York, New York",
-      "location_normalized": "United States, New York, New York",
-      "is_remote": false,
-      "salary_min": 75000,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "AWAL",
-      "posted_at": "2026-10-07T10:58:20-04:00",
-      "updated_at": "2026-10-07T10:58:20-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8456255002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Artist & Label Services"
-      ],
-      "is_grad_relevant": false
-    },
-    {
       "id": "greenhouse_8459852002",
       "title": "Manager, A&R - AWAL",
       "company": "Sony Music Entertainment",
@@ -1734,6 +1686,30 @@
       "posted_at": "2026-10-07T10:58:20-04:00",
       "updated_at": "2026-10-07T10:58:20-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8459852002",
+      "source": "greenhouse",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Artist & Label Services"
+      ],
+      "is_grad_relevant": false
+    },
+    {
+      "id": "greenhouse_8456255002",
+      "title": "Manager, A&R - AWAL",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "United States, New York, New York",
+      "location_normalized": "United States, New York, New York",
+      "is_remote": false,
+      "salary_min": 75000,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "AWAL",
+      "posted_at": "2026-10-07T10:58:20-04:00",
+      "updated_at": "2026-10-07T10:58:20-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8456255002",
       "source": "greenhouse",
       "seniority": "Manager/Senior",
       "functions": [
@@ -1981,6 +1957,30 @@
       "is_grad_relevant": true
     },
     {
+      "id": "greenhouse_8929820002",
+      "title": "Manager – Special Projects",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "Asia, India, Mumbai",
+      "location_normalized": "Asia, India, Mumbai",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Finance - Shared Services",
+      "posted_at": "2026-11-11T10:07:20-05:00",
+      "updated_at": "2026-11-11T10:07:20-05:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8929820002",
+      "source": "greenhouse",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Finance & Accounting"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "greenhouse_8733614002",
       "title": "Marketing Manager",
       "company": "Sony Music Entertainment",
@@ -2097,30 +2097,6 @@
       "is_grad_relevant": false
     },
     {
-      "id": "greenhouse_8926119002",
-      "title": "Order-to-Cash Senior Digital Analyst- GFFS",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "Latin America, Mexico, Mexico City",
-      "location_normalized": "Latin America, Mexico, Mexico City",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Finance - Shared Services",
-      "posted_at": "2026-11-04T09:56:50-05:00",
-      "updated_at": "2026-11-04T09:56:50-05:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8926119002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Finance & Accounting"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "greenhouse_8926125002",
       "title": "Order-to-Cash Senior Digital Analyst- GFFS",
       "company": "Sony Music Entertainment",
@@ -2137,6 +2113,30 @@
       "posted_at": "2026-11-04T10:02:22-05:00",
       "updated_at": "2026-11-04T10:02:22-05:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8926125002",
+      "source": "greenhouse",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Finance & Accounting"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8926119002",
+      "title": "Order-to-Cash Senior Digital Analyst- GFFS",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "Latin America, Mexico, Mexico City",
+      "location_normalized": "Latin America, Mexico, Mexico City",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Finance - Shared Services",
+      "posted_at": "2026-11-04T09:56:50-05:00",
+      "updated_at": "2026-11-04T09:56:50-05:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8926119002",
       "source": "greenhouse",
       "seniority": "Manager/Senior",
       "functions": [
@@ -2194,28 +2194,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8867523002",
-      "title": "Physical Sales & E-Commerce Executive, SEA",
-      "company": "Sony Music Entertainment",
-      "company_id": "sony_music",
-      "category": "Major Label",
-      "location": "Asia, Philippines, Manila",
-      "location_normalized": "Asia, Philippines, Manila",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "SME Singapore",
-      "posted_at": "2026-10-14T22:23:15-04:00",
-      "updated_at": "2026-10-14T22:23:15-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8867523002",
-      "source": "greenhouse",
-      "seniority": null,
-      "functions": [],
-      "is_grad_relevant": false
-    },
-    {
       "id": "greenhouse_8781285002",
       "title": "Physical Sales & E-Commerce Executive, SEA",
       "company": "Sony Music Entertainment",
@@ -2232,6 +2210,28 @@
       "posted_at": "2026-10-23T01:21:18-04:00",
       "updated_at": "2026-10-23T01:21:18-04:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8781285002",
+      "source": "greenhouse",
+      "seniority": null,
+      "functions": [],
+      "is_grad_relevant": false
+    },
+    {
+      "id": "greenhouse_8867523002",
+      "title": "Physical Sales & E-Commerce Executive, SEA",
+      "company": "Sony Music Entertainment",
+      "company_id": "sony_music",
+      "category": "Major Label",
+      "location": "Asia, Philippines, Manila",
+      "location_normalized": "Asia, Philippines, Manila",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "SME Singapore",
+      "posted_at": "2026-10-14T22:23:15-04:00",
+      "updated_at": "2026-10-14T22:23:15-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8867523002",
       "source": "greenhouse",
       "seniority": null,
       "functions": [],
@@ -2872,8 +2872,8 @@
       "salary_text": null,
       "salary_currency": "USD",
       "department": "The Orchard",
-      "posted_at": "2026-11-05T12:37:22-05:00",
-      "updated_at": "2026-11-05T12:37:22-05:00",
+      "posted_at": "2026-11-11T12:59:03-05:00",
+      "updated_at": "2026-11-11T12:59:03-05:00",
       "apply_url": "https://job-boards.greenhouse.io/sonymusicentertainment/jobs/8902379002",
       "source": "greenhouse",
       "seniority": "Entry/Associate",
@@ -3202,30 +3202,6 @@
       "apply_url": "https://job-boards.greenhouse.io/soundexchangeinc/jobs/5265152007",
       "source": "greenhouse",
       "seniority": null,
-      "functions": [
-        "Technology & Product"
-      ],
-      "is_grad_relevant": true
-    },
-    {
-      "id": "greenhouse_5291677007",
-      "title": "Senior Software Engineer (Portals)",
-      "company": "SoundExchange",
-      "company_id": "soundexchange",
-      "category": "Rights & Royalties",
-      "location": "United States",
-      "location_normalized": "United States",
-      "is_remote": false,
-      "salary_min": 158000,
-      "salary_max": 190000,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Engineering",
-      "posted_at": "2026-11-10T17:10:54-05:00",
-      "updated_at": "2026-11-10T17:10:54-05:00",
-      "apply_url": "https://job-boards.greenhouse.io/soundexchangeinc/jobs/5291677007",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
       "functions": [
         "Technology & Product"
       ],
@@ -5358,24 +5334,24 @@
       "is_grad_relevant": true
     },
     {
-      "id": "lever_7f0a8faa-f4f5-4db9-9f51-4101d6a29b34",
-      "title": "Product Manager - Customer Service Platform",
+      "id": "lever_a9d581f9-1361-4227-b230-94a0d6ffdef4",
+      "title": "Product Designer",
       "company": "Spotify",
       "company_id": "spotify",
       "category": "Streaming",
-      "location": "London",
-      "location_normalized": "London",
+      "location": "Stockholm",
+      "location_normalized": "Stockholm",
       "is_remote": false,
       "salary_min": null,
       "salary_max": null,
       "salary_text": null,
       "salary_currency": "USD",
-      "department": "Subscriptions R&D",
-      "posted_at": "2026-09-02T13:37:50.524Z",
-      "updated_at": "2026-09-02T13:37:50.524Z",
-      "apply_url": "https://jobs.lever.co/spotify/7f0a8faa-f4f5-4db9-9f51-4101d6a29b34",
+      "department": "Platform",
+      "posted_at": "2026-11-04T10:00:48.656Z",
+      "updated_at": "2026-11-04T10:00:48.656Z",
+      "apply_url": "https://jobs.lever.co/spotify/a9d581f9-1361-4227-b230-94a0d6ffdef4",
       "source": "lever",
-      "seniority": "Manager/Senior",
+      "seniority": null,
       "functions": [
         "Technology & Product"
       ],
