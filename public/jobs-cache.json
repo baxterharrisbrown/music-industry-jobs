@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T15:12:55.194Z",
-  "total": 296,
+  "generated_at": "2026-11-14T14:00:09.389Z",
+  "total": 297,
   "jobs": [
     {
       "id": "greenhouse_8782517002",
@@ -3352,28 +3352,6 @@
       "is_grad_relevant": false
     },
     {
-      "id": "greenhouse_8931284002",
-      "title": "Business Director",
-      "company": "UnitedMasters",
-      "company_id": "unitedmasters",
-      "category": "Music Tech",
-      "location": "Brooklyn, NY",
-      "location_normalized": "Brooklyn, NY",
-      "is_remote": false,
-      "salary_min": 115000,
-      "salary_max": 135000,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Account Management",
-      "posted_at": "2026-11-12T16:30:33-05:00",
-      "updated_at": "2026-11-12T16:30:33-05:00",
-      "apply_url": "https://job-boards.greenhouse.io/unitedmasterstranslation/jobs/8931284002",
-      "source": "greenhouse",
-      "seniority": "Director",
-      "functions": [],
-      "is_grad_relevant": false
-    },
-    {
       "id": "greenhouse_8748012002",
       "title": "Business Director",
       "company": "UnitedMasters",
@@ -3390,6 +3368,28 @@
       "posted_at": "2026-11-06T10:20:12-05:00",
       "updated_at": "2026-11-06T10:20:12-05:00",
       "apply_url": "https://job-boards.greenhouse.io/unitedmasterstranslation/jobs/8748012002",
+      "source": "greenhouse",
+      "seniority": "Director",
+      "functions": [],
+      "is_grad_relevant": false
+    },
+    {
+      "id": "greenhouse_8931284002",
+      "title": "Business Director",
+      "company": "UnitedMasters",
+      "company_id": "unitedmasters",
+      "category": "Music Tech",
+      "location": "Brooklyn, NY",
+      "location_normalized": "Brooklyn, NY",
+      "is_remote": false,
+      "salary_min": 115000,
+      "salary_max": 135000,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Account Management",
+      "posted_at": "2026-11-12T16:30:33-05:00",
+      "updated_at": "2026-11-12T16:30:33-05:00",
+      "apply_url": "https://job-boards.greenhouse.io/unitedmasterstranslation/jobs/8931284002",
       "source": "greenhouse",
       "seniority": "Director",
       "functions": [],
@@ -3414,28 +3414,6 @@
       "apply_url": "https://job-boards.greenhouse.io/unitedmasterstranslation/jobs/8931229002",
       "source": "greenhouse",
       "seniority": "Director",
-      "functions": [],
-      "is_grad_relevant": false
-    },
-    {
-      "id": "greenhouse_8936701002",
-      "title": "Business Supervisor",
-      "company": "UnitedMasters",
-      "company_id": "unitedmasters",
-      "category": "Music Tech",
-      "location": "Brooklyn, New York",
-      "location_normalized": "Brooklyn, New York",
-      "is_remote": false,
-      "salary_min": 83000,
-      "salary_max": 100000,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Account Management",
-      "posted_at": "2026-11-10T14:16:33-05:00",
-      "updated_at": "2026-11-10T14:16:33-05:00",
-      "apply_url": "https://job-boards.greenhouse.io/unitedmasterstranslation/jobs/8936701002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
       "functions": [],
       "is_grad_relevant": false
     },
@@ -3484,6 +3462,28 @@
       "is_grad_relevant": false
     },
     {
+      "id": "greenhouse_8936701002",
+      "title": "Business Supervisor",
+      "company": "UnitedMasters",
+      "company_id": "unitedmasters",
+      "category": "Music Tech",
+      "location": "Brooklyn, New York",
+      "location_normalized": "Brooklyn, New York",
+      "is_remote": false,
+      "salary_min": 83000,
+      "salary_max": 100000,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Account Management",
+      "posted_at": "2026-11-10T14:16:33-05:00",
+      "updated_at": "2026-11-10T14:16:33-05:00",
+      "apply_url": "https://job-boards.greenhouse.io/unitedmasterstranslation/jobs/8936701002",
+      "source": "greenhouse",
+      "seniority": "Manager/Senior",
+      "functions": [],
+      "is_grad_relevant": false
+    },
+    {
       "id": "greenhouse_8821978002",
       "title": "Commerce & Artist Marketing Coordinator",
       "company": "UnitedMasters",
@@ -3508,28 +3508,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8931199002",
-      "title": "Context Director",
-      "company": "UnitedMasters",
-      "company_id": "unitedmasters",
-      "category": "Music Tech",
-      "location": "Brooklyn, NY",
-      "location_normalized": "Brooklyn, NY",
-      "is_remote": false,
-      "salary_min": 120000,
-      "salary_max": 140000,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Context",
-      "posted_at": "2026-11-04T16:58:13-05:00",
-      "updated_at": "2026-11-04T16:58:13-05:00",
-      "apply_url": "https://job-boards.greenhouse.io/unitedmasterstranslation/jobs/8931199002",
-      "source": "greenhouse",
-      "seniority": "Director",
-      "functions": [],
-      "is_grad_relevant": false
-    },
-    {
       "id": "greenhouse_8936947002",
       "title": "Context Director",
       "company": "UnitedMasters",
@@ -3546,6 +3524,28 @@
       "posted_at": "2026-11-10T16:27:34-05:00",
       "updated_at": "2026-11-10T16:27:34-05:00",
       "apply_url": "https://job-boards.greenhouse.io/unitedmasterstranslation/jobs/8936947002",
+      "source": "greenhouse",
+      "seniority": "Director",
+      "functions": [],
+      "is_grad_relevant": false
+    },
+    {
+      "id": "greenhouse_8931199002",
+      "title": "Context Director",
+      "company": "UnitedMasters",
+      "company_id": "unitedmasters",
+      "category": "Music Tech",
+      "location": "Brooklyn, NY",
+      "location_normalized": "Brooklyn, NY",
+      "is_remote": false,
+      "salary_min": 120000,
+      "salary_max": 140000,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Context",
+      "posted_at": "2026-11-04T16:58:13-05:00",
+      "updated_at": "2026-11-04T16:58:13-05:00",
+      "apply_url": "https://job-boards.greenhouse.io/unitedmasterstranslation/jobs/8931199002",
       "source": "greenhouse",
       "seniority": "Director",
       "functions": [],
@@ -3572,30 +3572,6 @@
       "seniority": null,
       "functions": [],
       "is_grad_relevant": false
-    },
-    {
-      "id": "greenhouse_8687473002",
-      "title": "Creative Operations Lead",
-      "company": "UnitedMasters",
-      "company_id": "unitedmasters",
-      "category": "Music Tech",
-      "location": "Brooklyn, NY ",
-      "location_normalized": "Brooklyn, NY",
-      "is_remote": false,
-      "salary_min": 140000,
-      "salary_max": 165000,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Project Management",
-      "posted_at": "2026-10-08T15:46:30-04:00",
-      "updated_at": "2026-10-08T15:46:30-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/unitedmasterstranslation/jobs/8687473002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Operations"
-      ],
-      "is_grad_relevant": true
     },
     {
       "id": "greenhouse_8879500002",
@@ -3761,30 +3737,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8792062002",
-      "title": "Program Manager",
-      "company": "UnitedMasters",
-      "company_id": "unitedmasters",
-      "category": "Music Tech",
-      "location": "Brooklyn, New York",
-      "location_normalized": "Brooklyn, New York",
-      "is_remote": false,
-      "salary_min": 70000,
-      "salary_max": 90000,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Project Management",
-      "posted_at": "2026-09-22T18:39:22-04:00",
-      "updated_at": "2026-09-22T18:39:22-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/unitedmasterstranslation/jobs/8792062002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Operations"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "greenhouse_8937093002",
       "title": "Program Manager",
       "company": "UnitedMasters",
@@ -3801,6 +3753,30 @@
       "posted_at": "2026-11-10T17:49:01-05:00",
       "updated_at": "2026-11-10T17:49:01-05:00",
       "apply_url": "https://job-boards.greenhouse.io/unitedmasterstranslation/jobs/8937093002",
+      "source": "greenhouse",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Operations"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8792062002",
+      "title": "Program Manager",
+      "company": "UnitedMasters",
+      "company_id": "unitedmasters",
+      "category": "Music Tech",
+      "location": "Brooklyn, New York",
+      "location_normalized": "Brooklyn, New York",
+      "is_remote": false,
+      "salary_min": 70000,
+      "salary_max": 90000,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Project Management",
+      "posted_at": "2026-09-22T18:39:22-04:00",
+      "updated_at": "2026-09-22T18:39:22-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/unitedmasterstranslation/jobs/8792062002",
       "source": "greenhouse",
       "seniority": "Manager/Senior",
       "functions": [
@@ -3947,30 +3923,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "greenhouse_8585826002",
-      "title": "Staff Product Manager",
-      "company": "UnitedMasters",
-      "company_id": "unitedmasters",
-      "category": "Music Tech",
-      "location": "San Francisco, CA",
-      "location_normalized": "San Francisco, CA",
-      "is_remote": false,
-      "salary_min": 195000,
-      "salary_max": 230000,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Product",
-      "posted_at": "2026-06-22T13:34:48-04:00",
-      "updated_at": "2026-06-22T13:34:48-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/unitedmasterstranslation/jobs/8585826002",
-      "source": "greenhouse",
-      "seniority": "Manager/Senior",
-      "functions": [
-        "Technology & Product"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "greenhouse_8895093002",
       "title": "Staff Site Reliability Engineer",
       "company": "UnitedMasters",
@@ -3991,30 +3943,6 @@
       "seniority": null,
       "functions": [
         "Technology & Product"
-      ],
-      "is_grad_relevant": true
-    },
-    {
-      "id": "greenhouse_8707583002",
-      "title": "Strategy Director",
-      "company": "UnitedMasters",
-      "company_id": "unitedmasters",
-      "category": "Music Tech",
-      "location": "New York",
-      "location_normalized": "New York",
-      "is_remote": false,
-      "salary_min": 140000,
-      "salary_max": 165000,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Translation Strategy",
-      "posted_at": "2026-10-05T19:45:09-04:00",
-      "updated_at": "2026-10-05T19:45:09-04:00",
-      "apply_url": "https://job-boards.greenhouse.io/unitedmasterstranslation/jobs/8707583002",
-      "source": "greenhouse",
-      "seniority": "Director",
-      "functions": [
-        "Strategy & Biz Dev"
       ],
       "is_grad_relevant": true
     },
@@ -4040,6 +3968,30 @@
       "functions": [
         "Strategy & Biz Dev",
         "People & Talent"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "greenhouse_8707583002",
+      "title": "Strategy Director",
+      "company": "UnitedMasters",
+      "company_id": "unitedmasters",
+      "category": "Music Tech",
+      "location": "New York",
+      "location_normalized": "New York",
+      "is_remote": false,
+      "salary_min": 140000,
+      "salary_max": 165000,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Translation Strategy",
+      "posted_at": "2026-10-05T19:45:09-04:00",
+      "updated_at": "2026-10-05T19:45:09-04:00",
+      "apply_url": "https://job-boards.greenhouse.io/unitedmasterstranslation/jobs/8707583002",
+      "source": "greenhouse",
+      "seniority": "Director",
+      "functions": [
+        "Strategy & Biz Dev"
       ],
       "is_grad_relevant": true
     },
@@ -4685,6 +4637,54 @@
       "functions": [
         "Strategy & Biz Dev",
         "Operations",
+        "Analytics & Data"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "lever_1bbaf909-5ff3-4ed6-87ca-f7ff007a169c",
+      "title": "Data Scientist - Music Mission",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "New York, NY",
+      "location_normalized": "New York, NY",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Music",
+      "posted_at": "2026-06-22T17:14:00.858Z",
+      "updated_at": "2026-06-22T17:14:00.858Z",
+      "apply_url": "https://jobs.lever.co/spotify/1bbaf909-5ff3-4ed6-87ca-f7ff007a169c",
+      "source": "lever",
+      "seniority": null,
+      "functions": [
+        "Analytics & Data"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "lever_56ea6f2e-f20b-4e46-ab94-d3eb0a89482d",
+      "title": "Data Scientist - Music Promotion",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "New York, NY",
+      "location_normalized": "New York, NY",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Music",
+      "posted_at": "2026-09-10T13:13:31.096Z",
+      "updated_at": "2026-09-10T13:13:31.096Z",
+      "apply_url": "https://jobs.lever.co/spotify/56ea6f2e-f20b-4e46-ab94-d3eb0a89482d",
+      "source": "lever",
+      "seniority": null,
+      "functions": [
         "Analytics & Data"
       ],
       "is_grad_relevant": true
@@ -5459,30 +5459,6 @@
       "is_grad_relevant": true
     },
     {
-      "id": "lever_cb29d857-395b-401d-9749-367e666ff870",
-      "title": "Security Engineer - Detection and Response",
-      "company": "Spotify",
-      "company_id": "spotify",
-      "category": "Streaming",
-      "location": "New York, NY",
-      "location_normalized": "New York, NY",
-      "is_remote": false,
-      "salary_min": null,
-      "salary_max": null,
-      "salary_text": null,
-      "salary_currency": "USD",
-      "department": "Platform",
-      "posted_at": "2026-09-24T18:52:39.195Z",
-      "updated_at": "2026-09-24T18:52:39.195Z",
-      "apply_url": "https://jobs.lever.co/spotify/cb29d857-395b-401d-9749-367e666ff870",
-      "source": "lever",
-      "seniority": null,
-      "functions": [
-        "Technology & Product"
-      ],
-      "is_grad_relevant": true
-    },
-    {
       "id": "lever_1ee5dcb7-a5fe-465b-91da-d42ebab374c8",
       "title": "Security Engineer - Product Security",
       "company": "Spotify",
@@ -6153,6 +6129,31 @@
       "is_grad_relevant": true
     },
     {
+      "id": "lever_d9e57c3c-1c0a-483b-a783-6d1c9f2ce057",
+      "title": "Social Strategy Manager - Podcasts, Audiobooks & Fitness",
+      "company": "Spotify",
+      "company_id": "spotify",
+      "category": "Streaming",
+      "location": "New York, NY",
+      "location_normalized": "New York, NY",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Marketing",
+      "posted_at": "2026-10-08T16:00:24.711Z",
+      "updated_at": "2026-10-08T16:00:24.711Z",
+      "apply_url": "https://jobs.lever.co/spotify/d9e57c3c-1c0a-483b-a783-6d1c9f2ce057",
+      "source": "lever",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Strategy & Biz Dev",
+        "Marketing"
+      ],
+      "is_grad_relevant": true
+    },
+    {
       "id": "lever_4c0aa107-bdb7-4061-b2c7-be616e059340",
       "title": "Staff Backend Engineer - Content Platform",
       "company": "Spotify",
@@ -6673,6 +6674,31 @@
       "seniority": "Manager/Senior",
       "functions": [
         "Analytics & Data",
+        "Technology & Product"
+      ],
+      "is_grad_relevant": true
+    },
+    {
+      "id": "lever_b0dec5db-563e-45ad-918b-0d2f616934b5",
+      "title": "Senior Product Manager, Rights & Royalties Modernization",
+      "company": "Warner Music Group",
+      "company_id": "warner_music",
+      "category": "Major Label",
+      "location": "Toronto, Ontario",
+      "location_normalized": "Toronto, Ontario",
+      "is_remote": false,
+      "salary_min": null,
+      "salary_max": null,
+      "salary_text": null,
+      "salary_currency": "USD",
+      "department": "Product Management",
+      "posted_at": "2026-11-13T18:23:15.708Z",
+      "updated_at": "2026-11-13T18:23:15.708Z",
+      "apply_url": "https://jobs.lever.co/wmg/b0dec5db-563e-45ad-918b-0d2f616934b5",
+      "source": "lever",
+      "seniority": "Manager/Senior",
+      "functions": [
+        "Legal & Business Affairs",
         "Technology & Product"
       ],
       "is_grad_relevant": true
